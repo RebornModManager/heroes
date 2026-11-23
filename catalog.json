@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T17:24:40+01:00",
+    "generated":  "2026-11-23T19:01:03+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
@@ -1949,8 +1949,8 @@
                                    "zip":  {
                                                "asset":  "DeadwoodMisfitDeadwood.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodMisfitDeadwood.zip",
-                                               "size":  11905167,
-                                               "sha256":  "a4c12648d176506702d0537b8c56815a387ca766976bbb2faf034ce20abd33be"
+                                               "size":  11948258,
+                                               "sha256":  "d300f2ce7ea8df377df036b7ada734572a46ab3d50ac6f0ad23e292738ab547b"
                                            },
                                    "preview":  {
                                                    "asset":  "DeadwoodMisfitDeadwood.html",
@@ -1959,7 +1959,7 @@
                                                    "sha256":  "0e5e51b79092e95dd9bfe32a7cc62aab082ddcf20d002171eff710475076350a"
                                                }
                                },
-                     "source_sha256":  "83e1a76b391aaedbb8a6b0a6fd0c45937d9a0777d08766e8eeb246f7c92ccad6",
+                     "source_sha256":  "b455ac220f8e15404653a5ec4fa0a972e2895b8cea6c288db9c6ee120413755d",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -1980,8 +1980,8 @@
                                    "zip":  {
                                                "asset":  "DeadwoodPlushieDeadwood.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodPlushieDeadwood.zip",
-                                               "size":  11062090,
-                                               "sha256":  "5444b1a9b244f1d3b5522eadd93961e9966b92c7905614c2cf41b3b69636a19d"
+                                               "size":  11100785,
+                                               "sha256":  "2e0853c62335681009c26e765bafdd4b8bba67c73a5600d85b98b906895ead63"
                                            },
                                    "preview":  {
                                                    "asset":  "DeadwoodPlushieDeadwood.html",
@@ -1990,7 +1990,7 @@
                                                    "sha256":  "9774a005f2aaf8e708abd3c669ae200660897f8a1b7f5abdbd047ea7ec7f7891"
                                                }
                                },
-                     "source_sha256":  "b5c3ebbd7bbdcfbda44e297f16fef3e066fecc433fc288d4b7868fd8c981443a",
+                     "source_sha256":  "ec7b3046258c1cf117bd5d51fa79d644b2237235e8fd16316509f33fa12ae5d8",
                      "updated":  "2026-11-23"
                  },
                  {
