@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:51:05+01:00",
+    "generated":  "2026-11-23T12:53:59+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  3911598,
-                  "sha256":  "1107080db3888bf5232bd863245798fa826ce722943276f1cd6385f1ae5aead2"
+                  "size":  4315432,
+                  "sha256":  "ab2380a2d5effb66620c478918d160dc706e998f7cd5fae447fd70f48ba9d534"
               },
     "mods":  [
                  {
@@ -3882,6 +3882,781 @@
                                                }
                                },
                      "source_sha256":  "faea4e67a86c4cedd1d82add29c9aec22021c8383f1854ed6760c0d12eac2d21",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HammerstormFlex",
+                     "kind":  "heroes",
+                     "name":  "Hammerstorm - F.L.E.X",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hammerstorm/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/HammerstormFlex/HammerstormFlex.psd1",
+                     "icon":  "mods/HammerstormFlex/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HammerstormFlex.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormFlex.zip",
+                                               "size":  9923827,
+                                               "sha256":  "eb941190c9b66c1c1a0fb3e7f53a138db9257579207fd00b14f291ae29e1f7e5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HammerstormFlex.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HammerstormFlex.html",
+                                                   "size":  18228624,
+                                                   "sha256":  "0ca9814f30507a135e1e9f16d95299ac5e5b653891e4388436044da93ad14afd"
+                                               }
+                               },
+                     "source_sha256":  "78c9e87e9153df085a3132e1488d04066a2106845420ae2ed2eafacadec666bc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HammerstormGuts",
+                     "kind":  "heroes",
+                     "name":  "Hammerstorm - Guts Skin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hammerstorm/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/HammerstormGuts/HammerstormGuts.psd1",
+                     "icon":  "mods/HammerstormGuts/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HammerstormGuts.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormGuts.zip",
+                                               "size":  42511104,
+                                               "sha256":  "0460f15117ecfc85194d2cfab93b65af39800cb6a1eaebe6c402e726a336b2c5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HammerstormGuts.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HammerstormGuts.html",
+                                                   "size":  11943895,
+                                                   "sha256":  "b57a56638cec48a6fcc937e10500fcf877f8c0d495de6bc174d3eb4b32362fc5"
+                                               }
+                               },
+                     "source_sha256":  "93937cb630e194eb09c681ea7f531408b171598b7f8863cb0618aa9d432f0ee0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HammerstormLocksmasher",
+                     "kind":  "heroes",
+                     "name":  "Hammerstorm - Locksmasher",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hammerstorm/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/HammerstormLocksmasher/HammerstormLocksmasher.psd1",
+                     "icon":  "mods/HammerstormLocksmasher/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HammerstormLocksmasher.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormLocksmasher.zip",
+                                               "size":  11935794,
+                                               "sha256":  "0fde01da807037c236353afb3c6d43a8c5777f7785829e82c6a260077f45b646"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HammerstormLocksmasher.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HammerstormLocksmasher.html",
+                                                   "size":  19684031,
+                                                   "sha256":  "a68f6b970c79e13e3d76beaec7ea4cb26fdbb98d18c522fe9a81474cfe58c34f"
+                                               }
+                               },
+                     "source_sha256":  "48fb94786cbad30f3db32ca1091c75a4064050bf635ad625368985dd6eeaa0b0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HammerstormWrath",
+                     "kind":  "heroes",
+                     "name":  "Hammerstorm - Wrath",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hammerstorm/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/HammerstormWrath/HammerstormWrath.psd1",
+                     "icon":  "mods/HammerstormWrath/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HammerstormWrath.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormWrath.zip",
+                                               "size":  15331206,
+                                               "sha256":  "c56a0d71db85f72056746a73f29dfce55dcf9f2bf7a4ccf3c8e0872d29dd07fb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HammerstormWrath.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HammerstormWrath.html",
+                                                   "size":  27536320,
+                                                   "sha256":  "d85710f4a770e63d639b24c95b1da4753586b0fc1b9d7c74e96add21f99fae61"
+                                               }
+                               },
+                     "source_sha256":  "e5cb1374ba58bad9ce243852f766b1254757fa7042660d857d3302f9c028718a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HellbringerElementbringer",
+                     "kind":  "heroes",
+                     "name":  "Hellbringer - Elementbringer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hellbringer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/HellbringerElementbringer/HellbringerElementbringer.psd1",
+                     "icon":  "mods/HellbringerElementbringer/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HellbringerElementbringer.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HellbringerElementbringer.zip",
+                                               "size":  17201968,
+                                               "sha256":  "422be10d62ff88563e3d6fdec08db807f7de3efec7d80a23f0339f5002ca6263"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HellbringerElementbringer.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HellbringerElementbringer.html",
+                                                   "size":  17140734,
+                                                   "sha256":  "f766ba7a58ac6b7702336e96b7c4b16dedcc3739e990ff39715f51e9f7818b7f"
+                                               }
+                               },
+                     "source_sha256":  "11654827e1531a265232c841d84103709aa910298f8ca2aeee4c8750e732037a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HellbringerPriestess",
+                     "kind":  "heroes",
+                     "name":  "Hellbringer - Priestess",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hellbringer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/HellbringerPriestess/HellbringerPriestess.psd1",
+                     "icon":  "mods/HellbringerPriestess/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HellbringerPriestess.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HellbringerPriestess.zip",
+                                               "size":  12172684,
+                                               "sha256":  "8357ce24fcbaed54d9af77bdb3c09e2596703c847db159f0f15931b092b7454f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HellbringerPriestess.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HellbringerPriestess.html",
+                                                   "size":  16415065,
+                                                   "sha256":  "2e3b04716f5c6f744b93c6bc65a515f886cff059d24ef9070549575da1a3db4d"
+                                               }
+                               },
+                     "source_sha256":  "5aaa1b03c6713bb0edfba8dddc993cad33092f767201c7f6474ca3b97df31ca1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "JeraziahBeastKing",
+                     "kind":  "heroes",
+                     "name":  "Jeraziah - Beast King",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "jeraziah/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-13",
+                     "patch":  false,
+                     "psd1":  "mods/JeraziahBeastKing/JeraziahBeastKing.psd1",
+                     "icon":  "mods/JeraziahBeastKing/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "JeraziahBeastKing.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/JeraziahBeastKing.zip",
+                                               "size":  9362070,
+                                               "sha256":  "28388acb4af72da4b158aca0b1aad2a25ed4ef58aade03e13dd6a2378ec9c93d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "JeraziahBeastKing.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/JeraziahBeastKing.html",
+                                                   "size":  16675795,
+                                                   "sha256":  "df75f4f9a0c2858a61b69e64ec3688933055682e554fefe32fd25a7087574522"
+                                               }
+                               },
+                     "source_sha256":  "1f1cbef69c7df79d2290b10a4cb8788ecbc8cc5bd3a4d92b22690643742e52bd",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "JeraziahDarkJeraziah",
+                     "kind":  "heroes",
+                     "name":  "Jeraziah - Dark Jeraziah",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "jeraziah/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-13",
+                     "patch":  false,
+                     "psd1":  "mods/JeraziahDarkJeraziah/JeraziahDarkJeraziah.psd1",
+                     "icon":  "mods/JeraziahDarkJeraziah/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "JeraziahDarkJeraziah.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/JeraziahDarkJeraziah.zip",
+                                               "size":  9552979,
+                                               "sha256":  "c022173d81f65a333523f4c8630f09ea4a1b5e62e3e17832e4661b7b8a0731ae"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "JeraziahDarkJeraziah.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/JeraziahDarkJeraziah.html",
+                                                   "size":  16939835,
+                                                   "sha256":  "09547b8941ba9fc86f4033b6ebe4454da7e65356f4b445fcb82914eb95d0b706"
+                                               }
+                               },
+                     "source_sha256":  "e9f8052fa676f9f3c956349d27b186cade836122b109d27da8fc50dc045b899d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "JeraziahTheIronKing",
+                     "kind":  "heroes",
+                     "name":  "Jeraziah - The Iron King",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "jeraziah/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-13",
+                     "patch":  false,
+                     "psd1":  "mods/JeraziahTheIronKing/JeraziahTheIronKing.psd1",
+                     "icon":  "mods/JeraziahTheIronKing/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "JeraziahTheIronKing.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/JeraziahTheIronKing.zip",
+                                               "size":  9130051,
+                                               "sha256":  "7321403f3ca87d71071109c4cb14bf7794a5a21990be46f1f4bcdff382300264"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "JeraziahTheIronKing.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/JeraziahTheIronKing.html",
+                                                   "size":  15213587,
+                                                   "sha256":  "90d39b1de7a2ef3d31238bfbef261e56b8d599f04255d5b638ea5e48aa6dc916"
+                                               }
+                               },
+                     "source_sha256":  "c720ebdac141da0270336cff5baaec32869e728821ec3468f2199e5089e369fc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KeeperOfTheForestKeeperOfTheBlossoms",
+                     "kind":  "heroes",
+                     "name":  "Keeper of the Forest - Keeper of the Blossoms",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "keeper_of_the_forest/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-03",
+                     "patch":  false,
+                     "psd1":  "mods/KeeperOfTheForestKeeperOfTheBlossoms/KeeperOfTheForestKeeperOfTheBlossoms.psd1",
+                     "icon":  "mods/KeeperOfTheForestKeeperOfTheBlossoms/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KeeperOfTheForestKeeperOfTheBlossoms.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KeeperOfTheForestKeeperOfTheBlossoms.zip",
+                                               "size":  19553062,
+                                               "sha256":  "9a3ddbed6ac62ac79fb52f91be6a11d604f68d34289a9506708aaebbfffdc847"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KeeperOfTheForestKeeperOfTheBlossoms.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KeeperOfTheForestKeeperOfTheBlossoms.html",
+                                                   "size":  23931443,
+                                                   "sha256":  "f309a788c23743aaeee7c770f3201b1f8b62bff856f59c53d2fb38b712ba3a13"
+                                               }
+                               },
+                     "source_sha256":  "788d976005352501b257f4e37f12c29b357b0859aafa744f8880bcca373d606f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KeeperOfTheForestKeeperOfTheHarvest",
+                     "kind":  "heroes",
+                     "name":  "Keeper of the Forest - Keeper of the Harvest",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "keeper_of_the_forest/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/KeeperOfTheForestKeeperOfTheHarvest/KeeperOfTheForestKeeperOfTheHarvest.psd1",
+                     "icon":  "mods/KeeperOfTheForestKeeperOfTheHarvest/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KeeperOfTheForestKeeperOfTheHarvest.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KeeperOfTheForestKeeperOfTheHarvest.zip",
+                                               "size":  17094686,
+                                               "sha256":  "f067524f80bbcad93fd5103af162d9f9a4ed2b3a2f20f91b6a66b3b7b541f1c2"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KeeperOfTheForestKeeperOfTheHarvest.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KeeperOfTheForestKeeperOfTheHarvest.html",
+                                                   "size":  22247273,
+                                                   "sha256":  "b8ccacb0833bf172864c7a33926bd55d207e4f30df021911ba321aba85109846"
+                                               }
+                               },
+                     "source_sha256":  "832f8fe8bba2b88877b2b0cff3b1fead7f6943cf579bc83ec4c00b4b26c53a1a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KinesisNecrosis",
+                     "kind":  "heroes",
+                     "name":  "Kinesis - Necrosis",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "kinesis/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/KinesisNecrosis/KinesisNecrosis.psd1",
+                     "icon":  "mods/KinesisNecrosis/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KinesisNecrosis.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KinesisNecrosis.zip",
+                                               "size":  10824900,
+                                               "sha256":  "df8c714c33cb65747e110b419becbd49e302d1ab85ccde4ca7e26b6a495651fa"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KinesisNecrosis.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KinesisNecrosis.html",
+                                                   "size":  17995172,
+                                                   "sha256":  "6926d26728fdd89d8a64013a1f26202fcaa9d2eb81b025d2a6cf50abab7fabde"
+                                               }
+                               },
+                     "source_sha256":  "75edc335d03b14aaf839a4e40c7607194b8efb7e8909409965330c9b2709c5ae",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KinesisZeta",
+                     "kind":  "heroes",
+                     "name":  "Kinesis - Zeta",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "kinesis/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/KinesisZeta/KinesisZeta.psd1",
+                     "icon":  "mods/KinesisZeta/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KinesisZeta.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KinesisZeta.zip",
+                                               "size":  8226514,
+                                               "sha256":  "c7804085910506e65671f3662db6139401b77c6c216a83d83db13a859103b328"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KinesisZeta.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KinesisZeta.html",
+                                                   "size":  13658349,
+                                                   "sha256":  "edd7d9214198ccc0565d97cc0c3d1ca0230b717797a15c887d49202a19f0f479"
+                                               }
+                               },
+                     "source_sha256":  "2888d634439ac1b7cb76518bc49c7e6b9c6fa056d0cc270dca6e1599c8245eee",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KingKloutCoachKlout",
+                     "kind":  "heroes",
+                     "name":  "King Klout - Coach Klout",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "king_klout/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/KingKloutCoachKlout/KingKloutCoachKlout.psd1",
+                     "icon":  "mods/KingKloutCoachKlout/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KingKloutCoachKlout.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KingKloutCoachKlout.zip",
+                                               "size":  23785874,
+                                               "sha256":  "ef24ca78c6469d22b678b5c687c0b67d27950e6a30af1eba6eb7e164ad6c4b37"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KingKloutCoachKlout.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KingKloutCoachKlout.html",
+                                                   "size":  32973502,
+                                                   "sha256":  "8a3eb69966a95a019eda540639452d3a8386f1fa612badadd35c13bb5cdaf458"
+                                               }
+                               },
+                     "source_sha256":  "e4d39818080cb4a1184cf64046d3c1d790fb2ab04c7666964a8dc24b639085da",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KingKloutKingKlaus",
+                     "kind":  "heroes",
+                     "name":  "King Klout - King Klaus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "king_klout/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/KingKloutKingKlaus/KingKloutKingKlaus.psd1",
+                     "icon":  "mods/KingKloutKingKlaus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KingKloutKingKlaus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KingKloutKingKlaus.zip",
+                                               "size":  17284988,
+                                               "sha256":  "3ea6630f43e90c65ef26341a2124a9ce6ae1e8dead6a2b50f47cbb6dbc24b8cd"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KingKloutKingKlaus.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KingKloutKingKlaus.html",
+                                                   "size":  28141438,
+                                                   "sha256":  "1ba7496a08f46908e7b76e718f8b3dca92f293f97929466580eaadc188741f59"
+                                               }
+                               },
+                     "source_sha256":  "189bf63032feef7d324ffa3a6b4a845e91d2d16a54e401e7ae3b3a9cb35d9b03",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KlanxDoomsday",
+                     "kind":  "heroes",
+                     "name":  "Klanx - Doomsday",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "klanx/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/KlanxDoomsday/KlanxDoomsday.psd1",
+                     "icon":  "mods/KlanxDoomsday/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KlanxDoomsday.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KlanxDoomsday.zip",
+                                               "size":  5500300,
+                                               "sha256":  "4f8eb94fd61d68bca25969b06d30950817ba50372ed81442888f5417ae4b778c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KlanxDoomsday.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KlanxDoomsday.html",
+                                                   "size":  7485168,
+                                                   "sha256":  "a3f740390cd7b328e0664d83c1f3816f02a038304cdaea309dbff977c99bb8aa"
+                                               }
+                               },
+                     "source_sha256":  "7ef36c662c7057f0d751aa1263a65d12b4d2e66621a254c4bd5b7f1ee3374d00",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KlanxShamrockKlanx",
+                     "kind":  "heroes",
+                     "name":  "Klanx - Shamrock",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "klanx/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-11",
+                     "patch":  false,
+                     "psd1":  "mods/KlanxShamrockKlanx/KlanxShamrockKlanx.psd1",
+                     "icon":  "mods/KlanxShamrockKlanx/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KlanxShamrockKlanx.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KlanxShamrockKlanx.zip",
+                                               "size":  11326592,
+                                               "sha256":  "42000e97e85c3b943f93ad7db396b8c02c9cc84ef5674f3a4e7ba9fa0d2326c4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KlanxShamrockKlanx.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KlanxShamrockKlanx.html",
+                                                   "size":  7840188,
+                                                   "sha256":  "21cf67e9637ff85d034c2fcc0abd12c1af0a4d33ca56dde1f9f5f24eeb1c2fb8"
+                                               }
+                               },
+                     "source_sha256":  "948122a63d023eef5ae6c1a550afab5124c5f45b05f47d3192e90005a3b8ef01",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KrakenCancer",
+                     "kind":  "heroes",
+                     "name":  "Kraken - Cancer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "kraken/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/KrakenCancer/KrakenCancer.psd1",
+                     "icon":  "mods/KrakenCancer/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KrakenCancer.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KrakenCancer.zip",
+                                               "size":  14829498,
+                                               "sha256":  "ac390ecd0db0a98a0ba9fe275dec050070562b4bfd2cc9bc2111d833a9b475cd"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KrakenCancer.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KrakenCancer.html",
+                                                   "size":  20187006,
+                                                   "sha256":  "03e997efba0205de4f35dec34d4d279696744566611e9c804e673a29e878a855"
+                                               }
+                               },
+                     "source_sha256":  "8cdb5e9083bfa2c1314a4384ffb2f8385826fdce9cf3d4653cba30d20ca636b5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KrakenCrustacean",
+                     "kind":  "heroes",
+                     "name":  "Kraken - Crustacean",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "kraken/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/KrakenCrustacean/KrakenCrustacean.psd1",
+                     "icon":  "mods/KrakenCrustacean/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KrakenCrustacean.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KrakenCrustacean.zip",
+                                               "size":  8063523,
+                                               "sha256":  "2c11ad794d0bb3a356e0321a6721ddb4e028b8fe03aac56f93a6599a449dcc95"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KrakenCrustacean.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KrakenCrustacean.html",
+                                                   "size":  14466669,
+                                                   "sha256":  "620a39a10893d412663a05a84eb39f13677a7d670016088b11fa50774d1c3202"
+                                               }
+                               },
+                     "source_sha256":  "504e4fae4d15e35c4377c9e06352aa203f3e96725b863cd65723cf8398032377",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KrakenOrca",
+                     "kind":  "heroes",
+                     "name":  "Kraken - Orca",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "kraken/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/KrakenOrca/KrakenOrca.psd1",
+                     "icon":  "mods/KrakenOrca/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KrakenOrca.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KrakenOrca.zip",
+                                               "size":  8381437,
+                                               "sha256":  "aa58e231a1c6ec9835effc658359c99399c974bcdeaf583948940a124c91a8f8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KrakenOrca.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KrakenOrca.html",
+                                                   "size":  15889067,
+                                                   "sha256":  "3668c2ce960c124e618c4f1408dda83fbd61a3b1adf294eb57594e2993c98451"
+                                               }
+                               },
+                     "source_sha256":  "bacd6ee70cf5193d62b3826622e13d593af9a04f3370c42c28d5b7f39f5d5334",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LegionnaireFlex",
+                     "kind":  "heroes",
+                     "name":  "Legionnaire - F.L.E.X",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "legionnaire/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/LegionnaireFlex/LegionnaireFlex.psd1",
+                     "icon":  "mods/LegionnaireFlex/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LegionnaireFlex.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LegionnaireFlex.zip",
+                                               "size":  9195592,
+                                               "sha256":  "faa8812a9c409a9ef81fc88e3775fe07b773269bfd4fffe025fedbde1b1ac122"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LegionnaireFlex.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LegionnaireFlex.html",
+                                                   "size":  15999375,
+                                                   "sha256":  "db48071767bb2b937ad47889797a35404ef383d2cbaaf0b33ae6104b4ef3e52a"
+                                               }
+                               },
+                     "source_sha256":  "a11e9f2ad111da221d7c02caa97d677a2f609a419f2e4642698ce1a986a2ee17",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LegionnaireLogger",
+                     "kind":  "heroes",
+                     "name":  "Legionnaire - Logger",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "legionnaire/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/LegionnaireLogger/LegionnaireLogger.psd1",
+                     "icon":  "mods/LegionnaireLogger/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LegionnaireLogger.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LegionnaireLogger.zip",
+                                               "size":  6433535,
+                                               "sha256":  "8489688b01aa7fc25872f6ccf55ca501a1dcc41de1b04561ae943a13b819d2c1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LegionnaireLogger.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LegionnaireLogger.html",
+                                                   "size":  11716560,
+                                                   "sha256":  "2e786289798d2eca0ae3ca622e9bea6ac717acf0308298918cf9096139ef219b"
+                                               }
+                               },
+                     "source_sha256":  "b405004dc1299fc5576122309a72585dd7b2d9124d99413f0138449d390a5e93",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LegionnaireSiamWarrior",
+                     "kind":  "heroes",
+                     "name":  "Legionnaire - Siam Warrior",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "legionnaire/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/LegionnaireSiamWarrior/LegionnaireSiamWarrior.psd1",
+                     "icon":  "mods/LegionnaireSiamWarrior/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LegionnaireSiamWarrior.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LegionnaireSiamWarrior.zip",
+                                               "size":  2692606,
+                                               "sha256":  "66e214b1ff392c278e520b05b68699c28bc4b0cb6656280ab47bc32c562dd8cd"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LegionnaireSiamWarrior.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LegionnaireSiamWarrior.html",
+                                                   "size":  9541733,
+                                                   "sha256":  "7d209a5368583260e6d0f7261ab020e7cfc2747aade906c76a6015c8b9e1bb7b"
+                                               }
+                               },
+                     "source_sha256":  "4b132add00d3ac02a6af2d08b43ad6ca8972a83c76e694175f081287a7832d63",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LegionnaireStalker",
+                     "kind":  "heroes",
+                     "name":  "Legionnaire - Stalker",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "legionnaire/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-28",
+                     "patch":  false,
+                     "psd1":  "mods/LegionnaireStalker/LegionnaireStalker.psd1",
+                     "icon":  "mods/LegionnaireStalker/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LegionnaireStalker.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LegionnaireStalker.zip",
+                                               "size":  10523,
+                                               "sha256":  "4418dec35e54c7fd708748644bdc38bead143c0b10b6b1a7ed5d4e08f2bb999f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LegionnaireStalker.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LegionnaireStalker.html",
+                                                   "size":  32538442,
+                                                   "sha256":  "86b1e3674c8530b62dc4c1156b4d808aaeaaea530c2b9829ca5c74a61f1cd7e0"
+                                               }
+                               },
+                     "source_sha256":  "f3d61bca0f1367b05d544996795b9b8e25af6a144104f1d42452a5e532b64e60",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LordSalforisBlackwal",
+                     "kind":  "heroes",
+                     "name":  "Lord Salforis - Blackwal Salforis",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "lord_salforis/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/LordSalforisBlackwal/LordSalforisBlackwal.psd1",
+                     "icon":  "mods/LordSalforisBlackwal/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LordSalforisBlackwal.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LordSalforisBlackwal.zip",
+                                               "size":  32377642,
+                                               "sha256":  "c1659626c7b07f695758de5b8ce110cb32a89c8897dbbba91d189e07c540769b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LordSalforisBlackwal.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LordSalforisBlackwal.html",
+                                                   "size":  22470350,
+                                                   "sha256":  "8383e6f777e2ef87df1f4d79020ddc1e0cf6d9f194b14b469bdbd7502e76d2d7"
+                                               }
+                               },
+                     "source_sha256":  "9ee636b351b1c820efdfdc589269cab83df778122f827b00e3fb0e2ba1ef5ac6",
                      "updated":  "2026-11-23"
                  },
                  {
