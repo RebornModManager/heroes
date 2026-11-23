@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:43:11+01:00",
+    "generated":  "2026-11-23T12:45:40+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  2086509,
-                  "sha256":  "7fdb21ffec68d9c861e86140ede55f041b3f9d71f20a76496c20edce1734d66b"
+                  "size":  2650373,
+                  "sha256":  "3c0a430d1f15bd7c4d130f6f90099be4581c59c179e451d3ad9b9bea9e676314"
               },
     "mods":  [
                  {
@@ -1557,6 +1557,781 @@
                                                }
                                },
                      "source_sha256":  "6838468082ca780c32a9f5a1868c1e6229fc62f376259f05d3c86f264e897bda",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CthulhuphantCallerCthulhuphant",
+                     "kind":  "heroes",
+                     "name":  "Cthulhuphant - Caller Cthulhuphant",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "cthulhuphant/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/CthulhuphantCallerCthulhuphant/CthulhuphantCallerCthulhuphant.psd1",
+                     "icon":  "mods/CthulhuphantCallerCthulhuphant/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CthulhuphantCallerCthulhuphant.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CthulhuphantCallerCthulhuphant.zip",
+                                               "size":  11034439,
+                                               "sha256":  "f7954bfa5d2b1e90efa6ffa590243c0911435392dc427ade27e2ad91f5d6653d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CthulhuphantCallerCthulhuphant.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CthulhuphantCallerCthulhuphant.html",
+                                                   "size":  16370133,
+                                                   "sha256":  "c42ec604931c3b3fd783e642d7e8c66169cbd343c027a9eadcfe5d43ba4267d5"
+                                               }
+                               },
+                     "source_sha256":  "152e705845c095ab4d7c75955793e41ea746f35df1a81645b146299dd7d99398",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CthulhuphantDaemonHighlord",
+                     "kind":  "heroes",
+                     "name":  "Cthulhuphant - Daemon Highlord",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "cthulhuphant/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/CthulhuphantDaemonHighlord/CthulhuphantDaemonHighlord.psd1",
+                     "icon":  "mods/CthulhuphantDaemonHighlord/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CthulhuphantDaemonHighlord.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CthulhuphantDaemonHighlord.zip",
+                                               "size":  9552846,
+                                               "sha256":  "7a0c5dc3616993127f6e1d93be75f9620b950090c62292160bd7dbabdbbeb882"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CthulhuphantDaemonHighlord.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CthulhuphantDaemonHighlord.html",
+                                                   "size":  17621203,
+                                                   "sha256":  "8b4d51bf13cdc767b3c3bfc1ef80f7a7c6a6cb1af26de81853f6ab0c13fc835b"
+                                               }
+                               },
+                     "source_sha256":  "8ae18ae79eb5c57a988909972b8e1937d74d8cf5258df57423250d7587937413",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CthulhuphantHoNTourCthulhu",
+                     "kind":  "heroes",
+                     "name":  "Cthulhuphant - HoN Tour Cthulhu",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "cthulhuphant/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/CthulhuphantHoNTourCthulhu/CthulhuphantHoNTourCthulhu.psd1",
+                     "icon":  "mods/CthulhuphantHoNTourCthulhu/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CthulhuphantHoNTourCthulhu.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CthulhuphantHoNTourCthulhu.zip",
+                                               "size":  10265629,
+                                               "sha256":  "566f8825701b17836fa003ec2f0b53b42fd61d2967d832cd7f12a81657f848cc"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CthulhuphantHoNTourCthulhu.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CthulhuphantHoNTourCthulhu.html",
+                                                   "size":  17100753,
+                                                   "sha256":  "0e0f452207cecb2afd822385c4d7872c65ee3d3b35ab4acd31f946ca392d4509"
+                                               }
+                               },
+                     "source_sha256":  "0626d093bb1520b5d0fc6a121c9c4794e3eafa3ed9630d40c3ec91bc51474102",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CthulhuphantPlushieCthulu",
+                     "kind":  "heroes",
+                     "name":  "Cthulhuphant - Plushie Cthulu",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "cthulhuphant/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/CthulhuphantPlushieCthulu/CthulhuphantPlushieCthulu.psd1",
+                     "icon":  "mods/CthulhuphantPlushieCthulu/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CthulhuphantPlushieCthulu.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CthulhuphantPlushieCthulu.zip",
+                                               "size":  13275495,
+                                               "sha256":  "d33cbb19f2afd5149be144aa928b8231b714d983cfd353fe0f972468b5027f34"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CthulhuphantPlushieCthulu.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CthulhuphantPlushieCthulu.html",
+                                                   "size":  14287894,
+                                                   "sha256":  "a175b6a6b924a9c4adfe3edbe0081335da20bd26a022e5b871b548630ffb1c09"
+                                               }
+                               },
+                     "source_sha256":  "88e6b2193dd6d8c6fb2a0ed84102f8b846f61886e235a2968b28c29ff974a879",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DampeerBloodthirsty",
+                     "kind":  "heroes",
+                     "name":  "Dampeer - Bloodthirsty",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "dampeer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DampeerBloodthirsty/DampeerBloodthirsty.psd1",
+                     "icon":  "mods/DampeerBloodthirsty/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DampeerBloodthirsty.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DampeerBloodthirsty.zip",
+                                               "size":  3763255,
+                                               "sha256":  "5560816a84af8dd1fc17794815cdb94687fdaf52e0fbd5e8abf7204a768c4004"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DampeerBloodthirsty.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DampeerBloodthirsty.html",
+                                                   "size":  8095090,
+                                                   "sha256":  "1736bdedf82c68ec6f9ba737bca4fa896a5134dfb1d0ee2a3b25b52e8d452343"
+                                               }
+                               },
+                     "source_sha256":  "ff9529cffdb3fb910d66e6db2607f1780185abadd8e6e3adf6717ad8d4377993",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DampeerGentlemanKiller",
+                     "kind":  "heroes",
+                     "name":  "Dampeer - The Gentleman Killer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "dampeer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/DampeerGentlemanKiller/DampeerGentlemanKiller.psd1",
+                     "icon":  "mods/DampeerGentlemanKiller/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DampeerGentlemanKiller.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DampeerGentlemanKiller.zip",
+                                               "size":  13304223,
+                                               "sha256":  "bde960969aa396229e894b3732b636a2fc111f1f398ed9b53fd8b2fe0a74bc7b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DampeerGentlemanKiller.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DampeerGentlemanKiller.html",
+                                                   "size":  25064141,
+                                                   "sha256":  "7f1bccb643440a74fe65160c743780944ab2dae89770364dfc4c76dfc7ecfc0d"
+                                               }
+                               },
+                     "source_sha256":  "20adc5a811117a393671cf1b6a81557d91a8f478fe0dcce34c31f2d05add4d5c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DampeerVampeera",
+                     "kind":  "heroes",
+                     "name":  "Dampeer - Vampeera",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "dampeer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/DampeerVampeera/DampeerVampeera.psd1",
+                     "icon":  "mods/DampeerVampeera/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DampeerVampeera.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DampeerVampeera.zip",
+                                               "size":  20209365,
+                                               "sha256":  "a80aaef56318248ad1ca49b0ee02699b950d51005a6501980f2c631384bfc7ff"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DampeerVampeera.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DampeerVampeera.html",
+                                                   "size":  21009273,
+                                                   "sha256":  "b42f2595e500557f21dec4b094913b46793b2602d3315eedd64fe7f19e87d5b2"
+                                               }
+                               },
+                     "source_sha256":  "d1443219574e9f4c1d2664c68d603f390c808aac936e715b4ea020732beb0a52",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DarkLadyAscension",
+                     "kind":  "heroes",
+                     "name":  "Dark Lady - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "dark_lady/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-30",
+                     "patch":  false,
+                     "psd1":  "mods/DarkLadyAscension/DarkLadyAscension.psd1",
+                     "icon":  "mods/DarkLadyAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DarkLadyAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DarkLadyAscension.zip",
+                                               "size":  9253073,
+                                               "sha256":  "2d3910ea2d48639d7c145b78cbd10dba624e5fcef58c5cc733fa257d83e76338"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DarkLadyAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DarkLadyAscension.html",
+                                                   "size":  21423153,
+                                                   "sha256":  "16f3500e4a9e7dbd0861346031b7d9f030f7dd28e7d5847b8c4331957fb0dbd2"
+                                               }
+                               },
+                     "source_sha256":  "10c1cb6fa9bc62c1ce7183e7c525434d5b646dc9c7855131491257709ededb9d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DarkLadyGloriousDarkLady",
+                     "kind":  "heroes",
+                     "name":  "Dark Lady - Glorious Dark Lady",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "dark_lady/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/DarkLadyGloriousDarkLady/DarkLadyGloriousDarkLady.psd1",
+                     "icon":  "mods/DarkLadyGloriousDarkLady/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DarkLadyGloriousDarkLady.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DarkLadyGloriousDarkLady.zip",
+                                               "size":  7570761,
+                                               "sha256":  "6c39a602bb4f6f123282b824201a5e360d93f849abe2bd45f93695d42bfd089c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DarkLadyGloriousDarkLady.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DarkLadyGloriousDarkLady.html",
+                                                   "size":  14266174,
+                                                   "sha256":  "aacd286b70c73a41e8c8d1b97d2bbe3139b6d847afc0e9af787989c9b5ad685c"
+                                               }
+                               },
+                     "source_sha256":  "5bafc37597b11fce00330c540f67159a5f3a865965a38641c68e51c40e5207b6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DarkLadyVampira",
+                     "kind":  "heroes",
+                     "name":  "Dark Lady - Vampira",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "dark_lady/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DarkLadyVampira/DarkLadyVampira.psd1",
+                     "icon":  "mods/DarkLadyVampira/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DarkLadyVampira.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DarkLadyVampira.zip",
+                                               "size":  8544,
+                                               "sha256":  "2c76dfeb962677f6a2cc525bb43a286a7ce04fce49a660a2f42c1b89899d7fe9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DarkLadyVampira.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DarkLadyVampira.html",
+                                                   "size":  16350380,
+                                                   "sha256":  "0f7ec383770eba0c1b5b23061e2836f9f817d18ad9df6c59609e225120b5c27e"
+                                               }
+                               },
+                     "source_sha256":  "6eecd0bd20df9800588fd0688f3adc499e08043df47ee39d540d3d3adfd58c0d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DeadwoodFlaming",
+                     "kind":  "heroes",
+                     "name":  "Deadwood - Flaming",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "deadwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DeadwoodFlaming/DeadwoodFlaming.psd1",
+                     "icon":  "mods/DeadwoodFlaming/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DeadwoodFlaming.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodFlaming.zip",
+                                               "size":  1412272,
+                                               "sha256":  "1b31577ba37dea0f2a4aa32cb502515c1699906c9eaeabd6b334383011716781"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DeadwoodFlaming.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DeadwoodFlaming.html",
+                                                   "size":  11371048,
+                                                   "sha256":  "52c784958357125b8b9e0db5ab16c91ff974b03bdc66d7fa000b0915ea294001"
+                                               }
+                               },
+                     "source_sha256":  "cf0554a667914573cfee62c3a51c402d636a868766b62c65f5423f6114a4b958",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DeadwoodGravewoodDeadyard",
+                     "kind":  "heroes",
+                     "name":  "Deadwood - Gravewood Deadyard",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "deadwood/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/DeadwoodGravewoodDeadyard/DeadwoodGravewoodDeadyard.psd1",
+                     "icon":  "mods/DeadwoodGravewoodDeadyard/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DeadwoodGravewoodDeadyard.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodGravewoodDeadyard.zip",
+                                               "size":  9595316,
+                                               "sha256":  "fd68ad2be065b05fb2cecad23895cc87db0b831371429517123f02aa6c0b1981"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DeadwoodGravewoodDeadyard.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DeadwoodGravewoodDeadyard.html",
+                                                   "size":  17096163,
+                                                   "sha256":  "5e9a3fce27d8f8b12ad1a6b17986d0ded5a75a863b9371f3ca09b2a96408b5e4"
+                                               }
+                               },
+                     "source_sha256":  "c966471295f5b7a69c3da73933a4e4f492de152b4d1e0897b15169e2ce8bc74d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DeadwoodMisfitDeadwood",
+                     "kind":  "heroes",
+                     "name":  "Deadwood - Misfit Deadwood",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "deadwood/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/DeadwoodMisfitDeadwood/DeadwoodMisfitDeadwood.psd1",
+                     "icon":  "mods/DeadwoodMisfitDeadwood/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DeadwoodMisfitDeadwood.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodMisfitDeadwood.zip",
+                                               "size":  11905167,
+                                               "sha256":  "a4c12648d176506702d0537b8c56815a387ca766976bbb2faf034ce20abd33be"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DeadwoodMisfitDeadwood.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DeadwoodMisfitDeadwood.html",
+                                                   "size":  24733257,
+                                                   "sha256":  "0e5e51b79092e95dd9bfe32a7cc62aab082ddcf20d002171eff710475076350a"
+                                               }
+                               },
+                     "source_sha256":  "83e1a76b391aaedbb8a6b0a6fd0c45937d9a0777d08766e8eeb246f7c92ccad6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DeadwoodPlushieDeadwood",
+                     "kind":  "heroes",
+                     "name":  "Deadwood - Plushie Deadwood",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "deadwood/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/DeadwoodPlushieDeadwood/DeadwoodPlushieDeadwood.psd1",
+                     "icon":  "mods/DeadwoodPlushieDeadwood/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DeadwoodPlushieDeadwood.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodPlushieDeadwood.zip",
+                                               "size":  11062090,
+                                               "sha256":  "5444b1a9b244f1d3b5522eadd93961e9966b92c7905614c2cf41b3b69636a19d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DeadwoodPlushieDeadwood.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DeadwoodPlushieDeadwood.html",
+                                                   "size":  21363033,
+                                                   "sha256":  "9774a005f2aaf8e708abd3c669ae200660897f8a1b7f5abdbd047ea7ec7f7891"
+                                               }
+                               },
+                     "source_sha256":  "b5c3ebbd7bbdcfbda44e297f16fef3e066fecc433fc288d4b7868fd8c981443a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DeadwoodPret",
+                     "kind":  "heroes",
+                     "name":  "Deadwood - Pret",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "deadwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DeadwoodPret/DeadwoodPret.psd1",
+                     "icon":  "mods/DeadwoodPret/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DeadwoodPret.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodPret.zip",
+                                               "size":  5334161,
+                                               "sha256":  "ddb1ee624b183308253f8d16f9250940de82a9147ee20af5d8a1ed7e7c6a9ad0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DeadwoodPret.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DeadwoodPret.html",
+                                                   "size":  14968982,
+                                                   "sha256":  "f891d15e430cbe7481f42704a3157f41c0bc3c3b3292044c7cc4400cc12a22c2"
+                                               }
+                               },
+                     "source_sha256":  "c2f1a6f2eb67ff226fee46b489f121ce1d332cf386b7088486263ef4724af214",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DeadwoodToadwoodDeadstool",
+                     "kind":  "heroes",
+                     "name":  "Deadwood - Toadwood Deadstool",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "deadwood/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DeadwoodToadwoodDeadstool/DeadwoodToadwoodDeadstool.psd1",
+                     "icon":  "mods/DeadwoodToadwoodDeadstool/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DeadwoodToadwoodDeadstool.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodToadwoodDeadstool.zip",
+                                               "size":  10350204,
+                                               "sha256":  "1cd7899436583a117d03969cc895bff380d8c4c8d3b41621ca329054bfea738f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DeadwoodToadwoodDeadstool.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DeadwoodToadwoodDeadstool.html",
+                                                   "size":  20894300,
+                                                   "sha256":  "3656487e2de645affbe2e05051aea9a2ed5778914a6de0c98fb22207042bbe83"
+                                               }
+                               },
+                     "source_sha256":  "4c101fb285e07bb5e449858e513fd6847e1c74dc5daf6a66f49ba70b7b2190e5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DefilerAscension",
+                     "kind":  "heroes",
+                     "name":  "Defiler - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "defiler/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DefilerAscension/DefilerAscension.psd1",
+                     "icon":  "mods/DefilerAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DefilerAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DefilerAscension.zip",
+                                               "size":  11202872,
+                                               "sha256":  "099ec58b29e0cd2035e0dcf7ad2162afe259542d0e739aaddf63fbf6528c8285"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DefilerAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DefilerAscension.html",
+                                                   "size":  19192569,
+                                                   "sha256":  "0bc7bb749d0264cfa37f0a5fd3a7519faf1ca166c53885b52323428051088b4c"
+                                               }
+                               },
+                     "source_sha256":  "8a9ca80da89cf2523937ec7df2a7bc8d6f33f14c499837ceaf995f6fbecfe1f3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DefilerKrasue",
+                     "kind":  "heroes",
+                     "name":  "Defiler - Krasue",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "defiler/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DefilerKrasue/DefilerKrasue.psd1",
+                     "icon":  "mods/DefilerKrasue/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DefilerKrasue.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DefilerKrasue.zip",
+                                               "size":  4687552,
+                                               "sha256":  "42960161192ace5600e5999c8b084cece96ebcab332795c4bb74a3f3fb0cc559"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DefilerKrasue.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DefilerKrasue.html",
+                                                   "size":  8893636,
+                                                   "sha256":  "5c592995d34e5a1a227dc181bb2192d1819f81a9e9e6d1fa5280e7d04a1a0ea1"
+                                               }
+                               },
+                     "source_sha256":  "4e64978988249118b22a3a5318dad1e4b8d0ed37bd9f1f317271223800467a7e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DefilerLaLlorona",
+                     "kind":  "heroes",
+                     "name":  "Defiler - La Llorona",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "defiler/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DefilerLaLlorona/DefilerLaLlorona.psd1",
+                     "icon":  "mods/DefilerLaLlorona/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DefilerLaLlorona.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DefilerLaLlorona.zip",
+                                               "size":  9037970,
+                                               "sha256":  "968bef47c8404073c3cf35dd7e58b287346453fc5217f50dcd7d0e424fa04678"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DefilerLaLlorona.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DefilerLaLlorona.html",
+                                                   "size":  11838170,
+                                                   "sha256":  "5754ce2aea76c09f15f44be48246aea27d3720fed7163c7ba6b55ad315c2a014"
+                                               }
+                               },
+                     "source_sha256":  "057ae33c0dc7015b7885649dce3170ac34f548c2b4130abf909801a21e1dbcc0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DementedShamanWinterShaman",
+                     "kind":  "heroes",
+                     "name":  "Demented Shaman - WinterShaman",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "demented_shaman/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DementedShamanWinterShaman/DementedShamanWinterShaman.psd1",
+                     "icon":  "mods/DementedShamanWinterShaman/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DementedShamanWinterShaman.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DementedShamanWinterShaman.zip",
+                                               "size":  3421371,
+                                               "sha256":  "039f075202b382f51bbd0351f4daba797c6037be153982286b9db186005741d9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DementedShamanWinterShaman.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DementedShamanWinterShaman.html",
+                                                   "size":  8391197,
+                                                   "sha256":  "cddbe78825ec9fabdc3ebcd7925a7d90dbe6f5ecff09557115a6d38f2d8c0640"
+                                               }
+                               },
+                     "source_sha256":  "24f091b9ae69f9f20e80ce83dad8c717030727d325d15f7deb84c3321dd24eb3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DevourerBedsheet",
+                     "kind":  "heroes",
+                     "name":  "Devourer - Bedsheet",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "devourer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DevourerBedsheet/DevourerBedsheet.psd1",
+                     "icon":  "mods/DevourerBedsheet/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DevourerBedsheet.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DevourerBedsheet.zip",
+                                               "size":  17314961,
+                                               "sha256":  "e28cb76e612450569c088b855d3e095ed210417099da4b2285ea3da14fa668fb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DevourerBedsheet.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DevourerBedsheet.html",
+                                                   "size":  25318226,
+                                                   "sha256":  "5ec98494dfcaf6a33d510a940b851a2567ecd3846207bfe7923bede19c20ae2c"
+                                               }
+                               },
+                     "source_sha256":  "2d8c867cb704c237190f24059eb3dac775911b838c822ef5f86a2e5226db58ae",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DevourerFreakshow",
+                     "kind":  "heroes",
+                     "name":  "Devourer - Freakshow",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "devourer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DevourerFreakshow/DevourerFreakshow.psd1",
+                     "icon":  "mods/DevourerFreakshow/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DevourerFreakshow.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DevourerFreakshow.zip",
+                                               "size":  16080,
+                                               "sha256":  "e981d0a88d1b72a281468d313726ef156a846f7906fc987a5aa641cb59bef80d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DevourerFreakshow.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DevourerFreakshow.html",
+                                                   "size":  33912252,
+                                                   "sha256":  "fd9204ae22d2b0334d7a287637d1c13547519afc0e4c93e76818cbe8e2e50ffd"
+                                               }
+                               },
+                     "source_sha256":  "aa83836020c7d8a73f4772fd66db49a95fe3a4695e4a204b5e3340e9a23f7aaf",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DevourerPaku",
+                     "kind":  "heroes",
+                     "name":  "Devourer - Paku",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "devourer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DevourerPaku/DevourerPaku.psd1",
+                     "icon":  "mods/DevourerPaku/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DevourerPaku.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DevourerPaku.zip",
+                                               "size":  5568103,
+                                               "sha256":  "799514bdc7b46dbb7829995611bf0176e266f60dbd009780af43d0f95c9084b3"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DevourerPaku.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DevourerPaku.html",
+                                                   "size":  7226821,
+                                                   "sha256":  "2f94329f8503298e5772102ff8f5643b55a2db24e2b0f9f46600a5e09bfaf984"
+                                               }
+                               },
+                     "source_sha256":  "7681c7aff9a4015fbe68368418dac7778b6a2a7bfe8d1291788cdc44b980bfd9",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DevourerRift",
+                     "kind":  "heroes",
+                     "name":  "Devourer - Rift",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "devourer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/DevourerRift/DevourerRift.psd1",
+                     "icon":  "mods/DevourerRift/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DevourerRift.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DevourerRift.zip",
+                                               "size":  9720869,
+                                               "sha256":  "2c029f675ed957a0323184136e863485b477e00cbf45174a5ba20545a8cce4e8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DevourerRift.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DevourerRift.html",
+                                                   "size":  18101965,
+                                                   "sha256":  "9e9bccaac218b49012686fafaa1a9cfd64f1ce279506e98ae09ec657cda7a02b"
+                                               }
+                               },
+                     "source_sha256":  "5203cd01eea1ac02795a511fd90119b91a0bde13d2012cfa13e17000a4c75ca3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DoctorRepulsorDoctorGamer",
+                     "kind":  "heroes",
+                     "name":  "Doctor Repulsor - Doctor Gamer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "doctor_repulsor/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/DoctorRepulsorDoctorGamer/DoctorRepulsorDoctorGamer.psd1",
+                     "icon":  "mods/DoctorRepulsorDoctorGamer/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DoctorRepulsorDoctorGamer.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DoctorRepulsorDoctorGamer.zip",
+                                               "size":  20223367,
+                                               "sha256":  "36128283d22e294e95d723713a3794e286d841bcc49f91a9cc33619c0f94214f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DoctorRepulsorDoctorGamer.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DoctorRepulsorDoctorGamer.html",
+                                                   "size":  11226489,
+                                                   "sha256":  "c9d689ca7b9d87c4e478b3b8e28a44cfe62332087c6f775eab51c66aa6043ae7"
+                                               }
+                               },
+                     "source_sha256":  "8da498ede5dee9d8acec26b2a583e8307c4812a14f336dfc2406cd1ee32aea6f",
                      "updated":  "2026-11-23"
                  },
                  {
