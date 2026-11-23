@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T13:01:18+01:00",
+    "generated":  "2026-11-23T13:03:53+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  6982761,
-                  "sha256":  "aeb5a7e0a1a6677e77a1c3c0a5234e469b282fb4b3df8eb2bd828a629bf976cb"
+                  "size":  7383803,
+                  "sha256":  "d50326a9e746bf58f9477a0dd49847e4734df73aad0bd42fe5237137fab3cba6"
               },
     "mods":  [
                  {
@@ -6982,6 +6982,781 @@
                                                }
                                },
                      "source_sha256":  "8b5a8f34e17cc945eea67825c0fc0c8308d4d9c9aa9fbfbcfa85e127ac476675",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PyromancerScorcher",
+                     "kind":  "heroes",
+                     "name":  "Pyromancer - Scorcher",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pyromancer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-12",
+                     "patch":  false,
+                     "psd1":  "mods/PyromancerScorcher/PyromancerScorcher.psd1",
+                     "icon":  "mods/PyromancerScorcher/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PyromancerScorcher.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PyromancerScorcher.zip",
+                                               "size":  9789876,
+                                               "sha256":  "64a5cd955cf91d65a3362597ee20b16e4a939ccead001990721e3c1f5cf6057b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PyromancerScorcher.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PyromancerScorcher.html",
+                                                   "size":  14626314,
+                                                   "sha256":  "47ec9812abc633a51d692dc3b9158f4186cf1cf454e7b3c9576c2c7dc962c096"
+                                               }
+                               },
+                     "source_sha256":  "8dddf693bfebc514823c4251d181e4f5a77bac1f512e16e2bf9a0cb129b43a3f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RampageRhino",
+                     "kind":  "heroes",
+                     "name":  "Rampage - Rhino",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "rampage/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/RampageRhino/RampageRhino.psd1",
+                     "icon":  "mods/RampageRhino/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RampageRhino.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RampageRhino.zip",
+                                               "size":  8780742,
+                                               "sha256":  "6934e05521d30120961c3b7ccb7b96105161827ed7c407c17bca0c11d1910e35"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RampageRhino.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RampageRhino.html",
+                                                   "size":  13861883,
+                                                   "sha256":  "840dfc474d53b46d98a6424f735e78e271a768e064102b3170e47303bfca6ddc"
+                                               }
+                               },
+                     "source_sha256":  "00f727c2d3496a14ae76fa219b2816ed97b0fd7b004eda90dbda1a9ea020036b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RampageSiamWarrior",
+                     "kind":  "heroes",
+                     "name":  "Rampage - Siam Warrior",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "rampage/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/RampageSiamWarrior/RampageSiamWarrior.psd1",
+                     "icon":  "mods/RampageSiamWarrior/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RampageSiamWarrior.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RampageSiamWarrior.zip",
+                                               "size":  2251190,
+                                               "sha256":  "cb2c6403c27c949ebcd52b7ac098e3157d9bf47270164356cd9a24f5c63b5119"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RampageSiamWarrior.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RampageSiamWarrior.html",
+                                                   "size":  9748284,
+                                                   "sha256":  "a839ef1286ed4019fbc8cb99a2f9a51b6c8e64e8315911ab6c17a90b0354d216"
+                                               }
+                               },
+                     "source_sha256":  "6da957d49d4c60c1509ffa69ed55e1d4b51d11ecdd6b38e3ed23b313ef66b825",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RampageWhiteOrc",
+                     "kind":  "heroes",
+                     "name":  "Rampage - White Orc",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "rampage/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/RampageWhiteOrc/RampageWhiteOrc.psd1",
+                     "icon":  "mods/RampageWhiteOrc/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RampageWhiteOrc.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RampageWhiteOrc.zip",
+                                               "size":  17602583,
+                                               "sha256":  "ff38ed9a3fa7580d638a1507d8c152b24de31d63686bc1fad95f0e0eba03f08b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RampageWhiteOrc.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RampageWhiteOrc.html",
+                                                   "size":  26876107,
+                                                   "sha256":  "1b97208c9131a07464d641ef1abc9fc106b693f85dc3a44529fbb990d87577f0"
+                                               }
+                               },
+                     "source_sha256":  "9308daef08102be915f672fc8eca4a5d10d7978ae372ffd5d5d360362896a2ac",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorCyber",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Cyber",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorCyber/RavenorCyber.psd1",
+                     "icon":  "mods/RavenorCyber/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorCyber.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorCyber.zip",
+                                               "size":  2718091,
+                                               "sha256":  "ee2f035160c19485fe395e4a99fa13972f8c2011eac23e8e3629279c37dd57b1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorCyber.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorCyber.html",
+                                                   "size":  7629678,
+                                                   "sha256":  "1bc9a2be66ee095039737ddf9252b791e67e4d716241592e7f64709b298e4ac4"
+                                               }
+                               },
+                     "source_sha256":  "577b453f55a10205c0cea5bd6e36d4b4683438e539c02ae659404134198d7b25",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorDominus",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Dominus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorDominus/RavenorDominus.psd1",
+                     "icon":  "mods/RavenorDominus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorDominus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorDominus.zip",
+                                               "size":  9497211,
+                                               "sha256":  "dca1a6c10aa5bad89714363a61cdf1ff5dfe59d36dfa539d5b0e2915c550a3b3"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorDominus.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorDominus.html",
+                                                   "size":  16519630,
+                                                   "sha256":  "8e59b2d87fbe15e0f99aa67478df3f7a05ada5e750b89b7029dc05c9a9dca54d"
+                                               }
+                               },
+                     "source_sha256":  "e9a593db60188d7f52daa4360bf893b87ddcc3d89183fb677fc004e65105e87e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorElDiablo",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - El Diablo",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorElDiablo/RavenorElDiablo.psd1",
+                     "icon":  "mods/RavenorElDiablo/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorElDiablo.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorElDiablo.zip",
+                                               "size":  16392948,
+                                               "sha256":  "a1a16e76ecd62d721b4cf8f5bff46ab40ca3083f7486140fd03383a354c1d474"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorElDiablo.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorElDiablo.html",
+                                                   "size":  14233578,
+                                                   "sha256":  "809067d0b0723247b1ee7ebac9588a8ca7dda3fe528323d296e8d836b81554f7"
+                                               }
+                               },
+                     "source_sha256":  "d8840119645797930bf432d0576d71130cef7ebaf9738fd75864a60b136242d5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorGSL",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - GSL",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorGSL/RavenorGSL.psd1",
+                     "icon":  "mods/RavenorGSL/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorGSL.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorGSL.zip",
+                                               "size":  8787193,
+                                               "sha256":  "7c9bff98a1a5e0bd8ba7977df59252e17816622ba677f1ff09f62baaffb1018b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorGSL.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorGSL.html",
+                                                   "size":  16169792,
+                                                   "sha256":  "2e2fa78a10ef4941cc760a28009acd8aef500a838236f29e39310a7ed3d8830a"
+                                               }
+                               },
+                     "source_sha256":  "bdb2b19ab8201c7b4edaf7fae50c748124553470abb3df17a3204666fe957b46",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorPunk",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Punk",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorPunk/RavenorPunk.psd1",
+                     "icon":  "mods/RavenorPunk/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorPunk.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorPunk.zip",
+                                               "size":  11699986,
+                                               "sha256":  "1a84f7e23866b4d521e00bddeb9e1d2cc59700dc7b770dab3fc5fca33a222552"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorPunk.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorPunk.html",
+                                                   "size":  15990381,
+                                                   "sha256":  "bd920cd439d5b2ab38a3a04ca92474bec7c2fcd62d500d7aa700bf98d87091c4"
+                                               }
+                               },
+                     "source_sha256":  "4492d31c85a4eaa2e1eef479692a81fe0aa440b51c16fd4aec155303bd48b0eb",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorRift",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Rift",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorRift/RavenorRift.psd1",
+                     "icon":  "mods/RavenorRift/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorRift.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorRift.zip",
+                                               "size":  9508831,
+                                               "sha256":  "ad32f6768e150c030eac9dd00466fa8088126d90a0a57ad7859a86c8dd871794"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorRift.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorRift.html",
+                                                   "size":  16078180,
+                                                   "sha256":  "8143f5006eab375f0ab1c21c573570254824bad2800e7a998a670782909223d8"
+                                               }
+                               },
+                     "source_sha256":  "634425413695d66a192e56d37a84df27ed6c2409bd978f75328ae46e922f4642",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorStormDemon",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Storm Demon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorStormDemon/RavenorStormDemon.psd1",
+                     "icon":  "mods/RavenorStormDemon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorStormDemon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorStormDemon.zip",
+                                               "size":  9781744,
+                                               "sha256":  "48c5a920545cbdba2ba4ed62e79031b0d72dee1b7edb1eb880171e843d13a999"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorStormDemon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorStormDemon.html",
+                                                   "size":  17177877,
+                                                   "sha256":  "1c31f7185c662c824ab688aadfd91900f52e8d2b73eb436a7689bf6bed8ecaf2"
+                                               }
+                               },
+                     "source_sha256":  "2242581f0401bf1f121ff078a0e24968d83073970022b71ea63014dbb69d005f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorThor",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Thor",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorThor/RavenorThor.psd1",
+                     "icon":  "mods/RavenorThor/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorThor.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorThor.zip",
+                                               "size":  1858362,
+                                               "sha256":  "862e69319cc748bf6bb576b8fb8d092996f2520585e9c3202512326d898abb9b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorThor.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorThor.html",
+                                                   "size":  6811523,
+                                                   "sha256":  "dadf34a64b5a254399fe426d929ec547248ea9453cf5e04e6e143dab455b62bf"
+                                               }
+                               },
+                     "source_sha256":  "f465f53dc3ff1a6981f8e0a02c4f0bbdac35b9f07e9d9ac384f006318fb1e7f0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RavenorZeus",
+                     "kind":  "heroes",
+                     "name":  "Ravenor - Zeus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ravenor/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/RavenorZeus/RavenorZeus.psd1",
+                     "icon":  "mods/RavenorZeus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RavenorZeus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorZeus.zip",
+                                               "size":  9514771,
+                                               "sha256":  "18cfe6fffd283711396aea09ac1cbb6f39bff68f77b23fd6ed6e3f2f3fe99b3f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RavenorZeus.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RavenorZeus.html",
+                                                   "size":  16646127,
+                                                   "sha256":  "05ca89e0c1decc148bf1b8806fae60b03dfaff27601b5b15c229b87ec9800eca"
+                                               }
+                               },
+                     "source_sha256":  "f7547839697700435784e555c090805af048bb7d7292a4ab31c19d5f3780312e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RevenantWendigo",
+                     "kind":  "heroes",
+                     "name":  "Revenant - Wendigo",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "revenant/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/RevenantWendigo/RevenantWendigo.psd1",
+                     "icon":  "mods/RevenantWendigo/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RevenantWendigo.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RevenantWendigo.zip",
+                                               "size":  10537978,
+                                               "sha256":  "2518bd11d1b5402b5d5a79663787ebb49c7b15f0a145e3d24a3a3ff216f0b60f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RevenantWendigo.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RevenantWendigo.html",
+                                                   "size":  20330164,
+                                                   "sha256":  "f157559d3f3cf646d9ff6c1624152053359e54a4ba99643bf48f446eeec8d545"
+                                               }
+                               },
+                     "source_sha256":  "d745874601169099fe2743aff50db6539d9dfd6e3472daac8a259dd6253c692c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RevenantWraith",
+                     "kind":  "heroes",
+                     "name":  "Revenant - Wraith",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "revenant/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/RevenantWraith/RevenantWraith.psd1",
+                     "icon":  "mods/RevenantWraith/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RevenantWraith.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RevenantWraith.zip",
+                                               "size":  7780373,
+                                               "sha256":  "17062d21255e5c5c94e5d0916af508d1c4256568ce0aba70197a06c34f37279d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RevenantWraith.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RevenantWraith.html",
+                                                   "size":  18547088,
+                                                   "sha256":  "ec01e856a7b9f2c84ab36e2679ac4b732eb4ad6ad69ae16cb622060b08ab27ca"
+                                               }
+                               },
+                     "source_sha256":  "d9a5c5c55693c7808d6ad4213b7ecd99535dd5fcd4f4afe646f66b039d618243",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RhapsodyThrillerRhapsody",
+                     "kind":  "heroes",
+                     "name":  "Rhapsody - Thriller Rhapsody",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "rhapsody/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-13",
+                     "patch":  false,
+                     "psd1":  "mods/RhapsodyThrillerRhapsody/RhapsodyThrillerRhapsody.psd1",
+                     "icon":  "mods/RhapsodyThrillerRhapsody/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RhapsodyThrillerRhapsody.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RhapsodyThrillerRhapsody.zip",
+                                               "size":  32078572,
+                                               "sha256":  "1bbc07b4d4533797e923cb5e13b3c22a7b8bc151da0d9c61cccf320db4849d40"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RhapsodyThrillerRhapsody.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RhapsodyThrillerRhapsody.html",
+                                                   "size":  19083920,
+                                                   "sha256":  "09465e490a147c2999b955a46005c907652a3abed7c1de32e3760fbbe12fcfa8"
+                                               }
+                               },
+                     "source_sha256":  "0ca1b2cfd6d36690f59c8880fec9ee0ea487fcdb4af394e7cf51f38fb59e92f4",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RiftwalkerElderRiftwalker",
+                     "kind":  "heroes",
+                     "name":  "Riftwalker - Elder Riftwalker",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "riftwalker/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/RiftwalkerElderRiftwalker/RiftwalkerElderRiftwalker.psd1",
+                     "icon":  "mods/RiftwalkerElderRiftwalker/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RiftwalkerElderRiftwalker.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RiftwalkerElderRiftwalker.zip",
+                                               "size":  10430040,
+                                               "sha256":  "edc853ee688180c1f7e58a62e3cde7133f9ce2dbbbab2a7127e49e9d2d6dbcfb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RiftwalkerElderRiftwalker.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RiftwalkerElderRiftwalker.html",
+                                                   "size":  18053885,
+                                                   "sha256":  "77d161fde35f06fd6eb1f6c3e35f2dafbf411dc410079aa431435d279ca2a7f1"
+                                               }
+                               },
+                     "source_sha256":  "2fce9dfb88ad646aca38abadd02d52fcfb4b74184faa9b6c9d91522086f7eef6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RiftwalkerPandora",
+                     "kind":  "heroes",
+                     "name":  "Riftwalker - Pandora",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "riftwalker/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/RiftwalkerPandora/RiftwalkerPandora.psd1",
+                     "icon":  "mods/RiftwalkerPandora/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RiftwalkerPandora.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RiftwalkerPandora.zip",
+                                               "size":  15341,
+                                               "sha256":  "46ebb2f5802f01c31e6280fa91bb3a2da5722e046a4d7bded47e0aa40e22b8f9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RiftwalkerPandora.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RiftwalkerPandora.html",
+                                                   "size":  22717089,
+                                                   "sha256":  "56d06ab7d34b783d8bc1c1be85c9fe043b9a0fe52c0617d39c5a4d3e53df7381"
+                                               }
+                               },
+                     "source_sha256":  "ccda38043ed79cba0f936783976bac08f28ab7fce4888f6ed36faf78b3c2937c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RiftwalkerPossessedRiftwalker",
+                     "kind":  "heroes",
+                     "name":  "Riftwalker - Possessed Riftwalker",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "riftwalker/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/RiftwalkerPossessedRiftwalker/RiftwalkerPossessedRiftwalker.psd1",
+                     "icon":  "mods/RiftwalkerPossessedRiftwalker/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RiftwalkerPossessedRiftwalker.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RiftwalkerPossessedRiftwalker.zip",
+                                               "size":  9694922,
+                                               "sha256":  "fb152c1edbc69b225770cc27fedaa7ecf8a702b3cdc56825449da39013ea5da7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RiftwalkerPossessedRiftwalker.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RiftwalkerPossessedRiftwalker.html",
+                                                   "size":  16969980,
+                                                   "sha256":  "e71cc4dce6c1185104e6a5e18c45ba55cbbbb5a32a254cee46632638397b7bef"
+                                               }
+                               },
+                     "source_sha256":  "31e85b202160da915764b159af29d42996c154bdb194e9e20c27f8495d45e8b8",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "RiptideMechaMermaid",
+                     "kind":  "heroes",
+                     "name":  "Riptide - Mecha Mermaid",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "riptide/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/RiptideMechaMermaid/RiptideMechaMermaid.psd1",
+                     "icon":  "mods/RiptideMechaMermaid/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RiptideMechaMermaid.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RiptideMechaMermaid.zip",
+                                               "size":  14104648,
+                                               "sha256":  "b221c27d38a27db17ab0454874ec2024105a1fb69873cd089b5afb012eda9cdf"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "RiptideMechaMermaid.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/RiptideMechaMermaid.html",
+                                                   "size":  16989038,
+                                                   "sha256":  "711286439962ca2f9ce16aa4f7628fe02876bd08817af52e9493d7b40f1cfd4c"
+                                               }
+                               },
+                     "source_sha256":  "52e23148ef791706c66137b02c6a603365bb526fe939e2ac8e2b3a3dcfb601b4",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SandWraithBlightWraith",
+                     "kind":  "heroes",
+                     "name":  "Sand Wraith - Blight Wraith",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "sand_wraith/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/SandWraithBlightWraith/SandWraithBlightWraith.psd1",
+                     "icon":  "mods/SandWraithBlightWraith/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SandWraithBlightWraith.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SandWraithBlightWraith.zip",
+                                               "size":  8697643,
+                                               "sha256":  "76db14e38b082ce904b61ed2a26a48433111f2540e8aefc6c74169aee198e507"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SandWraithBlightWraith.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SandWraithBlightWraith.html",
+                                                   "size":  15411726,
+                                                   "sha256":  "6a4d7b377a63239c00750a358ca128417ff26fcc603741ed83cf5ad490f1982f"
+                                               }
+                               },
+                     "source_sha256":  "3cbb939861cb5c301373ea2b9eaac959b729142c418c34f229a016ba4b8b410d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SandWraithShadowWraith",
+                     "kind":  "heroes",
+                     "name":  "Sand Wraith - Shadow Wraith",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "sand_wraith/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SandWraithShadowWraith/SandWraithShadowWraith.psd1",
+                     "icon":  "mods/SandWraithShadowWraith/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SandWraithShadowWraith.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SandWraithShadowWraith.zip",
+                                               "size":  3139682,
+                                               "sha256":  "0277744d8ae4104df0699406255a809d7e7b13e96c42d5a8dd26f20e79387114"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SandWraithShadowWraith.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SandWraithShadowWraith.html",
+                                                   "size":  7522341,
+                                                   "sha256":  "ae92c94a0fbc92fd2d130ac32f235b9a155a31f2af9113e1d27a91ed2dddbee3"
+                                               }
+                               },
+                     "source_sha256":  "63ca8ba844d0cbc6eb9aa27390f9d24df63bd300ba6e48f89ef8dc5a028e917b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SandWraithWraithOfDiamonds",
+                     "kind":  "heroes",
+                     "name":  "Sand Wraith - Wraith of Diamonds",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "sand_wraith/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/SandWraithWraithOfDiamonds/SandWraithWraithOfDiamonds.psd1",
+                     "icon":  "mods/SandWraithWraithOfDiamonds/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SandWraithWraithOfDiamonds.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SandWraithWraithOfDiamonds.zip",
+                                               "size":  9555711,
+                                               "sha256":  "494ab1adf1d4d93b8fb8433cb32faa0616a3f19019a0831d798642ce059a19e8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SandWraithWraithOfDiamonds.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SandWraithWraithOfDiamonds.html",
+                                                   "size":  17635714,
+                                                   "sha256":  "87fea5478439141b7a5376e187419fe0ce6d8a7b477361a64bb83e10cf79cc00"
+                                               }
+                               },
+                     "source_sha256":  "178ebc34133efe3325fad633a61957439d35ca97ffffb079f40a6b22fad2138a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SandWraithYamamotoGenryusai",
+                     "kind":  "heroes",
+                     "name":  "Sand Wraith - Yamamoto Genryusai",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "sand_wraith/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/SandWraithYamamotoGenryusai/SandWraithYamamotoGenryusai.psd1",
+                     "icon":  "mods/SandWraithYamamotoGenryusai/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SandWraithYamamotoGenryusai.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SandWraithYamamotoGenryusai.zip",
+                                               "size":  24837189,
+                                               "sha256":  "c54ef061f68edc7456d77a2987ada470a7689a3d1fbd7bfda5a50385083f8c75"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SandWraithYamamotoGenryusai.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SandWraithYamamotoGenryusai.html",
+                                                   "size":  21177335,
+                                                   "sha256":  "61d563f40d8c2533cf62bdb61558ade1aabd6f368ea9488894d8a88c17d31f32"
+                                               }
+                               },
+                     "source_sha256":  "75aaf6a567ddce08532d4531653eea36531fe49a4c643ebd632eadb52a91b0e9",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ScoutDeranger",
+                     "kind":  "heroes",
+                     "name":  "Scout - Deranger",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "scout/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/ScoutDeranger/ScoutDeranger.psd1",
+                     "icon":  "mods/ScoutDeranger/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ScoutDeranger.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ScoutDeranger.zip",
+                                               "size":  10615755,
+                                               "sha256":  "f5b354323315b01aeb6ba4e1aa3f7718cffe4b19494c5c959556deffb55083f7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ScoutDeranger.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ScoutDeranger.html",
+                                                   "size":  18824539,
+                                                   "sha256":  "7973daf73f6306074a83030fe6ccbb1f02b630e5adbb1f9cdf66952ac99f7b5d"
+                                               }
+                               },
+                     "source_sha256":  "8b79e74d10e89f39a6f7a10747727c45208d63be37ea657befc0f8112917e80a",
                      "updated":  "2026-11-23"
                  },
                  {
