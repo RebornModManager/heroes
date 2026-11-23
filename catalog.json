@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T13:06:29+01:00",
+    "generated":  "2026-11-23T13:09:00+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  8222339,
-                  "sha256":  "762fb29f22241b302da719560abbb0b456c8721049e0d9d2796a42130d68952c"
+                  "size":  8888924,
+                  "sha256":  "e25224f7e2f18cb50bb9dcdc85a45b61f1c73fa7dfe657d73d28f0eb6f56d0c5"
               },
     "mods":  [
                  {
@@ -8535,6 +8535,254 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "SwiftbladeCyberSamurai",
+                     "kind":  "heroes",
+                     "name":  "Swiftblade - Cyber Samurai",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "swiftblade/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-05",
+                     "patch":  false,
+                     "psd1":  "mods/SwiftbladeCyberSamurai/SwiftbladeCyberSamurai.psd1",
+                     "icon":  "mods/SwiftbladeCyberSamurai/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SwiftbladeCyberSamurai.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SwiftbladeCyberSamurai.zip",
+                                               "size":  9565596,
+                                               "sha256":  "8fb57b566bd302531e3e8660d9ab45b6205f8e04536f40800393d3f8c7b92ced"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SwiftbladeCyberSamurai.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SwiftbladeCyberSamurai.html",
+                                                   "size":  19457338,
+                                                   "sha256":  "510c6644a153e5a2f7e407e49a5920d163fcc2399d265268559d45ef5ea036ea"
+                                               }
+                               },
+                     "source_sha256":  "baf5e86b62d38af5618d82e4f1ee849de152e5e0344e3fa09ee385fcf9d1dbc1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SwiftbladeDeathbloom",
+                     "kind":  "heroes",
+                     "name":  "Swiftblade - Deathbloom",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "swiftblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SwiftbladeDeathbloom/SwiftbladeDeathbloom.psd1",
+                     "icon":  "mods/SwiftbladeDeathbloom/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SwiftbladeDeathbloom.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SwiftbladeDeathbloom.zip",
+                                               "size":  5292289,
+                                               "sha256":  "7ce75ae2f73788da67a76fd01577f97945787156fd27a26608f3b1683678e22c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SwiftbladeDeathbloom.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SwiftbladeDeathbloom.html",
+                                                   "size":  14886267,
+                                                   "sha256":  "83fb75e8a99779bf42e568e35628cf1cd0e5903fb16697c9628d48cd10d34bad"
+                                               }
+                               },
+                     "source_sha256":  "7249c195abb3e4711a58421574dc9730d86adeb197a1bbef91ff118adcb88800",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SwiftbladeDemonicRonin",
+                     "kind":  "heroes",
+                     "name":  "Swiftblade - Demonic Ronin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "swiftblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SwiftbladeDemonicRonin/SwiftbladeDemonicRonin.psd1",
+                     "icon":  "mods/SwiftbladeDemonicRonin/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SwiftbladeDemonicRonin.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SwiftbladeDemonicRonin.zip",
+                                               "size":  8813085,
+                                               "sha256":  "af1e27d6da60fffa2019bcfee28e4d33f85ea05ee493424f8f46bd1dc38b122f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SwiftbladeDemonicRonin.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SwiftbladeDemonicRonin.html",
+                                                   "size":  16080221,
+                                                   "sha256":  "7d826e19f314604a0f53a528ca693c7ee88b6bc1e106e33a2530e1edb5530d10"
+                                               }
+                               },
+                     "source_sha256":  "df12491a32a690d0f092c45ae1c1384e66c5a4fd72b08a9690103285870835b6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SwiftbladeSiamWarrior",
+                     "kind":  "heroes",
+                     "name":  "Swiftblade - Siam Warrior",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "swiftblade/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/SwiftbladeSiamWarrior/SwiftbladeSiamWarrior.psd1",
+                     "icon":  "mods/SwiftbladeSiamWarrior/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SwiftbladeSiamWarrior.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SwiftbladeSiamWarrior.zip",
+                                               "size":  10122165,
+                                               "sha256":  "5b4486327965600d29a11ff353c2d206591a14a1ee5b43876a5997ca70d83b2e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SwiftbladeSiamWarrior.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SwiftbladeSiamWarrior.html",
+                                                   "size":  18600037,
+                                                   "sha256":  "24df554be851d8d5059cc3f94acc73e5ade1d242bf465194c0a5804fc80d874a"
+                                               }
+                               },
+                     "source_sha256":  "ad9bd4bc282c0c00813513024339030bf9a8651e784b08aad0fe1591e2865d0f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TarotDeathDealer",
+                     "kind":  "heroes",
+                     "name":  "Tarot - Death Dealer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "tarot/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TarotDeathDealer/TarotDeathDealer.psd1",
+                     "icon":  "mods/TarotDeathDealer/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TarotDeathDealer.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TarotDeathDealer.zip",
+                                               "size":  10052715,
+                                               "sha256":  "29e99557d32e5d0cf1b15b0a8929d0e8588f1edfb04139a1f60a5f03fd7109bc"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TarotDeathDealer.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TarotDeathDealer.html",
+                                                   "size":  15144386,
+                                                   "sha256":  "988723f47a1469f8ed94c64b2e683ab463863ebb05055c84ca9abc3132234640"
+                                               }
+                               },
+                     "source_sha256":  "3a16c8cfc0295d7db1a2e91d9df1811af8c5dd3ca70dd614bf04859e4232652f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TarotHarlequin",
+                     "kind":  "heroes",
+                     "name":  "Tarot - Harlequin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "tarot/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TarotHarlequin/TarotHarlequin.psd1",
+                     "icon":  "mods/TarotHarlequin/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TarotHarlequin.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TarotHarlequin.zip",
+                                               "size":  2394695,
+                                               "sha256":  "bd0e719fdd3dc5f901fe03dab0dbe49af6b8c57b40024236f6fdec2be7c925a5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TarotHarlequin.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TarotHarlequin.html",
+                                                   "size":  16407413,
+                                                   "sha256":  "18c4273d36a9cae80ed514988931a1dac0aa612b7a46f0ad13d0d2f155453aa3"
+                                               }
+                               },
+                     "source_sha256":  "825a78aabe5de43daf3e052984ff21e8395b9774f6a4b0b0da89c497b0089ae3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TarotRiftHunter",
+                     "kind":  "heroes",
+                     "name":  "Tarot - Rift Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "tarot/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/TarotRiftHunter/TarotRiftHunter.psd1",
+                     "icon":  "mods/TarotRiftHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TarotRiftHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TarotRiftHunter.zip",
+                                               "size":  8972512,
+                                               "sha256":  "20a58134c8e493ea3a7ce41daf132f2dea7930059aed7cc126aaa5177a3bd455"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TarotRiftHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TarotRiftHunter.html",
+                                                   "size":  15986012,
+                                                   "sha256":  "6a17d760a6ece15d5430079b36fbc4fea45cf57e005f656d5bc4fc44aee2f7f8"
+                                               }
+                               },
+                     "source_sha256":  "a0f9ce6e66c25de2127d824e68821f7680e953349888318448bf0752b5970c2c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TDMonkeyKing",
+                     "kind":  "heroes",
+                     "name":  "MonkeyKing - TDM",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "monkey_king/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TDMonkeyKing/TDMonkeyKing.psd1",
+                     "icon":  "mods/TDMonkeyKing/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TDMonkeyKing.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TDMonkeyKing.zip",
+                                               "size":  7355034,
+                                               "sha256":  "2c7c35626371257f27451f016f447982a2ef7d098c7a871d684d874a9b8e7062"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TDMonkeyKing.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TDMonkeyKing.html",
+                                                   "size":  11105831,
+                                                   "sha256":  "7b0fd1b4a00e271daa3e09b63f34a41f35933aad7564788ab404faa4819ed373"
+                                               }
+                               },
+                     "source_sha256":  "4ab0a311f1963a6ccd85d72cea02d2faf431c99efb23415f1a8e9a5c83bd0e42",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "TeleportWarp",
                      "kind":  "ui",
                      "name":  "Teleport - Blue Warp",
@@ -8560,6 +8808,161 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "TempestElderRift",
+                     "kind":  "heroes",
+                     "name":  "Tempest - Elder Rift",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "tempest/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/TempestElderRift/TempestElderRift.psd1",
+                     "icon":  "mods/TempestElderRift/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TempestElderRift.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TempestElderRift.zip",
+                                               "size":  10391287,
+                                               "sha256":  "097d2c36b756e908603ccbb883f425f6d6242534cadf44aec2af9ec3fe127b7a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TempestElderRift.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TempestElderRift.html",
+                                                   "size":  21718071,
+                                                   "sha256":  "372e2eecebb1e6e481b50a851fbff38b1427f1d8580a48c62ec7ba36f11e7eea"
+                                               }
+                               },
+                     "source_sha256":  "e8f1d588262556f559f33897b38bddba3617dfbca2f3acef5a4409354e45be6b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ThunderbringerDarkLightninglord",
+                     "kind":  "heroes",
+                     "name":  "Thunderbringer - Dark Lightninglord",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "thunderbringer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ThunderbringerDarkLightninglord/ThunderbringerDarkLightninglord.psd1",
+                     "icon":  "mods/ThunderbringerDarkLightninglord/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ThunderbringerDarkLightninglord.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ThunderbringerDarkLightninglord.zip",
+                                               "size":  9452772,
+                                               "sha256":  "024d75317f66a7d3c164dc0eb1dc4031bc931cde324cf559ab0d41fd8a2132f6"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ThunderbringerDarkLightninglord.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ThunderbringerDarkLightninglord.html",
+                                                   "size":  18729635,
+                                                   "sha256":  "c3a44d7386a646ad7f5be86c85fdd7452c36145e966f2d2cbc7033597d2f261e"
+                                               }
+                               },
+                     "source_sha256":  "59ddce2248d9245b24f3c7b22754062873e5df2b720df53e15cada9bfa3fab42",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ThunderbringerRaijin",
+                     "kind":  "heroes",
+                     "name":  "Thunderbringer - Raijin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "thunderbringer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-13",
+                     "patch":  false,
+                     "psd1":  "mods/ThunderbringerRaijin/ThunderbringerRaijin.psd1",
+                     "icon":  "mods/ThunderbringerRaijin/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ThunderbringerRaijin.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ThunderbringerRaijin.zip",
+                                               "size":  9362277,
+                                               "sha256":  "ce906149e1ef1f67159ee6752b85efef29a7afe89cd44a3971a91247765904c7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ThunderbringerRaijin.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ThunderbringerRaijin.html",
+                                                   "size":  23367426,
+                                                   "sha256":  "dbf2f54740e5e0fc6774321c3fae058152fce425c622c75f6ca3dafc7ee180d3"
+                                               }
+                               },
+                     "source_sha256":  "c272938d81dca6b0c22fbea8ae19aa823f6391c767e6c5b3f29fd9305246f9b1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ThunderbringerSyrrusTheLightningCaller",
+                     "kind":  "heroes",
+                     "name":  "Thunderbringer - Syrrus the Lightning Caller",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "thunderbringer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-13",
+                     "patch":  false,
+                     "psd1":  "mods/ThunderbringerSyrrusTheLightningCaller/ThunderbringerSyrrusTheLightningCaller.psd1",
+                     "icon":  "mods/ThunderbringerSyrrusTheLightningCaller/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ThunderbringerSyrrusTheLightningCaller.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ThunderbringerSyrrusTheLightningCaller.zip",
+                                               "size":  9237014,
+                                               "sha256":  "548e63f7048a1abf855e1313b40b6eddfe530f37b0daa646c02dbad3ab742213"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ThunderbringerSyrrusTheLightningCaller.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ThunderbringerSyrrusTheLightningCaller.html",
+                                                   "size":  15305207,
+                                                   "sha256":  "2c960520d3c890f108227b86f9c23a7dff3749ca88b70a0355bdfaed157cecab"
+                                               }
+                               },
+                     "source_sha256":  "909e15257671a41cbbd77411303f358657896062d33fbf6362654ed59214907b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TorturerMisery",
+                     "kind":  "heroes",
+                     "name":  "Torturer - Misery",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "torturer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TorturerMisery/TorturerMisery.psd1",
+                     "icon":  "mods/TorturerMisery/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TorturerMisery.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TorturerMisery.zip",
+                                               "size":  9034901,
+                                               "sha256":  "6c720047771ff769969b951e2a8fd78ce43a921b39a8a50ba6ee02661a80e3a3"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TorturerMisery.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TorturerMisery.html",
+                                                   "size":  16303209,
+                                                   "sha256":  "2f55585ac46f0f80e9a75be45dee2573f4088cd05812c1f57f2a37cdd26fb94a"
+                                               }
+                               },
+                     "source_sha256":  "1d8973ce4eaf7907ab7f9913462c06973cf0400f18fad3ed979e874d8e75f3af",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "TowerRangeRings",
                      "kind":  "ui",
                      "name":  "Tower Range Rings",
@@ -8577,6 +8980,378 @@
 
                                },
                      "source_sha256":  "d585711259060dc1ec46b6fee64a0484d38f9d170b5f64e03e7896c0306ac014",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ValkyrieAzrael",
+                     "kind":  "heroes",
+                     "name":  "Valkyrie - Azrael",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "valkyrie/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ValkyrieAzrael/ValkyrieAzrael.psd1",
+                     "icon":  "mods/ValkyrieAzrael/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ValkyrieAzrael.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ValkyrieAzrael.zip",
+                                               "size":  12383,
+                                               "sha256":  "02e3cca2ecf980cc36339057439ef3173a90e67077b5e6ac90eff2db46dc8da9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ValkyrieAzrael.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ValkyrieAzrael.html",
+                                                   "size":  29064615,
+                                                   "sha256":  "5a93fdf1ad1ddee52ea67f54eba52b6befff8f050d75aa12d683894b605126d8"
+                                               }
+                               },
+                     "source_sha256":  "6debe54f3840f86f6daae0aaa1d32b294694b59ef82d8972a0746fcc7d58e98e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VindicatorHoNWorld",
+                     "kind":  "heroes",
+                     "name":  "Vindicator - HoN World",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "vindicator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/VindicatorHoNWorld/VindicatorHoNWorld.psd1",
+                     "icon":  "mods/VindicatorHoNWorld/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VindicatorHoNWorld.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VindicatorHoNWorld.zip",
+                                               "size":  11133878,
+                                               "sha256":  "d76909272e32f182c70040f9d3ddb4130250309f23bafa763c02d7322150de1d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VindicatorHoNWorld.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VindicatorHoNWorld.html",
+                                                   "size":  21995549,
+                                                   "sha256":  "54afc48094dce245dbefad956e5dd20e8aab4efd03202c481d34b89d60afd126"
+                                               }
+                               },
+                     "source_sha256":  "37853f72b259eca635b4134cd763a3b72a9a423cc556c92280da750225a4cdd3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VindicatorJudge",
+                     "kind":  "heroes",
+                     "name":  "Vindicator - Judge Vindicator",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "vindicator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/VindicatorJudge/VindicatorJudge.psd1",
+                     "icon":  "mods/VindicatorJudge/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VindicatorJudge.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VindicatorJudge.zip",
+                                               "size":  8626162,
+                                               "sha256":  "efafc91ef206baa25dac48dde6063c306daf660cd24cbdb6a3d2f50823b41023"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VindicatorJudge.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VindicatorJudge.html",
+                                                   "size":  13960250,
+                                                   "sha256":  "3158ee5d1c7e7c62f21f243dafbc6502f04e62f32c745e3c11b229e72f156a30"
+                                               }
+                               },
+                     "source_sha256":  "dee92c5f6fdbc0c4397c9e9931e5843dbc98e0882ab0aba636f3825dedf88446",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VindicatorNecronomicon",
+                     "kind":  "heroes",
+                     "name":  "Vindicator - Necronomicon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "vindicator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/VindicatorNecronomicon/VindicatorNecronomicon.psd1",
+                     "icon":  "mods/VindicatorNecronomicon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VindicatorNecronomicon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VindicatorNecronomicon.zip",
+                                               "size":  10912344,
+                                               "sha256":  "980eea28246556cae2af8789df87c42607cf321e45a4068e1c6857b6e9c2ce5d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VindicatorNecronomicon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VindicatorNecronomicon.html",
+                                                   "size":  16881322,
+                                                   "sha256":  "1aca07959ed47ebb34d7c7318fc8082a20d52d443a70d4f090e1788d7a855a6c"
+                                               }
+                               },
+                     "source_sha256":  "d6d51d3a1ed05099216f6a3ef67a9fbc30a7e1273407c08fa6b0d19107464310",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VindicatorVigilante",
+                     "kind":  "heroes",
+                     "name":  "Vindicator - Vigilante Vindicator",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "vindicator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/VindicatorVigilante/VindicatorVigilante.psd1",
+                     "icon":  "mods/VindicatorVigilante/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VindicatorVigilante.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VindicatorVigilante.zip",
+                                               "size":  7684820,
+                                               "sha256":  "aabadd167865fc5d2869af662ccadccbc0d82b7de32a30d742911337d95bc0ad"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VindicatorVigilante.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VindicatorVigilante.html",
+                                                   "size":  11781011,
+                                                   "sha256":  "9e31b08abf0e52387378dbfd50e5317c53221e42cf7d644baa2c077de169a9cd"
+                                               }
+                               },
+                     "source_sha256":  "7d50cfd2b277282a0cf539fec1488c665f5e1e25210f768f8a88f9f31ee229d4",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VindicatorVindiTheGray",
+                     "kind":  "heroes",
+                     "name":  "Vindicator - Vindi the Gray",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "vindicator/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/VindicatorVindiTheGray/VindicatorVindiTheGray.psd1",
+                     "icon":  "mods/VindicatorVindiTheGray/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VindicatorVindiTheGray.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VindicatorVindiTheGray.zip",
+                                               "size":  8999049,
+                                               "sha256":  "e4c2e2268beedbca575a8e50ac67c1cd8d0458ed20bfd1f43721cd2e67c461aa"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VindicatorVindiTheGray.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VindicatorVindiTheGray.html",
+                                                   "size":  17499410,
+                                                   "sha256":  "194e8dd8c59bd7736af2c9c66ef1a0c769387d59208c628ad76dbfb08ce38ce9"
+                                               }
+                               },
+                     "source_sha256":  "917ff8f6a79f38c99ba54a62c766ce57dbb04c095e12fab3bc77146f4667c413",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VoodooJesterHallowed",
+                     "kind":  "heroes",
+                     "name":  "Voodoo Jester - Hallowed",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "voodoo_jester/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/VoodooJesterHallowed/VoodooJesterHallowed.psd1",
+                     "icon":  "mods/VoodooJesterHallowed/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VoodooJesterHallowed.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VoodooJesterHallowed.zip",
+                                               "size":  12561,
+                                               "sha256":  "9e0ddf3e2f97f3e0d0d54750e8d5cb6bfbb43397373bb082a528342bacd5e6d2"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VoodooJesterHallowed.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VoodooJesterHallowed.html",
+                                                   "size":  17906733,
+                                                   "sha256":  "1bfa13e23c63dd1064d960d592642f916daa1578894ae50b42050975deeb4b45"
+                                               }
+                               },
+                     "source_sha256":  "f1f37330f679d7e040d58aa10194338f1145737522fe8d23535d33bbe7b7fabb",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VoodooJesterPainkiller",
+                     "kind":  "heroes",
+                     "name":  "Voodoo Jester - Painkiller",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "voodoo_jester/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/VoodooJesterPainkiller/VoodooJesterPainkiller.psd1",
+                     "icon":  "mods/VoodooJesterPainkiller/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VoodooJesterPainkiller.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VoodooJesterPainkiller.zip",
+                                               "size":  9790156,
+                                               "sha256":  "8e25f95c3a4224411f8bb43e8f4b009e7202d74b02bef1f81da37fc7edb929e6"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VoodooJesterPainkiller.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VoodooJesterPainkiller.html",
+                                                   "size":  23731302,
+                                                   "sha256":  "6033a09a7401e548d2c3a522825ae63472639f670c7581753b46b69b9e684b40"
+                                               }
+                               },
+                     "source_sha256":  "98d02a0b392b0329ab5a4891424cdcc4b137a77172f28d35f32b58dfb79f4a4d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VoodooJesterSiamWarrior",
+                     "kind":  "heroes",
+                     "name":  "Voodoo Jester - Siam Warrior Voodoo Jester",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "voodoo_jester/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/VoodooJesterSiamWarrior/VoodooJesterSiamWarrior.psd1",
+                     "icon":  "mods/VoodooJesterSiamWarrior/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VoodooJesterSiamWarrior.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VoodooJesterSiamWarrior.zip",
+                                               "size":  10563371,
+                                               "sha256":  "8646ad76fa832d33a1b7de5ccd242ae482f678cf86f38633430792ca06ae34d1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VoodooJesterSiamWarrior.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VoodooJesterSiamWarrior.html",
+                                                   "size":  17427562,
+                                                   "sha256":  "9f4fc0a614b5cc9f3d05c9913c9525eba446d3569a8f07c98576e17478fa1dd1"
+                                               }
+                               },
+                     "source_sha256":  "c167e283871c2ba55effb63d7034bb3a928b3302d852027da674c98e4a2ab0c7",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "VoodooJesterVoodooDoctor",
+                     "kind":  "heroes",
+                     "name":  "Voodoo Jester - Voodoo Doctor",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "voodoo_jester/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/VoodooJesterVoodooDoctor/VoodooJesterVoodooDoctor.psd1",
+                     "icon":  "mods/VoodooJesterVoodooDoctor/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "VoodooJesterVoodooDoctor.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/VoodooJesterVoodooDoctor.zip",
+                                               "size":  8539195,
+                                               "sha256":  "4fc09070d7473f06dac552531fa4540fb11f483098a5e588b0d5225276a57169"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "VoodooJesterVoodooDoctor.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/VoodooJesterVoodooDoctor.html",
+                                                   "size":  14938131,
+                                                   "sha256":  "b4b00e79889dd00bf4ecad784d34abf0cb32227eb2d1576408d00c741254ad6e"
+                                               }
+                               },
+                     "source_sha256":  "9eff3b1e4c4ae232ea51c76a9faed01a94b8d6d1b3edf62cc7121b61bd78b6fc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WarBeastSkullcrusher",
+                     "kind":  "heroes",
+                     "name":  "War Beast - Skullcrusher",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "war_beast/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-01",
+                     "patch":  false,
+                     "psd1":  "mods/WarBeastSkullcrusher/WarBeastSkullcrusher.psd1",
+                     "icon":  "mods/WarBeastSkullcrusher/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WarBeastSkullcrusher.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WarBeastSkullcrusher.zip",
+                                               "size":  12571581,
+                                               "sha256":  "924ac46767a8c4704a318ee85814c2fb3492d1155d3be710492c04c89e981682"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WarBeastSkullcrusher.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WarBeastSkullcrusher.html",
+                                                   "size":  14758373,
+                                                   "sha256":  "e3538311ca78119362f501df0cb43f3a619c9733ba2b5d7874d66751756006c7"
+                                               }
+                               },
+                     "source_sha256":  "adf00d28f76477ed75a55f2be480e320877ffa69cccc409e89cdb419c2743e5f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WitchSlayerHunter",
+                     "kind":  "heroes",
+                     "name":  "Witch Slayer - Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "witch_slayer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/WitchSlayerHunter/WitchSlayerHunter.psd1",
+                     "icon":  "mods/WitchSlayerHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WitchSlayerHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WitchSlayerHunter.zip",
+                                               "size":  16042115,
+                                               "sha256":  "d54a213f9f21a033e05f3d406fd1054fce521d80676ee3608712ad3f27b79654"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WitchSlayerHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WitchSlayerHunter.html",
+                                                   "size":  15047115,
+                                                   "sha256":  "020f0fa77c11c238d67c5d8e465c74a81ddec246e837bf49609985ff6acec9c3"
+                                               }
+                               },
+                     "source_sha256":  "b802b93a9d6d8943f42996952be9b550a612b56c5d45f417b1338a0b6bc0ff54",
                      "updated":  "2026-11-23"
                  }
              ]
