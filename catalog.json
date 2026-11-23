@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:40:40+01:00",
+    "generated":  "2026-11-23T12:43:11+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  1295233,
-                  "sha256":  "e51ae5e839de2fc5b4d602900a918a801e12acd227f7d06d230962b13bcf24c4"
+                  "size":  2086509,
+                  "sha256":  "7fdb21ffec68d9c861e86140ede55f041b3f9d71f20a76496c20edce1734d66b"
               },
     "mods":  [
                  {
@@ -782,6 +782,781 @@
                                                }
                                },
                      "source_sha256":  "d34f2ada5804410987c69a6a00d5e55bc8fa581eaa3ab7cfeac8ca3b5a64e1bb",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BerzerkerPlumbCrazy",
+                     "kind":  "heroes",
+                     "name":  "Berzerker - Plumb Crazy",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "berzerker/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/BerzerkerPlumbCrazy/BerzerkerPlumbCrazy.psd1",
+                     "icon":  "mods/BerzerkerPlumbCrazy/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BerzerkerPlumbCrazy.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BerzerkerPlumbCrazy.zip",
+                                               "size":  10282009,
+                                               "sha256":  "0bd4a6e712f3a2cbc8175c2d4d58634de65c994c296c1d76a32a5663000d8147"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BerzerkerPlumbCrazy.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BerzerkerPlumbCrazy.html",
+                                                   "size":  18869041,
+                                                   "sha256":  "8f243cc3091d1082cdcd5d18e16878fbfade8ab63c63714679e3b093c2ebd7bc"
+                                               }
+                               },
+                     "source_sha256":  "0fed7aa0a346d678b942131d433888d6e9c7a6ecb75193f72eb2847aaade1eac",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BlacksmithDwarfLord",
+                     "kind":  "heroes",
+                     "name":  "Blacksmith - Dwarf Lord",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blacksmith/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-12",
+                     "patch":  false,
+                     "psd1":  "mods/BlacksmithDwarfLord/BlacksmithDwarfLord.psd1",
+                     "icon":  "mods/BlacksmithDwarfLord/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BlacksmithDwarfLord.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BlacksmithDwarfLord.zip",
+                                               "size":  8873818,
+                                               "sha256":  "df24b5268a23aebaf5a51a8b08af393b110c767f38fef6ddb623992e7157b958"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BlacksmithDwarfLord.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BlacksmithDwarfLord.html",
+                                                   "size":  16189988,
+                                                   "sha256":  "61f786e510e0887a71ea330ab25bd8eed38340db5daae0d6c347a29ef70a7bab"
+                                               }
+                               },
+                     "source_sha256":  "061c97d732d1eb41cb51ca20289f9fcc88551317a33b814b28ff44975a188f06",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BloodHunterFusionHunter",
+                     "kind":  "heroes",
+                     "name":  "Blood Hunter - Fusion Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blood_hunter/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BloodHunterFusionHunter/BloodHunterFusionHunter.psd1",
+                     "icon":  "mods/BloodHunterFusionHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BloodHunterFusionHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BloodHunterFusionHunter.zip",
+                                               "size":  10601756,
+                                               "sha256":  "aa84ab374ad995c9ef59fae0f61a7cda3ef1c7f9cda943e520807f0d73cea17e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BloodHunterFusionHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BloodHunterFusionHunter.html",
+                                                   "size":  19247522,
+                                                   "sha256":  "afdc4dc0d47f307af84d91dd564eccd789dee2224cae7acd23c0fc25d4a89cc6"
+                                               }
+                               },
+                     "source_sha256":  "75d7b00c1568bbf4e5058110dd7e20719da117c58e03037f7b46900fa2e78883",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BloodHunterKrahang",
+                     "kind":  "heroes",
+                     "name":  "Blood Hunter - Krahang",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blood_hunter/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BloodHunterKrahang/BloodHunterKrahang.psd1",
+                     "icon":  "mods/BloodHunterKrahang/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BloodHunterKrahang.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BloodHunterKrahang.zip",
+                                               "size":  2835094,
+                                               "sha256":  "bb70ffc532dec086fab9e0d2640caeb19b5ebbfc376ad64c6acd16547701f32b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BloodHunterKrahang.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BloodHunterKrahang.html",
+                                                   "size":  9426242,
+                                                   "sha256":  "6c1f53797eacf9d754cfa0a673f2e6994fce1a4f5edeafa1a5e3375965680655"
+                                               }
+                               },
+                     "source_sha256":  "7ae251ae730f4be99e988c3f6560e4759a7d65ee89f174037379d3bd97e24d26",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BloodHunterShark",
+                     "kind":  "heroes",
+                     "name":  "Blood Hunter - Shark",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blood_hunter/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BloodHunterShark/BloodHunterShark.psd1",
+                     "icon":  "mods/BloodHunterShark/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BloodHunterShark.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BloodHunterShark.zip",
+                                               "size":  12806082,
+                                               "sha256":  "49f84f8ed7278f9fb783731b6194da686a42030b648d371e0f79ed0929964985"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BloodHunterShark.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BloodHunterShark.html",
+                                                   "size":  18983125,
+                                                   "sha256":  "a8fc3bad4f5cde1438e7ade6ff3a4472372bc3eab7da84297942b7dede5ce1a6"
+                                               }
+                               },
+                     "source_sha256":  "7117463d3f2cd61e202649afd6798fac81c9a3a9ef885f4063e415cade67cdaf",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BombardierOderrTheFieryViking",
+                     "kind":  "heroes",
+                     "name":  "Bombardier - Oderr the Fiery Viking",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bombardier/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/BombardierOderrTheFieryViking/BombardierOderrTheFieryViking.psd1",
+                     "icon":  "mods/BombardierOderrTheFieryViking/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BombardierOderrTheFieryViking.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BombardierOderrTheFieryViking.zip",
+                                               "size":  9618199,
+                                               "sha256":  "b45c720e3ba75d5d7c6a82d2c85ff3fad4c87a3cc742ba3ee54abd908170cb0e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BombardierOderrTheFieryViking.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BombardierOderrTheFieryViking.html",
+                                                   "size":  15647585,
+                                                   "sha256":  "5da1fde062388d67e17384e67f4cd0a4ad906a79712c9b607ad86d9bafdd1373"
+                                               }
+                               },
+                     "source_sha256":  "4ee8883bd1b4d45d0546f4a1ed0bf4de476bcde124fa06e6a90a821db0599eed",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BombardierShortFuseBomber",
+                     "kind":  "heroes",
+                     "name":  "Bombardier - Short Fuse Bomber",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bombardier/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/BombardierShortFuseBomber/BombardierShortFuseBomber.psd1",
+                     "icon":  "mods/BombardierShortFuseBomber/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BombardierShortFuseBomber.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BombardierShortFuseBomber.zip",
+                                               "size":  10254831,
+                                               "sha256":  "924c6d7a7e2a028e583bed9b97df1668bdd3b2b34f6b9312b67a41c8dd31bbbb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BombardierShortFuseBomber.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BombardierShortFuseBomber.html",
+                                                   "size":  17369394,
+                                                   "sha256":  "76b251f52a3e8e0cc48b2baa0a90c00262fa12aa34e8a601c5041d726d494fa8"
+                                               }
+                               },
+                     "source_sha256":  "ef4e341c7951e616d558adcbb4280629195f06cb63fd0766c2adf54f00e88741",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BubblesAlpha",
+                     "kind":  "heroes",
+                     "name":  "Bubbles - ALPHA",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bubbles/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/BubblesAlpha/BubblesAlpha.psd1",
+                     "icon":  "mods/BubblesAlpha/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BubblesAlpha.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BubblesAlpha.zip",
+                                               "size":  14004331,
+                                               "sha256":  "3eb14c2e50f254e661647c049e15dd04f20006bef90c3f07b66341a5d0396c81"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BubblesAlpha.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BubblesAlpha.html",
+                                                   "size":  22204193,
+                                                   "sha256":  "5f10175765f9e2fd2d2320f59d5461a06dee76d222676be151b9b5e7ddc35263"
+                                               }
+                               },
+                     "source_sha256":  "2a5a5511bcb93134890cf6fd8b233db6c7df50502ccd4d42f31a2da111f86f8f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BubblesNoppamas",
+                     "kind":  "heroes",
+                     "name":  "Bubbles - Noppamas Bubbles",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bubbles/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/BubblesNoppamas/BubblesNoppamas.psd1",
+                     "icon":  "mods/BubblesNoppamas/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BubblesNoppamas.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BubblesNoppamas.zip",
+                                               "size":  12551279,
+                                               "sha256":  "0e3ee41a3a5a40dfad2e6b9596c53761033103f28df5481f31386bbac2a6f1c5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BubblesNoppamas.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BubblesNoppamas.html",
+                                                   "size":  21640419,
+                                                   "sha256":  "c44a28109f817728691fd229e1f3421bf1c7e7d6874e05ebd18f6e333f38461b"
+                                               }
+                               },
+                     "source_sha256":  "4415f032d8a21c7ce8e62c4cbbc08b097f1fbe4a5739db004a41cd02fc4b67d3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BubblesSteamMage",
+                     "kind":  "heroes",
+                     "name":  "Bubbles - Steam Mage",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bubbles/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/BubblesSteamMage/BubblesSteamMage.psd1",
+                     "icon":  "mods/BubblesSteamMage/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BubblesSteamMage.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BubblesSteamMage.zip",
+                                               "size":  9255258,
+                                               "sha256":  "ff328fdd0514cccfb0fd89f39f5f288a834a7d4e2c7145c6c92abd47171c094b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BubblesSteamMage.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BubblesSteamMage.html",
+                                                   "size":  20257851,
+                                                   "sha256":  "a6584f5894804ef6f9d22d00db12399cc2ef57dfe801e0cbbf5b94ee0b6bc0cf"
+                                               }
+                               },
+                     "source_sha256":  "ddcbc0caa0b0775222db116552daa42f7ac4d4349232dc65e2f94daeaa5949d0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BushwackCesspool",
+                     "kind":  "heroes",
+                     "name":  "Bushwack - Cesspool",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bushwack/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BushwackCesspool/BushwackCesspool.psd1",
+                     "icon":  "mods/BushwackCesspool/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BushwackCesspool.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BushwackCesspool.zip",
+                                               "size":  8313,
+                                               "sha256":  "e6d74b45fa3b30b07aa32a3c31515576b41a6e6327d59f514b412d72443f2d21"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BushwackCesspool.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BushwackCesspool.html",
+                                                   "size":  20895222,
+                                                   "sha256":  "ae89faad89e661e1e821be0c9339b819150aecc4678cba1ab54fc1799e03a339"
+                                               }
+                               },
+                     "source_sha256":  "164e42c89aecfe7c07e334305d835567581fe83018b5a207027bcfeae0351d71",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BushwackMechHuntress",
+                     "kind":  "heroes",
+                     "name":  "Bushwack - Mech Huntress",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bushwack/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BushwackMechHuntress/BushwackMechHuntress.psd1",
+                     "icon":  "mods/BushwackMechHuntress/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BushwackMechHuntress.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BushwackMechHuntress.zip",
+                                               "size":  10483558,
+                                               "sha256":  "45ff38390c0860ac55890c0d945561ce0dd3201aa3a7dc1a56a670a4d465ec40"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BushwackMechHuntress.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BushwackMechHuntress.html",
+                                                   "size":  20880747,
+                                                   "sha256":  "6ec2371f20cfe484407753b317231ca05cdba592a4c65863c70528a345ebb7c1"
+                                               }
+                               },
+                     "source_sha256":  "7642ef02ce31f49149ae704b991da6ee3f05ed57dc75f7c584f1afa45989e932",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosChristmas",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Christmas",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosChristmas/ChronosChristmas.psd1",
+                     "icon":  "mods/ChronosChristmas/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosChristmas.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosChristmas.zip",
+                                               "size":  8788888,
+                                               "sha256":  "6ea128cff13fc502e649689148cedf8bad4c3f4b5768b1c08c1dc5836569d17d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosChristmas.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosChristmas.html",
+                                                   "size":  15966155,
+                                                   "sha256":  "f4fb252a3fbb5b2352228b633553771739ba657e9dbb8a3aa73654000f4a6f1f"
+                                               }
+                               },
+                     "source_sha256":  "454a4fc7f150e6827a1792faec5c56213fbf86be72877f8d75e952f2c9386050",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosDivine",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Divine",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosDivine/ChronosDivine.psd1",
+                     "icon":  "mods/ChronosDivine/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosDivine.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosDivine.zip",
+                                               "size":  12609,
+                                               "sha256":  "a7b534f944fd400db85a80c3bed2622aff8772d6368e369ecaa64a9795c51bab"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosDivine.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosDivine.html",
+                                                   "size":  43232735,
+                                                   "sha256":  "e8cce5ae25996f7caf81b26431966bfab4a9eef1b7f7c7a2150ba5ffc3f654ce"
+                                               }
+                               },
+                     "source_sha256":  "e905919e6010de644066d337a97732d1af07dc208876756a8858ff7f7e8c0317",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosGhatotkacha",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Ghatotkacha",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosGhatotkacha/ChronosGhatotkacha.psd1",
+                     "icon":  "mods/ChronosGhatotkacha/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosGhatotkacha.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosGhatotkacha.zip",
+                                               "size":  10131961,
+                                               "sha256":  "36169a008b84f00678287c1d319d3bab96400af3a7b90a96f98a822a76831d3c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosGhatotkacha.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosGhatotkacha.html",
+                                                   "size":  18185943,
+                                                   "sha256":  "964e5b42a09457ad5ccb5e569844017a21e7e430dff4d3c07549c6560b812eec"
+                                               }
+                               },
+                     "source_sha256":  "9c4d7253228b3d0b46a94ee7b3a2ff5670b176c2b4fabfc65313c34b05fc8de0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosGrandfatherTime",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Grandfather Time",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosGrandfatherTime/ChronosGrandfatherTime.psd1",
+                     "icon":  "mods/ChronosGrandfatherTime/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosGrandfatherTime.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosGrandfatherTime.zip",
+                                               "size":  3905098,
+                                               "sha256":  "322a254148aa0353cf74988543e3fb68335ced3edd29db0eeadbeb12a22a6428"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosGrandfatherTime.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosGrandfatherTime.html",
+                                                   "size":  10508380,
+                                                   "sha256":  "dcd80e1eebf800a7e066b08205f063bf2f335b8e426ef0d5ac3e675f7502ba69"
+                                               }
+                               },
+                     "source_sha256":  "6884eb253b88bf45d7d0539f70a0c9186149079c307de3b435364e5ebf725d80",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosLittleBenny",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Little Benny",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosLittleBenny/ChronosLittleBenny.psd1",
+                     "icon":  "mods/ChronosLittleBenny/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosLittleBenny.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosLittleBenny.zip",
+                                               "size":  9443353,
+                                               "sha256":  "5eb8f3631d195a2c75d5831b2d1669d1341c8fa504f1ac0af6e760fb97e63d4c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosLittleBenny.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosLittleBenny.html",
+                                                   "size":  16418681,
+                                                   "sha256":  "8aeca192223060002c50816e83d4bab93badc4cf1e36e02314daa628aa40b083"
+                                               }
+                               },
+                     "source_sha256":  "77013c37954452cc17222afb0a4f4f900963e1b5a68ab31e906bffd060d855ac",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosPatience",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Patience",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosPatience/ChronosPatience.psd1",
+                     "icon":  "mods/ChronosPatience/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosPatience.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosPatience.zip",
+                                               "size":  9732175,
+                                               "sha256":  "925f93b44aeb8ec9da026115d24a7b5ca5ab14c52ccb5486d60bb4217df53afd"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosPatience.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosPatience.html",
+                                                   "size":  24077970,
+                                                   "sha256":  "de2a9204a684843f1f4b6c1bae44eb514c99da98d987930fa5a270d2aa55e2d7"
+                                               }
+                               },
+                     "source_sha256":  "f5c16bce141ecb486ddd6c6103df38e20578d4630597a56500f1032dfd76788f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosProfessorTickTock",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Professor Tick Tock",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-05",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosProfessorTickTock/ChronosProfessorTickTock.psd1",
+                     "icon":  "mods/ChronosProfessorTickTock/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosProfessorTickTock.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosProfessorTickTock.zip",
+                                               "size":  9787466,
+                                               "sha256":  "4d0955eb51241b806b335751f42a5bca4c18253c47d6d744ed6029f85d92cee3"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosProfessorTickTock.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosProfessorTickTock.html",
+                                                   "size":  25515713,
+                                                   "sha256":  "4b362ca53ec9bde3e09f27340f5b64c95a824c8bc007952ba5dc0c5ecfa78547"
+                                               }
+                               },
+                     "source_sha256":  "670e89d8bbc17319d2c7e30209cf9f5dac5e8b8edbf265a3fab145ae153995b1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosPunk",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Punk",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosPunk/ChronosPunk.psd1",
+                     "icon":  "mods/ChronosPunk/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosPunk.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosPunk.zip",
+                                               "size":  10471946,
+                                               "sha256":  "a54559573667b3b7fe05efe2317e524b9249b00778524825fb1b742738bd9546"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosPunk.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosPunk.html",
+                                                   "size":  19397070,
+                                                   "sha256":  "985ccde19fea2f4ac3231b20f0a94b1be035b73d26f0147c4448177863d5b160"
+                                               }
+                               },
+                     "source_sha256":  "c36af094197f63958600ac73a081b9de3c2e583cbf740639df1d14d186e417c0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosSavageMace",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Savage Mace",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosSavageMace/ChronosSavageMace.psd1",
+                     "icon":  "mods/ChronosSavageMace/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosSavageMace.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosSavageMace.zip",
+                                               "size":  10269166,
+                                               "sha256":  "d3242244ed180f65dda0f78e400c7ba0f2c6b4b649e5052b4c1198c3df51dbe5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosSavageMace.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosSavageMace.html",
+                                                   "size":  23612984,
+                                                   "sha256":  "2b83f1d6c4b046599f71dce1a72272e54888b3ce4d37d827c2cbc50ead75b72e"
+                                               }
+                               },
+                     "source_sha256":  "e618a481c86cddd8f3400c1d893870fb866caeff4cec7dae821f2da77de34570",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ChronosTimeLord",
+                     "kind":  "heroes",
+                     "name":  "Chronos - Time Lord",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "chronos/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ChronosTimeLord/ChronosTimeLord.psd1",
+                     "icon":  "mods/ChronosTimeLord/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ChronosTimeLord.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosTimeLord.zip",
+                                               "size":  8541620,
+                                               "sha256":  "ac969c185d165870710a24e0e4bd91c6dec23df453e4f73685765ac2fa29a7a9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ChronosTimeLord.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ChronosTimeLord.html",
+                                                   "size":  14154312,
+                                                   "sha256":  "71fbd0f1bbe422bb3677069765d78f6eeed426a0030931612bb385ea8c694dc7"
+                                               }
+                               },
+                     "source_sha256":  "401ac0c117235c559462c3a8e33e522114dcd641039d1f56fea83a4548d0fb34",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CorruptedDiscipleEuropa",
+                     "kind":  "heroes",
+                     "name":  "Corrupted Disciple - Europa",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "corrupted_disciple/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/CorruptedDiscipleEuropa/CorruptedDiscipleEuropa.psd1",
+                     "icon":  "mods/CorruptedDiscipleEuropa/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CorruptedDiscipleEuropa.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CorruptedDiscipleEuropa.zip",
+                                               "size":  9426747,
+                                               "sha256":  "4ceb9837de5c83c270ad290a55907cf5e81e8e5ebfd56ce349b43c06a9e499d3"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CorruptedDiscipleEuropa.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CorruptedDiscipleEuropa.html",
+                                                   "size":  17948963,
+                                                   "sha256":  "03522492d6ef42e9ecf8e53e8c44e8b1cc60444b57e7ffdc59a4cdd7ece29570"
+                                               }
+                               },
+                     "source_sha256":  "9550890030f99c87065dbed3fa414bb72da9eff11ec52f96d422870934c2a0ab",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CorruptedDiscipleInquisitor",
+                     "kind":  "heroes",
+                     "name":  "Corrupted Disciple - Inquisitor",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "corrupted_disciple/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/CorruptedDiscipleInquisitor/CorruptedDiscipleInquisitor.psd1",
+                     "icon":  "mods/CorruptedDiscipleInquisitor/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CorruptedDiscipleInquisitor.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CorruptedDiscipleInquisitor.zip",
+                                               "size":  8972615,
+                                               "sha256":  "dbe986c5adb2694377121f9cbc124049eff60d9da1446cfdff269ab2546138f0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CorruptedDiscipleInquisitor.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CorruptedDiscipleInquisitor.html",
+                                                   "size":  15571981,
+                                                   "sha256":  "109ee65b038781c05c8c6e38915d692ee1d4b4385ee88bd6bbf34158aac06353"
+                                               }
+                               },
+                     "source_sha256":  "40c2f3ea6e18bc4feb3e8202d094f77f4192f36cd5701bf902eb445c7350f355",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "CorruptedDiscipleLoki",
+                     "kind":  "heroes",
+                     "name":  "Corrupted Disciple - Loki",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "corrupted_disciple/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/CorruptedDiscipleLoki/CorruptedDiscipleLoki.psd1",
+                     "icon":  "mods/CorruptedDiscipleLoki/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "CorruptedDiscipleLoki.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CorruptedDiscipleLoki.zip",
+                                               "size":  42514,
+                                               "sha256":  "7abc74c54278ca7f5e09c9888f1c9399bb9bd238b17098945baf87d1d18d327c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "CorruptedDiscipleLoki.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/CorruptedDiscipleLoki.html",
+                                                   "size":  20393916,
+                                                   "sha256":  "9aa8b2cfa716f467c7076096f9c5420bcae4271493b4306a36b2cc94326d17ae"
+                                               }
+                               },
+                     "source_sha256":  "6838468082ca780c32a9f5a1868c1e6229fc62f376259f05d3c86f264e897bda",
                      "updated":  "2026-11-23"
                  },
                  {
