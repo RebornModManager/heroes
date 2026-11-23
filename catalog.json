@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:45:40+01:00",
+    "generated":  "2026-11-23T12:48:16+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  2650373,
-                  "sha256":  "3c0a430d1f15bd7c4d130f6f90099be4581c59c179e451d3ad9b9bea9e676314"
+                  "size":  3179611,
+                  "sha256":  "67be5df7ef7314108c0cf7e33edd95fc15e8cb9a14a0e47d5a4d28ed90245d42"
               },
     "mods":  [
                  {
@@ -2332,6 +2332,781 @@
                                                }
                                },
                      "source_sha256":  "8da498ede5dee9d8acec26b2a583e8307c4812a14f336dfc2406cd1ee32aea6f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DoctorRepulsorProfessorRepulsor",
+                     "kind":  "heroes",
+                     "name":  "Doctor Repulsor - Professor Repulsor",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "doctor_repulsor/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/DoctorRepulsorProfessorRepulsor/DoctorRepulsorProfessorRepulsor.psd1",
+                     "icon":  "mods/DoctorRepulsorProfessorRepulsor/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DoctorRepulsorProfessorRepulsor.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DoctorRepulsorProfessorRepulsor.zip",
+                                               "size":  8898494,
+                                               "sha256":  "0d1f56814fa1275f9fd1f67d5933189f8d1ed0a76cfceb04e2ac72dd5db3f644"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DoctorRepulsorProfessorRepulsor.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DoctorRepulsorProfessorRepulsor.html",
+                                                   "size":  15426385,
+                                                   "sha256":  "b82b1ee69f6410da2f2403b62f6d6fea38210d8a3e59d0c47d60f1e9868b2bdd"
+                                               }
+                               },
+                     "source_sha256":  "ec63cc64efb8c20a08b28f51850fbfed7d69e5aa30788a891df46704245de491",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DrunkenMasterDrunkenFool",
+                     "kind":  "heroes",
+                     "name":  "Drunken Master - Drunken Fool",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "drunken_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/DrunkenMasterDrunkenFool/DrunkenMasterDrunkenFool.psd1",
+                     "icon":  "mods/DrunkenMasterDrunkenFool/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DrunkenMasterDrunkenFool.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DrunkenMasterDrunkenFool.zip",
+                                               "size":  10366192,
+                                               "sha256":  "bd23efbc5a320d94aa87fb806f84813e9f11338e22ae2001312839d9bd7e8eb8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DrunkenMasterDrunkenFool.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DrunkenMasterDrunkenFool.html",
+                                                   "size":  26441003,
+                                                   "sha256":  "86622447d01ecb7199cfe07968c46426abefbc38771bd31781c0babd83ea8e86"
+                                               }
+                               },
+                     "source_sha256":  "93c257250265d0b9434fa3a35a85d7b871dec5fe4a4a839b869b1620cd97c641",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DrunkenMasterDrunkenMoonster",
+                     "kind":  "heroes",
+                     "name":  "Drunken Master - Drunken Moonster",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "drunken_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/DrunkenMasterDrunkenMoonster/DrunkenMasterDrunkenMoonster.psd1",
+                     "icon":  "mods/DrunkenMasterDrunkenMoonster/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DrunkenMasterDrunkenMoonster.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DrunkenMasterDrunkenMoonster.zip",
+                                               "size":  12520851,
+                                               "sha256":  "e9d179fe28273e64ab88d670b28eca72d28deedc1cc8f1973391721ca1cbc521"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DrunkenMasterDrunkenMoonster.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DrunkenMasterDrunkenMoonster.html",
+                                                   "size":  23650637,
+                                                   "sha256":  "408c3fdb2248c8f541dbdf12b8172028d53f3aded84066385e9c50fbfa7842bb"
+                                               }
+                               },
+                     "source_sha256":  "afdf2a8ac28ee981621eeb14a154186d2db60e39e4ba91881b796957d95e4305",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DrunkenMasterShamrockMistress",
+                     "kind":  "heroes",
+                     "name":  "Drunken Master - Shamrock Mistress",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "drunken_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/DrunkenMasterShamrockMistress/DrunkenMasterShamrockMistress.psd1",
+                     "icon":  "mods/DrunkenMasterShamrockMistress/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DrunkenMasterShamrockMistress.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DrunkenMasterShamrockMistress.zip",
+                                               "size":  10942406,
+                                               "sha256":  "76ad0fa83d233fb730483452833adb7920fcaed37a132b9f55328fe0f308cb01"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DrunkenMasterShamrockMistress.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DrunkenMasterShamrockMistress.html",
+                                                   "size":  18623592,
+                                                   "sha256":  "a5cbccb3b653a495ab3a1bb006ead52fe398645beefb24658ffe8314b9acab52"
+                                               }
+                               },
+                     "source_sha256":  "08f690c351b974f5aab2a2009c20196c7affdcc0a4788cc0a69b8c104c9bd552",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DrunkenMasterTequilaMaster",
+                     "kind":  "heroes",
+                     "name":  "Drunken Master - Tequila Master",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "drunken_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/DrunkenMasterTequilaMaster/DrunkenMasterTequilaMaster.psd1",
+                     "icon":  "mods/DrunkenMasterTequilaMaster/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DrunkenMasterTequilaMaster.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DrunkenMasterTequilaMaster.zip",
+                                               "size":  9376728,
+                                               "sha256":  "9ae65d4c8c5bdba334a2ceeb85a20000fd5e5edc4a4d0dee87a932cb81e81c8d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DrunkenMasterTequilaMaster.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DrunkenMasterTequilaMaster.html",
+                                                   "size":  32729709,
+                                                   "sha256":  "dd4bfda0fc1b92e891ec8efc8b7886d67d6b869d7f36ca9561fa1d0db0d68303"
+                                               }
+                               },
+                     "source_sha256":  "58af2796d59f4d53b4712439b4c1dfc8ab56f2f1fdfcdb093b6d88953cd74a57",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElectricianDemonbuster",
+                     "kind":  "heroes",
+                     "name":  "Electrician - Demonbuster",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "electrician/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ElectricianDemonbuster/ElectricianDemonbuster.psd1",
+                     "icon":  "mods/ElectricianDemonbuster/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElectricianDemonbuster.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElectricianDemonbuster.zip",
+                                               "size":  8752442,
+                                               "sha256":  "b65a5602bb4ec81e17d12b1920e148703ae26e57480dd4a7c289e6c4434e0d21"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElectricianDemonbuster.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElectricianDemonbuster.html",
+                                                   "size":  17034893,
+                                                   "sha256":  "2c1036c7e5700d3901822966a6448a720a878ebf477dd8fe4d5f7691e7f0a96b"
+                                               }
+                               },
+                     "source_sha256":  "b893c0764ba9d936f9e426752d4449ab7517780c9aa475e9b2c735b57a59d945",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElectricianKillawatt",
+                     "kind":  "heroes",
+                     "name":  "Electrician - Killawatt",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "electrician/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ElectricianKillawatt/ElectricianKillawatt.psd1",
+                     "icon":  "mods/ElectricianKillawatt/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElectricianKillawatt.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElectricianKillawatt.zip",
+                                               "size":  11318418,
+                                               "sha256":  "4312f49df9f66f375eaa7dd1368c90fc63b0f2d233063341ba6d754b64a91fd1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElectricianKillawatt.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElectricianKillawatt.html",
+                                                   "size":  18546676,
+                                                   "sha256":  "e142715f70775fde4aea31de9bd5192ac6d3376861473814f787a848523109c3"
+                                               }
+                               },
+                     "source_sha256":  "5b0afc5c51bdaf83ba081f78f920de246b8f70e64ab57bc589933a8962170c85",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElectricianOsirisReborn",
+                     "kind":  "heroes",
+                     "name":  "Electrician - Osiris Reborn",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "electrician/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ElectricianOsirisReborn/ElectricianOsirisReborn.psd1",
+                     "icon":  "mods/ElectricianOsirisReborn/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElectricianOsirisReborn.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElectricianOsirisReborn.zip",
+                                               "size":  9219129,
+                                               "sha256":  "8647d0f3b13248932502bdde64332d58108aad82c76f3d85ca8c7f68524dd13a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElectricianOsirisReborn.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElectricianOsirisReborn.html",
+                                                   "size":  19796184,
+                                                   "sha256":  "047fb856557f171702bd96e3897b991f07604d1c61690d08fd09d56833b6671d"
+                                               }
+                               },
+                     "source_sha256":  "a868c44cbb1e3274ed103f978b245d8ecaad1cdff229afd36a0673a9288db195",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElloniaCursedWoodpuppetYmir",
+                     "kind":  "heroes",
+                     "name":  "Ellonia - Cursed Woodpuppet Ymir",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ellonia/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ElloniaCursedWoodpuppetYmir/ElloniaCursedWoodpuppetYmir.psd1",
+                     "icon":  "mods/ElloniaCursedWoodpuppetYmir/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElloniaCursedWoodpuppetYmir.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElloniaCursedWoodpuppetYmir.zip",
+                                               "size":  11101455,
+                                               "sha256":  "94db274c96a804f90964d7579f83630ad337a19ea496984abaa20fd5875b48ba"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElloniaCursedWoodpuppetYmir.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElloniaCursedWoodpuppetYmir.html",
+                                                   "size":  16257415,
+                                                   "sha256":  "309e57941d193803b087847592756866fcd167310c47c354990634634d759cb3"
+                                               }
+                               },
+                     "source_sha256":  "944208139b5239451e444b93f664ce937fce71c442274aff144e604d545e41df",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElloniaJacksonFrost",
+                     "kind":  "heroes",
+                     "name":  "Ellonia - Jackson Frost",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ellonia/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ElloniaJacksonFrost/ElloniaJacksonFrost.psd1",
+                     "icon":  "mods/ElloniaJacksonFrost/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElloniaJacksonFrost.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElloniaJacksonFrost.zip",
+                                               "size":  9514037,
+                                               "sha256":  "038f3ec19e14daf647b1ad17b9c90ee3d96327ca6a1a97483ae62be0702062e5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElloniaJacksonFrost.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElloniaJacksonFrost.html",
+                                                   "size":  16242803,
+                                                   "sha256":  "fd40d2292ff570e1153e7a393ed24457ae7c1a8867214d8d929481e1ed803ffc"
+                                               }
+                               },
+                     "source_sha256":  "f38b5c125ae0e98db66ec437aa1b0bfba1ab7ca3a4f795ea03f70c5681683acb",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElloniaQueenOfHearts",
+                     "kind":  "heroes",
+                     "name":  "Ellonia - Queen of Hearts",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ellonia/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ElloniaQueenOfHearts/ElloniaQueenOfHearts.psd1",
+                     "icon":  "mods/ElloniaQueenOfHearts/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElloniaQueenOfHearts.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElloniaQueenOfHearts.zip",
+                                               "size":  9965143,
+                                               "sha256":  "1287e12514d66079a16748bdf0c8c6af398bad664d32086fd351964af0f74f09"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElloniaQueenOfHearts.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElloniaQueenOfHearts.html",
+                                                   "size":  17377738,
+                                                   "sha256":  "c32b867e36bf3603fcb2f443449d09292fb14d60e83268296f9ab00ca76db79d"
+                                               }
+                               },
+                     "source_sha256":  "a46afb1ebe5cc7039cc9281c33ba8210085bf83110c96a4ce9da6a9e36cc5c9b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ElloniaZero",
+                     "kind":  "heroes",
+                     "name":  "Ellonia - Zero",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "ellonia/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ElloniaZero/ElloniaZero.psd1",
+                     "icon":  "mods/ElloniaZero/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ElloniaZero.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ElloniaZero.zip",
+                                               "size":  8759576,
+                                               "sha256":  "002d7097a01fdeb7e8bb5032025e095b918a28ac00c9ec769af04e50e8d36b3c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ElloniaZero.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ElloniaZero.html",
+                                                   "size":  20312340,
+                                                   "sha256":  "98fb10b9cf371da3f15ec56096582d064bc5f7ea4ff0ac19de8e6c1092b0ecf0"
+                                               }
+                               },
+                     "source_sha256":  "e3fd3269ad0409fc92e144215e0eaa3c86a948adf9456f6aba86b603b36e2092",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "EmeraldWardenDryadWarden",
+                     "kind":  "heroes",
+                     "name":  "Emerald Warden - Dryad Warden",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "emerald_warden/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/EmeraldWardenDryadWarden/EmeraldWardenDryadWarden.psd1",
+                     "icon":  "mods/EmeraldWardenDryadWarden/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EmeraldWardenDryadWarden.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EmeraldWardenDryadWarden.zip",
+                                               "size":  1989277,
+                                               "sha256":  "91e82ec69cdb8a3f6b39b23b324bccfd6c7e6ed3a7ce9ec0f6623972f1e363be"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EmeraldWardenDryadWarden.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EmeraldWardenDryadWarden.html",
+                                                   "size":  6418831,
+                                                   "sha256":  "ed197ba9da19d1ae54a0925b4ad4e25041ced74a86c3bfa428ea90261dc3a9d3"
+                                               }
+                               },
+                     "source_sha256":  "e366e8ae49cb020ae57072fee171655262c3750708d1a6e306383ddc2d9e7224",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "EmpathNangTani",
+                     "kind":  "heroes",
+                     "name":  "Empath - Nang Tani",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "empath/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/EmpathNangTani/EmpathNangTani.psd1",
+                     "icon":  "mods/EmpathNangTani/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EmpathNangTani.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EmpathNangTani.zip",
+                                               "size":  3176967,
+                                               "sha256":  "39c9c5a13740c2a26ce290cfb17bf62dfaa5ee0035d542397a32670b55e11312"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EmpathNangTani.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EmpathNangTani.html",
+                                                   "size":  7558205,
+                                                   "sha256":  "30fb7d614d7519116f3600f943c0cfcdd6cfb865af53f3152e89c5c8b3736d54"
+                                               }
+                               },
+                     "source_sha256":  "dc08ca3fe4bceaf5279c2735b00a18ea24df4eaefbe4ff9bc836ee1d36d41797",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "EngineerMangler",
+                     "kind":  "heroes",
+                     "name":  "Engineer - Mangler",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "engineer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/EngineerMangler/EngineerMangler.psd1",
+                     "icon":  "mods/EngineerMangler/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EngineerMangler.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EngineerMangler.zip",
+                                               "size":  16606248,
+                                               "sha256":  "1e3854f14559ca9a07c13088ef00429f141f142f4bdf7610c4fb3f0430b7d94a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EngineerMangler.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EngineerMangler.html",
+                                                   "size":  22233862,
+                                                   "sha256":  "7c392f3024682e49cccbd62a589b17eb34956f4033e70fa7d397ba8a06d9a084"
+                                               }
+                               },
+                     "source_sha256":  "a500bb0df8e5904d0e169f21723531c4d01e13bafcd1a913e29506a0647d2c46",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "EngineerRiftHunter",
+                     "kind":  "heroes",
+                     "name":  "Engineer - Rift Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "engineer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/EngineerRiftHunter/EngineerRiftHunter.psd1",
+                     "icon":  "mods/EngineerRiftHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EngineerRiftHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EngineerRiftHunter.zip",
+                                               "size":  11103404,
+                                               "sha256":  "c92271714709c5785008ee6ab96fb9081bdf5485e96e1ec818c235948ee5be26"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EngineerRiftHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EngineerRiftHunter.html",
+                                                   "size":  18771092,
+                                                   "sha256":  "9ee26baf6ea90a5e363d40dd94fb0e52a68526c12d6f7f0078dc891e0e17ca5c"
+                                               }
+                               },
+                     "source_sha256":  "c1ec8c5a016b632fd1de4dc849753fc133b8a41a0d310e2c0709527e809d3f19",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "EngineerTroika",
+                     "kind":  "heroes",
+                     "name":  "Engineer - Troika",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "engineer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/EngineerTroika/EngineerTroika.psd1",
+                     "icon":  "mods/EngineerTroika/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EngineerTroika.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EngineerTroika.zip",
+                                               "size":  9592170,
+                                               "sha256":  "24dbd70dfbd5a5b9d22aa2efa640e04c1815e20878b394a4e0e382a27803198d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EngineerTroika.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EngineerTroika.html",
+                                                   "size":  20388331,
+                                                   "sha256":  "4d541a9ed348d92fc353ec4f7742aad791bfc27e555c2c94224d16e43bccd7fa"
+                                               }
+                               },
+                     "source_sha256":  "725f057e14738b495a44d694315d98aa87567ef0257a2ab985f3c8cb4318df25",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FaydeAscension",
+                     "kind":  "heroes",
+                     "name":  "Fayde - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "fayde/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-01",
+                     "patch":  false,
+                     "psd1":  "mods/FaydeAscension/FaydeAscension.psd1",
+                     "icon":  "mods/FaydeAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FaydeAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FaydeAscension.zip",
+                                               "size":  11849779,
+                                               "sha256":  "008ed2f9654844fa8fb7a53803e131ed0c86970c56baca4f6632df5d3ce2c360"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FaydeAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FaydeAscension.html",
+                                                   "size":  17197851,
+                                                   "sha256":  "c414187d18d4d7ae2ceb3b364ad22bc2ea27481d64a021bde0d47720f8208bfd"
+                                               }
+                               },
+                     "source_sha256":  "2996b369bd0384427eb5603848ccd16eb237f97f2228ae520f602ee90d352d51",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FaydeBloodshadow",
+                     "kind":  "heroes",
+                     "name":  "Fayde - Bloodshadow",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "fayde/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/FaydeBloodshadow/FaydeBloodshadow.psd1",
+                     "icon":  "mods/FaydeBloodshadow/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FaydeBloodshadow.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FaydeBloodshadow.zip",
+                                               "size":  12943180,
+                                               "sha256":  "220f55211520349af48d43ae044b7a8621d3e45129a29d0eed81004009f41941"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FaydeBloodshadow.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FaydeBloodshadow.html",
+                                                   "size":  17903426,
+                                                   "sha256":  "a29f81c6bfef579bb0161aef270a61154b3f5db849821b2ac493bc1ed538ba59"
+                                               }
+                               },
+                     "source_sha256":  "7002dac899f0f98e2b3f4e75ff6ad5bc83f0aa54f07f1ab979ef3faf4a65ecd0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FaydeScarecrow",
+                     "kind":  "heroes",
+                     "name":  "Fayde - Scarecrow",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "fayde/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/FaydeScarecrow/FaydeScarecrow.psd1",
+                     "icon":  "mods/FaydeScarecrow/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FaydeScarecrow.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FaydeScarecrow.zip",
+                                               "size":  2728403,
+                                               "sha256":  "0d137d383dbdc2109bcdcf694875814e4422875b7a4fd1ddc88ad9189d456b73"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FaydeScarecrow.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FaydeScarecrow.html",
+                                                   "size":  7874658,
+                                                   "sha256":  "9f779db52ad2dadb4dba34312e9b938e032465aaf2cd001dcc425f429b40893d"
+                                               }
+                               },
+                     "source_sha256":  "06bf8beaf3893fe51f78e3fa2b1baa64093b4dd792de1a49b478567a59e817f9",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FlintBoomstick",
+                     "kind":  "heroes",
+                     "name":  "Flint Beastwood - Boomstick",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flint_beastwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/FlintBoomstick/FlintBoomstick.psd1",
+                     "icon":  "mods/FlintBoomstick/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FlintBoomstick.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintBoomstick.zip",
+                                               "size":  9363736,
+                                               "sha256":  "d3ef2170444f50987044be525fb10b231f825339d658c8b4f7ad6b5bf13f6c1c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FlintBoomstick.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FlintBoomstick.html",
+                                                   "size":  6927945,
+                                                   "sha256":  "e17643dad7dec5bef7acc5b2b7875da76c85208b3d2a8e38fc8ebd8ff0fa5a23"
+                                               }
+                               },
+                     "source_sha256":  "e6dada235c0acd776cbeac9015c02f83789de8a4c9a384f26582d22ae1f3c4c6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FlintTheOrWithNoName",
+                     "kind":  "heroes",
+                     "name":  "Flint Beastwood - The Or With No Name",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flint_beastwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/FlintTheOrWithNoName/FlintTheOrWithNoName.psd1",
+                     "icon":  "mods/FlintTheOrWithNoName/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FlintTheOrWithNoName.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintTheOrWithNoName.zip",
+                                               "size":  3197280,
+                                               "sha256":  "7b4beb56e108ce7f320d907f72db9ab7ff3e4fe55d5ee02b662684bd2bbbad14"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FlintTheOrWithNoName.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FlintTheOrWithNoName.html",
+                                                   "size":  8837566,
+                                                   "sha256":  "9ccff47f795fce3d546963768b86742ff8f38a91895e834f6acbca7da9b85b19"
+                                               }
+                               },
+                     "source_sha256":  "556f92ded0517312e83ac8dffbed8b5ec166ec0cf8542a3793603527c3078a85",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FlintTommyTwoGun",
+                     "kind":  "heroes",
+                     "name":  "Flint Beastwood - Tommy TwoGun",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flint_beastwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/FlintTommyTwoGun/FlintTommyTwoGun.psd1",
+                     "icon":  "mods/FlintTommyTwoGun/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FlintTommyTwoGun.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintTommyTwoGun.zip",
+                                               "size":  8517442,
+                                               "sha256":  "5881917b4435adf655c3965afec2516c9c0d6419718f45ca02a32357918c749a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FlintTommyTwoGun.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FlintTommyTwoGun.html",
+                                                   "size":  14397965,
+                                                   "sha256":  "0923a5067864717fc9d881e093ca4315274f675e86c02335053bea5fe136e8f9"
+                                               }
+                               },
+                     "source_sha256":  "f23dd0dbfb17690222e92b783d04990246530b1139e267b939d51d7a2a842f8c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FlintWasteland",
+                     "kind":  "heroes",
+                     "name":  "Flint Beastwood - Wasteland",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flint_beastwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/FlintWasteland/FlintWasteland.psd1",
+                     "icon":  "mods/FlintWasteland/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FlintWasteland.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintWasteland.zip",
+                                               "size":  2241122,
+                                               "sha256":  "a85b2934680aacc2c3ce33fae3e3e358fc904cf9164b740b9fdc5fd3deb3bcac"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FlintWasteland.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FlintWasteland.html",
+                                                   "size":  44223227,
+                                                   "sha256":  "0ae644909ef8d96507933194026a7729c2fd4b33209487d6596d8f281d752fa9"
+                                               }
+                               },
+                     "source_sha256":  "d25777178a0ac2471a8579f9666f7237e05bbb6e8c40d808ebe241b1b269a520",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FlintWastelandTwitch",
+                     "kind":  "heroes",
+                     "name":  "Flint Beastwood - Wasteland Twitch",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flint_beastwood/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/FlintWastelandTwitch/FlintWastelandTwitch.psd1",
+                     "icon":  "mods/FlintWastelandTwitch/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FlintWastelandTwitch.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintWastelandTwitch.zip",
+                                               "size":  2289519,
+                                               "sha256":  "321cad3ba6caec2ba8a8c48ffe16133bcd416bc5c9a724c12ba1ea5867688a8f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FlintWastelandTwitch.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FlintWastelandTwitch.html",
+                                                   "size":  41858799,
+                                                   "sha256":  "d6622b67879373ab7e3aca0006d8bcffff4fbaef5485a55f08145c83b2c25b3f"
+                                               }
+                               },
+                     "source_sha256":  "4959a6d17b963af8099476726d500e6e99545fb45ad4df245cef26d61433dee7",
                      "updated":  "2026-11-23"
                  },
                  {
