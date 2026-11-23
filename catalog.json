@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T13:03:53+01:00",
+    "generated":  "2026-11-23T13:06:29+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  7383803,
-                  "sha256":  "d50326a9e746bf58f9477a0dd49847e4734df73aad0bd42fe5237137fab3cba6"
+                  "size":  8222339,
+                  "sha256":  "762fb29f22241b302da719560abbb0b456c8721049e0d9d2796a42130d68952c"
               },
     "mods":  [
                  {
@@ -7757,6 +7757,781 @@
                                                }
                                },
                      "source_sha256":  "8b79e74d10e89f39a6f7a10747727c45208d63be37ea657befc0f8112917e80a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ScoutFrostfield",
+                     "kind":  "heroes",
+                     "name":  "Scout - Frostfield",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "scout/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ScoutFrostfield/ScoutFrostfield.psd1",
+                     "icon":  "mods/ScoutFrostfield/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ScoutFrostfield.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ScoutFrostfield.zip",
+                                               "size":  11119,
+                                               "sha256":  "6db79df33479db2df41dfb768fbabbd5a9b58a353407a2625f86b7d5ea1de2d6"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ScoutFrostfield.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ScoutFrostfield.html",
+                                                   "size":  29209892,
+                                                   "sha256":  "0cc13d12dae31b25a250d6efd146547a3c00229796e69025c605145b60e7accf"
+                                               }
+                               },
+                     "source_sha256":  "d75420a823669e9adc5cdff49fd5228c1459e1ea4a8ba0be0df2f70a80ff6179",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ScoutScoutzoTheClown",
+                     "kind":  "heroes",
+                     "name":  "Scout - Scoutzo The Clown",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "scout/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ScoutScoutzoTheClown/ScoutScoutzoTheClown.psd1",
+                     "icon":  "mods/ScoutScoutzoTheClown/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ScoutScoutzoTheClown.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ScoutScoutzoTheClown.zip",
+                                               "size":  8738514,
+                                               "sha256":  "8dcace31e5343093eccfafe46d3c2ff093a9a5e9c697c0324facbd809145daad"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ScoutScoutzoTheClown.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ScoutScoutzoTheClown.html",
+                                                   "size":  15931613,
+                                                   "sha256":  "092bbb7da588a2cc8cc84e54b7da3711c28570a59f979aaccbb60bd3131c0349"
+                                               }
+                               },
+                     "source_sha256":  "2dbb1ab7e0abd716d7569bd60a6e7cf7eaa8c5f48e11b83b8cdfb02eda2c69aa",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ScoutTetra",
+                     "kind":  "heroes",
+                     "name":  "Scout - Tetra",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "scout/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ScoutTetra/ScoutTetra.psd1",
+                     "icon":  "mods/ScoutTetra/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ScoutTetra.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ScoutTetra.zip",
+                                               "size":  9331112,
+                                               "sha256":  "bda2d57389aaa192429e7141be6e7176a8bf9ef70c4d030e92a639aaee3ab7cf"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ScoutTetra.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ScoutTetra.html",
+                                                   "size":  17471285,
+                                                   "sha256":  "ba1ff3a555d741d62a78caf1113eeadd2ea8169f9696d99bccea04a066d35bc5"
+                                               }
+                               },
+                     "source_sha256":  "ffb8a5bf0ce2c5ae04fb25fddb6854baff99bcba728c08a181fd510fa63e2f2b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ScoutVardik",
+                     "kind":  "heroes",
+                     "name":  "Scout - Vardik",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "scout/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/ScoutVardik/ScoutVardik.psd1",
+                     "icon":  "mods/ScoutVardik/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ScoutVardik.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ScoutVardik.zip",
+                                               "size":  9780584,
+                                               "sha256":  "e5cfa6633c8c982083ea6de5a3508b44fbb991a346bf7b659f0cb3c757f1b7f1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ScoutVardik.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ScoutVardik.html",
+                                                   "size":  18687376,
+                                                   "sha256":  "9d5efb58c57b465e94abd6bed4360af2e0d69f7cb0bbc9e49a93f28d880ef8c1"
+                                               }
+                               },
+                     "source_sha256":  "e782dd91cb436867f44ea1e80c33bc97a634967779413b2171a08bf69eaea014",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ShadowbladeAngelofdeath",
+                     "kind":  "heroes",
+                     "name":  "Shadowblade - Angel of death",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "shadowblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ShadowbladeAngelofdeath/ShadowbladeAngelofdeath.psd1",
+                     "icon":  "mods/ShadowbladeAngelofdeath/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ShadowbladeAngelofdeath.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ShadowbladeAngelofdeath.zip",
+                                               "size":  15336,
+                                               "sha256":  "b321e1c1b41e51346a96ecf13d1cb6b96345f6ac6e81d4adbface23a450bff21"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ShadowbladeAngelofdeath.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ShadowbladeAngelofdeath.html",
+                                                   "size":  15852313,
+                                                   "sha256":  "de4141f43e0414f5ef43c3f6b95fb4ce1baf957239560fb673d8f7b2af37c1fc"
+                                               }
+                               },
+                     "source_sha256":  "fda37317bd0ee8802073fa0a486aa376a502685ca98c4caa704f28d7ebfaf517",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ShadowbladeDominion",
+                     "kind":  "heroes",
+                     "name":  "Shadowblade - Dominion",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "shadowblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/ShadowbladeDominion/ShadowbladeDominion.psd1",
+                     "icon":  "mods/ShadowbladeDominion/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ShadowbladeDominion.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ShadowbladeDominion.zip",
+                                               "size":  34663537,
+                                               "sha256":  "07336084e82b922906317ebf5107d7657e6ff7b7add16a126dd6a1037b0015e4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ShadowbladeDominion.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ShadowbladeDominion.html",
+                                                   "size":  14096095,
+                                                   "sha256":  "c84e49570922d9636678fbe0cb67a11ed8ddcfe4f6719ebc4a1a50792ad22a20"
+                                               }
+                               },
+                     "source_sha256":  "dc445593800b0f20a785addefea40928092fecff836e5fe2f59632c397161b77",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ShadowbladeGhostsOfChristmas",
+                     "kind":  "heroes",
+                     "name":  "Shadowblade - Ghosts of Christmas",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "shadowblade/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/ShadowbladeGhostsOfChristmas/ShadowbladeGhostsOfChristmas.psd1",
+                     "icon":  "mods/ShadowbladeGhostsOfChristmas/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ShadowbladeGhostsOfChristmas.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ShadowbladeGhostsOfChristmas.zip",
+                                               "size":  38062478,
+                                               "sha256":  "0890a763f7ad26222dadec9719f7f45bd84478dac456107f26393ec4ae22f420"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ShadowbladeGhostsOfChristmas.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ShadowbladeGhostsOfChristmas.html",
+                                                   "size":  15292618,
+                                                   "sha256":  "e341bebfd4b2445619a6aa4f10adf9c767dbe0b1addf622a3cb39a2f86f2ff56"
+                                               }
+                               },
+                     "source_sha256":  "a6a28441645b2ca51dba3927d6f7cfa7e888c52a731340313dfaca895e896e9b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SilhouetteArbinger",
+                     "kind":  "heroes",
+                     "name":  "Silhouette - Arbinger",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "silhouette/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/SilhouetteArbinger/SilhouetteArbinger.psd1",
+                     "icon":  "mods/SilhouetteArbinger/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SilhouetteArbinger.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteArbinger.zip",
+                                               "size":  8705498,
+                                               "sha256":  "d7f4e2aed67e023f30e51b6ec3e8d075d4ebe7295eb15e5ad2624ed59edf6a1f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SilhouetteArbinger.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SilhouetteArbinger.html",
+                                                   "size":  14378702,
+                                                   "sha256":  "e887ea77dcb743ba7b643bf47d7e38004aea19c02d7162d52f2da4b44b44bfbb"
+                                               }
+                               },
+                     "source_sha256":  "e3a85e59a6238d665890d1d0f8ff07ba57944570af1b9bc8feebd639ca5c2660",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SilhouetteHexa",
+                     "kind":  "heroes",
+                     "name":  "Silhouette - Hexa",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "silhouette/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/SilhouetteHexa/SilhouetteHexa.psd1",
+                     "icon":  "mods/SilhouetteHexa/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SilhouetteHexa.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteHexa.zip",
+                                               "size":  7895145,
+                                               "sha256":  "07bcaa400e736550576bff3b4f9626b6162e308a6788ed042ff812b15d82a27d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SilhouetteHexa.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SilhouetteHexa.html",
+                                                   "size":  14321882,
+                                                   "sha256":  "94396290bf6d88cf5014b0ae4d1b10dee046b7839f1d23a74477dff89c2e5230"
+                                               }
+                               },
+                     "source_sha256":  "982e5ab59c34c5815c9394e8bcf41f03b00e3b13d80e51809d291553384b5cf5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SilhouetteMaeNak",
+                     "kind":  "heroes",
+                     "name":  "Silhouette - Mae Nak",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "silhouette/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SilhouetteMaeNak/SilhouetteMaeNak.psd1",
+                     "icon":  "mods/SilhouetteMaeNak/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SilhouetteMaeNak.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteMaeNak.zip",
+                                               "size":  5174871,
+                                               "sha256":  "f4bc1d3c084d189c78026c5dfa5f82db2de0a3692dbde0777fb0625c2e933977"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SilhouetteMaeNak.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SilhouetteMaeNak.html",
+                                                   "size":  11521208,
+                                                   "sha256":  "19e45ca5cea560850763f7451d9360e5fd66631cfc8600e9066adbfcff6e5efd"
+                                               }
+                               },
+                     "source_sha256":  "96dd1a433057818b61108c7bf1727b77dc7d34d4a1adb56f810733f00326d79c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SilhouetteMasterAssassin",
+                     "kind":  "heroes",
+                     "name":  "Silhouette - Master Assassin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "silhouette/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SilhouetteMasterAssassin/SilhouetteMasterAssassin.psd1",
+                     "icon":  "mods/SilhouetteMasterAssassin/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SilhouetteMasterAssassin.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteMasterAssassin.zip",
+                                               "size":  2648912,
+                                               "sha256":  "07bf086b40b62a8a8b1dda5d7543a27c07af1c7bacf419c0b34fb2b20f8b399c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SilhouetteMasterAssassin.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SilhouetteMasterAssassin.html",
+                                                   "size":  7556604,
+                                                   "sha256":  "46ed54020bf82e5b548cf24d249cf874cbab80495091b876bdeeaecdacd2ede2"
+                                               }
+                               },
+                     "source_sha256":  "c76e66dc6e7122c4bef3687ff387369451ef4249b3831063724dc98aad14117c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SilhouetteRiftHunter",
+                     "kind":  "heroes",
+                     "name":  "Silhouette - Rift Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "silhouette/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/SilhouetteRiftHunter/SilhouetteRiftHunter.psd1",
+                     "icon":  "mods/SilhouetteRiftHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SilhouetteRiftHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteRiftHunter.zip",
+                                               "size":  11017754,
+                                               "sha256":  "bc9893f385d1012edd6b3d408319e7c29ae113a14cebdc698c9447b11e6bbcaa"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SilhouetteRiftHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SilhouetteRiftHunter.html",
+                                                   "size":  15485918,
+                                                   "sha256":  "3313d4e53933b91c4d510ccb388a71e7cf9d3ad8f5a95daa89e3a2ac0cf70f2f"
+                                               }
+                               },
+                     "source_sha256":  "58eb59b4fb368997ed5c65bc99a21f234516c5d6708badde7798229e8f21793a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SilhouetteSileena",
+                     "kind":  "heroes",
+                     "name":  "Silhouette - Sileena",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "silhouette/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SilhouetteSileena/SilhouetteSileena.psd1",
+                     "icon":  "mods/SilhouetteSileena/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SilhouetteSileena.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteSileena.zip",
+                                               "size":  2414623,
+                                               "sha256":  "da3629f81dadd459693235140303962a2ad4c2983f57384a91ea17f027cad66a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SilhouetteSileena.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SilhouetteSileena.html",
+                                                   "size":  7600041,
+                                                   "sha256":  "860a281845390f11267a7ee6ce4a01b9cf5705b4bf38a8517df532ddb9f0f51d"
+                                               }
+                               },
+                     "source_sha256":  "0ebd780142c4b24335284d8375f34ff3d565ba037e4fbcb9de9d62476a2bcddc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SlitherDeep",
+                     "kind":  "heroes",
+                     "name":  "Slither - Deep",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "slither/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SlitherDeep/SlitherDeep.psd1",
+                     "icon":  "mods/SlitherDeep/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SlitherDeep.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SlitherDeep.zip",
+                                               "size":  9531,
+                                               "sha256":  "2b818eb4fd3c71dd60afe9730ee01ae6985ffb049a1b577cc23ad9aaa53aaee3"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SlitherDeep.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SlitherDeep.html",
+                                                   "size":  18715657,
+                                                   "sha256":  "81c6225fe0dfaa6d7b46824a9be1b818549bbf47e2dd24908474f328b6aec8bc"
+                                               }
+                               },
+                     "source_sha256":  "e5de4031bbf8e88b0fb8d3d6036c5ad6ca06111235d6b70e561fd2d8aec9a435",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SlitherRedScorpio",
+                     "kind":  "heroes",
+                     "name":  "Slither - Red Scorpio",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "slither/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/SlitherRedScorpio/SlitherRedScorpio.psd1",
+                     "icon":  "mods/SlitherRedScorpio/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SlitherRedScorpio.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SlitherRedScorpio.zip",
+                                               "size":  10116896,
+                                               "sha256":  "b68597b792d1b772ad07d6b6fb4229749fb7e259bb588a5fa6ce631801d0b2aa"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SlitherRedScorpio.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SlitherRedScorpio.html",
+                                                   "size":  17591993,
+                                                   "sha256":  "58e45b93e5e5cea59c80a74562e205c7618da2a53eafe4b5653cf46f98c9781d"
+                                               }
+                               },
+                     "source_sha256":  "5fbc313b83787f275183e93617f7dfac2197b52085d38535f37befb17a61a6cd",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SolsticeMrTickles",
+                     "kind":  "heroes",
+                     "name":  "Solstice - Mr Tickles",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "solstice/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SolsticeMrTickles/SolsticeMrTickles.psd1",
+                     "icon":  "mods/SolsticeMrTickles/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SolsticeMrTickles.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SolsticeMrTickles.zip",
+                                               "size":  11104162,
+                                               "sha256":  "986ae0b37ed089e0a4ecfc0e04977d57ae7f5ff1b2e47dc8527c90688eea5c18"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SolsticeMrTickles.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SolsticeMrTickles.html",
+                                                   "size":  14264529,
+                                                   "sha256":  "c2b07d5c4726c95c9446cdef1c5b5011deb9b54835c80c2f5f80103ec8d30230"
+                                               }
+                               },
+                     "source_sha256":  "089b546adb3fa210ef03b06ca023ef6637d49f0c606197874c45db31b3312534",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SolsticeSpringBreak",
+                     "kind":  "heroes",
+                     "name":  "Solstice - Spring Break Solstice",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "solstice/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/SolsticeSpringBreak/SolsticeSpringBreak.psd1",
+                     "icon":  "mods/SolsticeSpringBreak/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SolsticeSpringBreak.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SolsticeSpringBreak.zip",
+                                               "size":  16756229,
+                                               "sha256":  "206e1fa7a182c5d8e44612dd955339cee563ff06050c151a83c3693205c03fda"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SolsticeSpringBreak.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SolsticeSpringBreak.html",
+                                                   "size":  15102914,
+                                                   "sha256":  "a45b1ca605cd557aaa8bff355483ffac4ee074f4d2c0b092b462496d1f6914db"
+                                               }
+                               },
+                     "source_sha256":  "5bdc6ada10baf511039c1f264d773f31a341c0256b87b4edcd941d760aa6f63f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SolsticeYinAndYang",
+                     "kind":  "heroes",
+                     "name":  "Solstice - Yin and Yang",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "solstice/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/SolsticeYinAndYang/SolsticeYinAndYang.psd1",
+                     "icon":  "mods/SolsticeYinAndYang/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SolsticeYinAndYang.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SolsticeYinAndYang.zip",
+                                               "size":  19437782,
+                                               "sha256":  "eb5de20c5f28af3359e9ff3d477012a54f003ee87a6f2dc639645ab0377869f4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SolsticeYinAndYang.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SolsticeYinAndYang.html",
+                                                   "size":  28416650,
+                                                   "sha256":  "e36f9a1d02894f51251473bd0ac3268b2013b81d9569434f33e102b3d6402c38"
+                                               }
+                               },
+                     "source_sha256":  "f091163c4a52cb4a73969cfe63432d66c72f4175bcae3c330db559eb19d32746",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulReaperShadowReaper",
+                     "kind":  "heroes",
+                     "name":  "Soul Reaper - Shadow Reaper",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soul_reaper/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SoulReaperShadowReaper/SoulReaperShadowReaper.psd1",
+                     "icon":  "mods/SoulReaperShadowReaper/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulReaperShadowReaper.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulReaperShadowReaper.zip",
+                                               "size":  14001501,
+                                               "sha256":  "31ca14248464ea9ed4bbf2df5d10e5de9794edcda84af71a3d31d3003e8dd4c9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulReaperShadowReaper.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulReaperShadowReaper.html",
+                                                   "size":  16908749,
+                                                   "sha256":  "8323665905957eed4aebce1a9a4e2bc6c06535786d347705368e7af60fa799b4"
+                                               }
+                               },
+                     "source_sha256":  "5d776173817155a57650947eab314520b9c9d0c0c3cac7a7c1b652eb9899c0bb",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulstealerAscension",
+                     "kind":  "heroes",
+                     "name":  "Soulstealer - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soulstealer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SoulstealerAscension/SoulstealerAscension.psd1",
+                     "icon":  "mods/SoulstealerAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulstealerAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerAscension.zip",
+                                               "size":  10322831,
+                                               "sha256":  "433082fbb131170973bbe59ed05eb168ddcfeeeeb71a6fb35bcee18032dbfd19"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulstealerAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulstealerAscension.html",
+                                                   "size":  17628567,
+                                                   "sha256":  "4a3c2218a8457e2420f0d684918849baa5ab3d1ea4cf59f6c39dab9a2e6b926d"
+                                               }
+                               },
+                     "source_sha256":  "e8d5d42b6f38f36a7cb3777ca83fe82516f37ad59547b48ccc8aa10ba44619ea",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulstealerEXO",
+                     "kind":  "heroes",
+                     "name":  "Soulstealer - EXO",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soulstealer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/SoulstealerEXO/SoulstealerEXO.psd1",
+                     "icon":  "mods/SoulstealerEXO/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulstealerEXO.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerEXO.zip",
+                                               "size":  10896117,
+                                               "sha256":  "11afc9e647349859ff1c71dbba672cec59600afa5442a9010caa0ed81b27aac9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulstealerEXO.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulstealerEXO.html",
+                                                   "size":  16235340,
+                                                   "sha256":  "006c757cef943d8632d4be4c34749f8c9b94cf70f840f0015e07a2eaaba60e6d"
+                                               }
+                               },
+                     "source_sha256":  "11b20bb9ae16a24a0d60f03e7bbef7a7c1127c0e4b7a28fe0b6a8548efdffcb9",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulstealerGreed",
+                     "kind":  "heroes",
+                     "name":  "Soulstealer - Greed",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soulstealer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/SoulstealerGreed/SoulstealerGreed.psd1",
+                     "icon":  "mods/SoulstealerGreed/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulstealerGreed.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerGreed.zip",
+                                               "size":  4298908,
+                                               "sha256":  "7c37f424893b46855c8b7c4d5df050fda27a32025af70bd0b195108288be983c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulstealerGreed.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulstealerGreed.html",
+                                                   "size":  9973850,
+                                                   "sha256":  "9d7899bd047e9f3f4ccd8d79b3961c276fda678b171e9080451ee28bec407c9e"
+                                               }
+                               },
+                     "source_sha256":  "e8f4c24102a536987f18cd69b1cf7bbb4f832d72efeba277e3c3c031f9ea4f25",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulstealerHades",
+                     "kind":  "heroes",
+                     "name":  "Soulstealer - Hades",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soulstealer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/SoulstealerHades/SoulstealerHades.psd1",
+                     "icon":  "mods/SoulstealerHades/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulstealerHades.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerHades.zip",
+                                               "size":  9643315,
+                                               "sha256":  "e669ee933aa77b60736b788f5eb85b8f9e66d9dddcfbb9dee38f216cc8269873"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulstealerHades.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulstealerHades.html",
+                                                   "size":  17496314,
+                                                   "sha256":  "56bbce8d83ae5c451a6ce4f5f70e971817426ed6149ef026eb089b366113418a"
+                                               }
+                               },
+                     "source_sha256":  "f7eb5c987c91782dc27ca0b9c0b37fd38c525976b260c87fdafe7a65c31c7479",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulstealerSoulchiller",
+                     "kind":  "heroes",
+                     "name":  "Soulstealer - Soulchiller",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soulstealer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/SoulstealerSoulchiller/SoulstealerSoulchiller.psd1",
+                     "icon":  "mods/SoulstealerSoulchiller/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulstealerSoulchiller.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerSoulchiller.zip",
+                                               "size":  10170442,
+                                               "sha256":  "5d67300b48789d1faf9d656ed34626ab3ce81c35f11ead68d3c12a6322dfdc3c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulstealerSoulchiller.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulstealerSoulchiller.html",
+                                                   "size":  21209494,
+                                                   "sha256":  "a2f5d8dd9186636276a393395fa2dfb6cb28b35adf9f1a4e8c9c284d84e4f0ad"
+                                               }
+                               },
+                     "source_sha256":  "7d92cd947722666003cc11ccc74479dcaad226c8fac357842b3c4766d2c34965",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "SoulstealerXmasSpiritHades",
+                     "kind":  "heroes",
+                     "name":  "Soulstealer - Xmas Spirit Hades",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "soulstealer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/SoulstealerXmasSpiritHades/SoulstealerXmasSpiritHades.psd1",
+                     "icon":  "mods/SoulstealerXmasSpiritHades/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "SoulstealerXmasSpiritHades.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerXmasSpiritHades.zip",
+                                               "size":  9821586,
+                                               "sha256":  "ed03c72d86010543a1902e586f72e6604bdc32de8a7b65a6cc9da27cd39987db"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "SoulstealerXmasSpiritHades.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/SoulstealerXmasSpiritHades.html",
+                                                   "size":  20597654,
+                                                   "sha256":  "b43f5d71fec86f291a3fdf69a6bf02df90599712f0240a8a72d963cf610fd9b1"
+                                               }
+                               },
+                     "source_sha256":  "b3b7bb021cd1e248773ee1d803dade99cd57bd989b92e561abad0fa101bd5e0b",
                      "updated":  "2026-11-23"
                  },
                  {
