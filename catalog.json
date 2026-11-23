@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T15:02:05+01:00",
+    "generated":  "2026-11-23T15:45:41+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
@@ -3675,7 +3675,7 @@
                      "category":  "Hero",
                      "type":  "",
                      "group":  "gravekeeper/base",
-                     "badge":  "test",
+                     "badge":  "",
                      "tested":  "",
                      "added":  "2026-11-09",
                      "patch":  false,
