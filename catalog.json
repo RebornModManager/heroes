@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T15:45:41+01:00",
+    "generated":  "2026-11-23T16:04:43+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
@@ -7143,7 +7143,7 @@
                      "category":  "Hero",
                      "type":  "",
                      "group":  "rampage/base",
-                     "badge":  "test",
+                     "badge":  "",
                      "tested":  "",
                      "added":  "2026-11-16",
                      "patch":  false,
