@@ -1,7 +1,13 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:22:23+01:00",
+    "generated":  "2026-11-23T12:33:54+01:00",
     "repo":  "RebornModManager/heroes",
+    "icons":  {
+                  "asset":  "icons.zip",
+                  "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
+                  "size":  155048,
+                  "sha256":  "a79878255637e383949995477445cebc444f4f26be672d004f32bdb9be432a35"
+              },
     "mods":  [
                  {
                      "id":  "MagmusScoria",
