@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T16:04:43+01:00",
+    "generated":  "2026-11-23T17:24:40+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
@@ -399,8 +399,8 @@
                                    "zip":  {
                                                "asset":  "ArmadonArmaDonna.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonArmaDonna.zip",
-                                               "size":  3637583,
-                                               "sha256":  "0a70ca28ef8130112c88785ecdfed7f51ec241b94eaa9d36daae0669f7d4db1d"
+                                               "size":  3637586,
+                                               "sha256":  "dc55a0276178aa9c57efd5d79ee568be65eb43843b3118a030898779cee497d5"
                                            },
                                    "preview":  {
                                                    "asset":  "ArmadonArmaDonna.html",
@@ -409,7 +409,7 @@
                                                    "sha256":  "733e2b6a2c3881fa90edfe3744da2ce1466b501c65013b3fd956e05bd7dfcb25"
                                                }
                                },
-                     "source_sha256":  "8f070e0764912660abd3cf09ccb9324455d8fb152be6abd74705e0ec36297217",
+                     "source_sha256":  "9e9c64fba8a1a039cc9446271123b4a1460528bf9e32d85215f48f10ba1eaae5",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -523,8 +523,8 @@
                                    "zip":  {
                                                "asset":  "ArmadonSloth.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonSloth.zip",
-                                               "size":  4329521,
-                                               "sha256":  "17d60e5f305d7cbd2532349846ee61edf581d1d30af9a3058d6b546ab69a5c2c"
+                                               "size":  4329523,
+                                               "sha256":  "59280c6eada1afcea932c841641316ad45d06b35616436517a18fe6998594eed"
                                            },
                                    "preview":  {
                                                    "asset":  "ArmadonSloth.html",
@@ -533,7 +533,7 @@
                                                    "sha256":  "b4761dd33ec61c4e2caa811c5f61d93312a3cd7b2c942b9617df28f0027a71bb"
                                                }
                                },
-                     "source_sha256":  "7223c5ae98b59e24eba6ff144e26a0e473b2f8c1926625bbf5114922f578860b",
+                     "source_sha256":  "aa85a1e8aaa2d7b77e244234d56ac0e0be8363be049d6f7ade3f929040571ea7",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -616,8 +616,8 @@
                                    "zip":  {
                                                "asset":  "BehemothFrostfieldTwitch.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothFrostfieldTwitch.zip",
-                                               "size":  10938067,
-                                               "sha256":  "16357802f19d456c564113010151f11eefbd6e8bb9568e8f901946c2475c95f1"
+                                               "size":  10938062,
+                                               "sha256":  "fc3b829bbc9979c8d214373dcf63223aafa3988a46cef17b3bf2dc6d5e42c3bf"
                                            },
                                    "preview":  {
                                                    "asset":  "BehemothFrostfieldTwitch.html",
@@ -626,7 +626,7 @@
                                                    "sha256":  "1309a36406fa04746ea53461bf94f8b0dad83c06dcb6a685735d5b8db4a269cb"
                                                }
                                },
-                     "source_sha256":  "7f65d1e7eb827df490cbd6c4af779c2dcc80dc66ef81d855513ae4869f4d9373",
+                     "source_sha256":  "19dfcc7ab332b32931613eb99d09c2d9faee814b12771333c66fc23abe35ecd9",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -895,8 +895,8 @@
                                    "zip":  {
                                                "asset":  "BloodHunterKrahang.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BloodHunterKrahang.zip",
-                                               "size":  2835094,
-                                               "sha256":  "bb70ffc532dec086fab9e0d2640caeb19b5ebbfc376ad64c6acd16547701f32b"
+                                               "size":  2835096,
+                                               "sha256":  "74629e48d0fd2d7096d2a886f59fab8c0270dbebf044d71e24dd8e24ab9a8c41"
                                            },
                                    "preview":  {
                                                    "asset":  "BloodHunterKrahang.html",
@@ -905,7 +905,7 @@
                                                    "sha256":  "6c1f53797eacf9d754cfa0a673f2e6994fce1a4f5edeafa1a5e3375965680655"
                                                }
                                },
-                     "source_sha256":  "7ae251ae730f4be99e988c3f6560e4759a7d65ee89f174037379d3bd97e24d26",
+                     "source_sha256":  "d05f4b009ca4c2f6762cff786a1b38ea8f8ff35ca24ab9c5bc9887c3de76dad2",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -926,8 +926,8 @@
                                    "zip":  {
                                                "asset":  "BloodHunterShark.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BloodHunterShark.zip",
-                                               "size":  12806082,
-                                               "sha256":  "49f84f8ed7278f9fb783731b6194da686a42030b648d371e0f79ed0929964985"
+                                               "size":  12806076,
+                                               "sha256":  "8b5dcc01c3aab817f9ffa2e55b7c85d6020c00d35b42a32eca732a2bed391272"
                                            },
                                    "preview":  {
                                                    "asset":  "BloodHunterShark.html",
@@ -936,7 +936,7 @@
                                                    "sha256":  "a8fc3bad4f5cde1438e7ade6ff3a4472372bc3eab7da84297942b7dede5ce1a6"
                                                }
                                },
-                     "source_sha256":  "7117463d3f2cd61e202649afd6798fac81c9a3a9ef885f4063e415cade67cdaf",
+                     "source_sha256":  "efd9cc4ca8fe96285f0f07f892568a860e1ca2e365e11c658222a34382d448ca",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -1112,8 +1112,8 @@
                                    "zip":  {
                                                "asset":  "BushwackCesspool.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BushwackCesspool.zip",
-                                               "size":  8313,
-                                               "sha256":  "e6d74b45fa3b30b07aa32a3c31515576b41a6e6327d59f514b412d72443f2d21"
+                                               "size":  8311,
+                                               "sha256":  "f1bb6e747fddc07ba978e72c71bf631700db7dfa41cf2f6c60c739085ca53b90"
                                            },
                                    "preview":  {
                                                    "asset":  "BushwackCesspool.html",
@@ -1122,7 +1122,7 @@
                                                    "sha256":  "ae89faad89e661e1e821be0c9339b819150aecc4678cba1ab54fc1799e03a339"
                                                }
                                },
-                     "source_sha256":  "164e42c89aecfe7c07e334305d835567581fe83018b5a207027bcfeae0351d71",
+                     "source_sha256":  "0edc42f1a8296fd6e923aecd57725ebdf840171088d0d7985b5d7f3b989e9740",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -1267,8 +1267,8 @@
                                    "zip":  {
                                                "asset":  "ChronosGrandfatherTime.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ChronosGrandfatherTime.zip",
-                                               "size":  3905098,
-                                               "sha256":  "322a254148aa0353cf74988543e3fb68335ced3edd29db0eeadbeb12a22a6428"
+                                               "size":  3905101,
+                                               "sha256":  "5d43b88263b5714b252d0a5de981e5c0d469139b0dfa312e96bb68a51a219485"
                                            },
                                    "preview":  {
                                                    "asset":  "ChronosGrandfatherTime.html",
@@ -1277,7 +1277,7 @@
                                                    "sha256":  "dcd80e1eebf800a7e066b08205f063bf2f335b8e426ef0d5ac3e675f7502ba69"
                                                }
                                },
-                     "source_sha256":  "6884eb253b88bf45d7d0539f70a0c9186149079c307de3b435364e5ebf725d80",
+                     "source_sha256":  "3e189775093029fae72bd358275e89f8255d999543d80381faa2a7e8d8441c13",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -1546,8 +1546,8 @@
                                    "zip":  {
                                                "asset":  "CorruptedDiscipleLoki.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/CorruptedDiscipleLoki.zip",
-                                               "size":  42514,
-                                               "sha256":  "7abc74c54278ca7f5e09c9888f1c9399bb9bd238b17098945baf87d1d18d327c"
+                                               "size":  42512,
+                                               "sha256":  "731bdda018c775bffc5a99ea0639d261d8cccba1c77863cfb0f4cecf4cac546a"
                                            },
                                    "preview":  {
                                                    "asset":  "CorruptedDiscipleLoki.html",
@@ -1556,7 +1556,7 @@
                                                    "sha256":  "9aa8b2cfa716f467c7076096f9c5420bcae4271493b4306a36b2cc94326d17ae"
                                                }
                                },
-                     "source_sha256":  "6838468082ca780c32a9f5a1868c1e6229fc62f376259f05d3c86f264e897bda",
+                     "source_sha256":  "9a98f1bfadee026847e6d45225cd41ab19adbe3ae5eeb40fedf2a722f4e722ed",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -1857,7 +1857,7 @@
                                                "asset":  "DarkLadyVampira.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DarkLadyVampira.zip",
                                                "size":  8544,
-                                               "sha256":  "2c76dfeb962677f6a2cc525bb43a286a7ce04fce49a660a2f42c1b89899d7fe9"
+                                               "sha256":  "264a141aaaaa6185c779c72de463f3b5299e41025a7c7c3b1dd04aa550783774"
                                            },
                                    "preview":  {
                                                    "asset":  "DarkLadyVampira.html",
@@ -1866,7 +1866,7 @@
                                                    "sha256":  "0f7ec383770eba0c1b5b23061e2836f9f817d18ad9df6c59609e225120b5c27e"
                                                }
                                },
-                     "source_sha256":  "6eecd0bd20df9800588fd0688f3adc499e08043df47ee39d540d3d3adfd58c0d",
+                     "source_sha256":  "8a8fba037ae3da79f2dffcee796ce5cc4f28cd414e2f8b57d5e84c61048e61c9",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -1887,8 +1887,8 @@
                                    "zip":  {
                                                "asset":  "DeadwoodFlaming.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodFlaming.zip",
-                                               "size":  1412272,
-                                               "sha256":  "1b31577ba37dea0f2a4aa32cb502515c1699906c9eaeabd6b334383011716781"
+                                               "size":  1412274,
+                                               "sha256":  "0050f21a6180577fd9ffa9d26de8c1515f60e4a1df741be7afa7846e7813d3ba"
                                            },
                                    "preview":  {
                                                    "asset":  "DeadwoodFlaming.html",
@@ -1897,7 +1897,7 @@
                                                    "sha256":  "52c784958357125b8b9e0db5ab16c91ff974b03bdc66d7fa000b0915ea294001"
                                                }
                                },
-                     "source_sha256":  "cf0554a667914573cfee62c3a51c402d636a868766b62c65f5423f6114a4b958",
+                     "source_sha256":  "9c53565eca707c45cf9a6fce4afc065fd5ac95b62fc0e0089b014815392c7e00",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2011,8 +2011,8 @@
                                    "zip":  {
                                                "asset":  "DeadwoodPret.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DeadwoodPret.zip",
-                                               "size":  5334161,
-                                               "sha256":  "ddb1ee624b183308253f8d16f9250940de82a9147ee20af5d8a1ed7e7c6a9ad0"
+                                               "size":  5334160,
+                                               "sha256":  "4bb044f5a8cf845cff7ac86781fc601239dab152420fce6b9e610e51711aed4d"
                                            },
                                    "preview":  {
                                                    "asset":  "DeadwoodPret.html",
@@ -2021,7 +2021,7 @@
                                                    "sha256":  "f891d15e430cbe7481f42704a3157f41c0bc3c3b3292044c7cc4400cc12a22c2"
                                                }
                                },
-                     "source_sha256":  "c2f1a6f2eb67ff226fee46b489f121ce1d332cf386b7088486263ef4724af214",
+                     "source_sha256":  "85400674392d02b26def42966607dac79319741e1e440a7c23530c54e5c25a3f",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2104,8 +2104,8 @@
                                    "zip":  {
                                                "asset":  "DefilerKrasue.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DefilerKrasue.zip",
-                                               "size":  4687552,
-                                               "sha256":  "42960161192ace5600e5999c8b084cece96ebcab332795c4bb74a3f3fb0cc559"
+                                               "size":  4687554,
+                                               "sha256":  "daf4c092f6372a37093cdb8ee2bffb0d29d902ecce08a7df8753184c155a0486"
                                            },
                                    "preview":  {
                                                    "asset":  "DefilerKrasue.html",
@@ -2114,7 +2114,7 @@
                                                    "sha256":  "5c592995d34e5a1a227dc181bb2192d1819f81a9e9e6d1fa5280e7d04a1a0ea1"
                                                }
                                },
-                     "source_sha256":  "4e64978988249118b22a3a5318dad1e4b8d0ed37bd9f1f317271223800467a7e",
+                     "source_sha256":  "5d1d00ed1bbcfb75ab591524cc6bfd6c8f8a4a8568b179471ac9aa5ac10b1b01",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2166,8 +2166,8 @@
                                    "zip":  {
                                                "asset":  "DementedShamanWinterShaman.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DementedShamanWinterShaman.zip",
-                                               "size":  3421371,
-                                               "sha256":  "039f075202b382f51bbd0351f4daba797c6037be153982286b9db186005741d9"
+                                               "size":  3421373,
+                                               "sha256":  "635f2b9e3750bc6a6762b5fbffe9da78a2632206c026e58ce81451d22177cb46"
                                            },
                                    "preview":  {
                                                    "asset":  "DementedShamanWinterShaman.html",
@@ -2176,7 +2176,7 @@
                                                    "sha256":  "cddbe78825ec9fabdc3ebcd7925a7d90dbe6f5ecff09557115a6d38f2d8c0640"
                                                }
                                },
-                     "source_sha256":  "24f091b9ae69f9f20e80ce83dad8c717030727d325d15f7deb84c3321dd24eb3",
+                     "source_sha256":  "fec75239d87c2e9562b855e31cac1ba74a685bff060ce8c6a33e9e2031759c8e",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2228,8 +2228,8 @@
                                    "zip":  {
                                                "asset":  "DevourerFreakshow.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DevourerFreakshow.zip",
-                                               "size":  16080,
-                                               "sha256":  "e981d0a88d1b72a281468d313726ef156a846f7906fc987a5aa641cb59bef80d"
+                                               "size":  16072,
+                                               "sha256":  "e997cdf48b28bdb3b68348082e91738310839ab413f47cea4add21d0f2060992"
                                            },
                                    "preview":  {
                                                    "asset":  "DevourerFreakshow.html",
@@ -2238,7 +2238,7 @@
                                                    "sha256":  "fd9204ae22d2b0334d7a287637d1c13547519afc0e4c93e76818cbe8e2e50ffd"
                                                }
                                },
-                     "source_sha256":  "aa83836020c7d8a73f4772fd66db49a95fe3a4695e4a204b5e3340e9a23f7aaf",
+                     "source_sha256":  "66e864e9f5f336ac52c0036a48054a0fdd491c2334730c259d5965adc1295db0",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2259,8 +2259,8 @@
                                    "zip":  {
                                                "asset":  "DevourerPaku.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DevourerPaku.zip",
-                                               "size":  5568103,
-                                               "sha256":  "799514bdc7b46dbb7829995611bf0176e266f60dbd009780af43d0f95c9084b3"
+                                               "size":  5568105,
+                                               "sha256":  "ad7afa4be8a06987a01a4b5af974d61f4a0619c5ac0180c06f82c7e5d5dc7928"
                                            },
                                    "preview":  {
                                                    "asset":  "DevourerPaku.html",
@@ -2269,7 +2269,7 @@
                                                    "sha256":  "2f94329f8503298e5772102ff8f5643b55a2db24e2b0f9f46600a5e09bfaf984"
                                                }
                                },
-                     "source_sha256":  "7681c7aff9a4015fbe68368418dac7778b6a2a7bfe8d1291788cdc44b980bfd9",
+                     "source_sha256":  "11e6b61c343e1a84ae644522debc759760cca3da74a7859c10c2e49c0fd6043a",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2321,8 +2321,8 @@
                                    "zip":  {
                                                "asset":  "DoctorRepulsorDoctorGamer.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DoctorRepulsorDoctorGamer.zip",
-                                               "size":  20223367,
-                                               "sha256":  "36128283d22e294e95d723713a3794e286d841bcc49f91a9cc33619c0f94214f"
+                                               "size":  20223369,
+                                               "sha256":  "5c0ba6100b83d94cab1468cbec2e5d4b233622a873b0d7f95779a26a4e0844ba"
                                            },
                                    "preview":  {
                                                    "asset":  "DoctorRepulsorDoctorGamer.html",
@@ -2331,7 +2331,7 @@
                                                    "sha256":  "c9d689ca7b9d87c4e478b3b8e28a44cfe62332087c6f775eab51c66aa6043ae7"
                                                }
                                },
-                     "source_sha256":  "8da498ede5dee9d8acec26b2a583e8307c4812a14f336dfc2406cd1ee32aea6f",
+                     "source_sha256":  "2a006ed567f830f3f932494137237ba3b8d6a6bed57a668c4ff4691f3f7c164b",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -2755,8 +2755,8 @@
                                    "zip":  {
                                                "asset":  "EmpathNangTani.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EmpathNangTani.zip",
-                                               "size":  3176967,
-                                               "sha256":  "39c9c5a13740c2a26ce290cfb17bf62dfaa5ee0035d542397a32670b55e11312"
+                                               "size":  3176965,
+                                               "sha256":  "d7d736732a23f0f76b04ee9270b2846c04aa2d1e6183fd2babb470f5312dc511"
                                            },
                                    "preview":  {
                                                    "asset":  "EmpathNangTani.html",
@@ -2765,7 +2765,7 @@
                                                    "sha256":  "30fb7d614d7519116f3600f943c0cfcdd6cfb865af53f3152e89c5c8b3736d54"
                                                }
                                },
-                     "source_sha256":  "dc08ca3fe4bceaf5279c2735b00a18ea24df4eaefbe4ff9bc836ee1d36d41797",
+                     "source_sha256":  "5d9bc08f8d01b4704daead62a85e10b0dfbbb7df34917f331a97105e756030cc",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -3003,8 +3003,8 @@
                                    "zip":  {
                                                "asset":  "FlintTheOrWithNoName.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintTheOrWithNoName.zip",
-                                               "size":  3197280,
-                                               "sha256":  "7b4beb56e108ce7f320d907f72db9ab7ff3e4fe55d5ee02b662684bd2bbbad14"
+                                               "size":  3197282,
+                                               "sha256":  "ecce5ecfbfc7fc3bf31ce818b058f6bd59097ee9a8e75a303e5c3334c8e4a255"
                                            },
                                    "preview":  {
                                                    "asset":  "FlintTheOrWithNoName.html",
@@ -3013,7 +3013,7 @@
                                                    "sha256":  "9ccff47f795fce3d546963768b86742ff8f38a91895e834f6acbca7da9b85b19"
                                                }
                                },
-                     "source_sha256":  "556f92ded0517312e83ac8dffbed8b5ec166ec0cf8542a3793603527c3078a85",
+                     "source_sha256":  "2f1ee5f7b7899deea72aa57e78d43926515242f41613a36ba8b25ca34a7e9685",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -3065,8 +3065,8 @@
                                    "zip":  {
                                                "asset":  "FlintWasteland.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintWasteland.zip",
-                                               "size":  2241122,
-                                               "sha256":  "a85b2934680aacc2c3ce33fae3e3e358fc904cf9164b740b9fdc5fd3deb3bcac"
+                                               "size":  2241134,
+                                               "sha256":  "4af6e2b079ac98cebba254b0c41fd42560d464ee8f878e3a56581b009eb8de5b"
                                            },
                                    "preview":  {
                                                    "asset":  "FlintWasteland.html",
@@ -3075,7 +3075,7 @@
                                                    "sha256":  "0ae644909ef8d96507933194026a7729c2fd4b33209487d6596d8f281d752fa9"
                                                }
                                },
-                     "source_sha256":  "d25777178a0ac2471a8579f9666f7237e05bbb6e8c40d808ebe241b1b269a520",
+                     "source_sha256":  "285f18d0218aa28508aa213a130cc2e66499bcbc3280b60bd3c98d3d78e1b452",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -3096,8 +3096,8 @@
                                    "zip":  {
                                                "asset":  "FlintWastelandTwitch.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FlintWastelandTwitch.zip",
-                                               "size":  2289519,
-                                               "sha256":  "321cad3ba6caec2ba8a8c48ffe16133bcd416bc5c9a724c12ba1ea5867688a8f"
+                                               "size":  2289531,
+                                               "sha256":  "5a05974f56ec7b31cca188e231de91c2b913fee4bd1f0ab736590c8f959365aa"
                                            },
                                    "preview":  {
                                                    "asset":  "FlintWastelandTwitch.html",
@@ -3106,7 +3106,7 @@
                                                    "sha256":  "d6622b67879373ab7e3aca0006d8bcffff4fbaef5485a55f08145c83b2c25b3f"
                                                }
                                },
-                     "source_sha256":  "4959a6d17b963af8099476726d500e6e99545fb45ad4df245cef26d61433dee7",
+                     "source_sha256":  "b9f0adc482d0a0426ba05b6bf56b0e97ed84223af223004ab7fc706fe91d4297",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -3809,8 +3809,8 @@
                                    "zip":  {
                                                "asset":  "GunbladeHunter.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GunbladeHunter.zip",
-                                               "size":  14538,
-                                               "sha256":  "ea057511c809d91c73b4795a9053bcbc52c725fbb9c12bebd9d563e519d2b979"
+                                               "size":  14549,
+                                               "sha256":  "7350b9edcc6ea8f7e00011a4d262be5439e7d803ec12dfaadd62210090350228"
                                            },
                                    "preview":  {
                                                    "asset":  "GunbladeHunter.html",
@@ -3819,7 +3819,7 @@
                                                    "sha256":  "59715342fff1b2277ebed1ea92da9a634affb3c3d90374210d2636d5a93bbe4c"
                                                }
                                },
-                     "source_sha256":  "43681df4fcd43378e45a44c8fc0bda5fe89855e570ee37fb49e895d93ef000a6",
+                     "source_sha256":  "8ff3e0a81d275fe375a6a1607bb9615ae4b08f3945a4c3ac65805cf8ec68a8e9",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -3933,8 +3933,8 @@
                                    "zip":  {
                                                "asset":  "HammerstormGuts.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormGuts.zip",
-                                               "size":  42511104,
-                                               "sha256":  "0460f15117ecfc85194d2cfab93b65af39800cb6a1eaebe6c402e726a336b2c5"
+                                               "size":  42511102,
+                                               "sha256":  "6ced4e9c62e2b8d8ec2fbd05e40aa4fa7db91ea671dbf8a086b551a2a9dd7678"
                                            },
                                    "preview":  {
                                                    "asset":  "HammerstormGuts.html",
@@ -3943,7 +3943,7 @@
                                                    "sha256":  "b57a56638cec48a6fcc937e10500fcf877f8c0d495de6bc174d3eb4b32362fc5"
                                                }
                                },
-                     "source_sha256":  "93937cb630e194eb09c681ea7f531408b171598b7f8863cb0618aa9d432f0ee0",
+                     "source_sha256":  "6fa42345645ebdd50e15f62dbc455dacefb38fb619a706342b8916d056af4f7d",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -3995,8 +3995,8 @@
                                    "zip":  {
                                                "asset":  "HammerstormWrath.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormWrath.zip",
-                                               "size":  15331206,
-                                               "sha256":  "c56a0d71db85f72056746a73f29dfce55dcf9f2bf7a4ccf3c8e0872d29dd07fb"
+                                               "size":  15331208,
+                                               "sha256":  "7fa38a3f34655724c59d35c9ad537c2d5acfffabf53ef791a6ed82f388481344"
                                            },
                                    "preview":  {
                                                    "asset":  "HammerstormWrath.html",
@@ -4005,7 +4005,7 @@
                                                    "sha256":  "d85710f4a770e63d639b24c95b1da4753586b0fc1b9d7c74e96add21f99fae61"
                                                }
                                },
-                     "source_sha256":  "e5cb1374ba58bad9ce243852f766b1254757fa7042660d857d3302f9c028718a",
+                     "source_sha256":  "dac18748693e02b9d0fa73d910c2f08cb98c3ee6d8584a8f0850174774e3746c",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -4498,8 +4498,8 @@
                                    "zip":  {
                                                "asset":  "KlanxShamrockKlanx.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KlanxShamrockKlanx.zip",
-                                               "size":  11326592,
-                                               "sha256":  "42000e97e85c3b943f93ad7db396b8c02c9cc84ef5674f3a4e7ba9fa0d2326c4"
+                                               "size":  11326595,
+                                               "sha256":  "027b13a0b11f3119575b4d819696e27c14e1130ecdc604cf56019db6b59722d9"
                                            },
                                    "preview":  {
                                                    "asset":  "KlanxShamrockKlanx.html",
@@ -4508,7 +4508,7 @@
                                                    "sha256":  "21cf67e9637ff85d034c2fcc0abd12c1af0a4d33ca56dde1f9f5f24eeb1c2fb8"
                                                }
                                },
-                     "source_sha256":  "948122a63d023eef5ae6c1a550afab5124c5f45b05f47d3192e90005a3b8ef01",
+                     "source_sha256":  "1152597f3dd0c623c454b216d0661fb31287bae5b65a47578124cb96b74b5191",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -4684,8 +4684,8 @@
                                    "zip":  {
                                                "asset":  "LegionnaireSiamWarrior.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LegionnaireSiamWarrior.zip",
-                                               "size":  2692606,
-                                               "sha256":  "66e214b1ff392c278e520b05b68699c28bc4b0cb6656280ab47bc32c562dd8cd"
+                                               "size":  2692608,
+                                               "sha256":  "b032f5532ecb4b4ca64a28466d66e633b7503889775cc719b0075c6592e22f30"
                                            },
                                    "preview":  {
                                                    "asset":  "LegionnaireSiamWarrior.html",
@@ -4694,7 +4694,7 @@
                                                    "sha256":  "7d209a5368583260e6d0f7261ab020e7cfc2747aade906c76a6015c8b9e1bb7b"
                                                }
                                },
-                     "source_sha256":  "4b132add00d3ac02a6af2d08b43ad6ca8972a83c76e694175f081287a7832d63",
+                     "source_sha256":  "72fe1d268e86b561ffe651a614e71bae892f504ee2d68857a1d5725bc937b052",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -4809,7 +4809,7 @@
                                                "asset":  "LordSalforisSlasher.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LordSalforisSlasher.zip",
                                                "size":  12031,
-                                               "sha256":  "dc0269430fb6f34ac91251c7d095b244e609baede305b6411e96e6f32161f610"
+                                               "sha256":  "d456c378339f074e5cf1ecaf5dc6f67b72b5635e8e19fb0ed80d75b5abe3a707"
                                            },
                                    "preview":  {
                                                    "asset":  "LordSalforisSlasher.html",
@@ -4818,7 +4818,7 @@
                                                    "sha256":  "4f11440455821510ed1d3cd72143a422a1dfe4dee53e05588b218b07000175b8"
                                                }
                                },
-                     "source_sha256":  "d7f827c454cc48b4760aa8e2797a0ff9be62f3c2438cd417d62064b3981a01e7",
+                     "source_sha256":  "e2f93447462180375e40bd19ce8cebcbcefb3393c7035bbc7618417c9191e17d",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -5521,8 +5521,8 @@
                                    "zip":  {
                                                "asset":  "MoonQueenEclipse.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MoonQueenEclipse.zip",
-                                               "size":  6532,
-                                               "sha256":  "a665ff4ec64041b7ab2e039c1b736d4a67b2afc2e26097e7477c34bc2175d85a"
+                                               "size":  6544,
+                                               "sha256":  "107abc6b334817fa7e6f8e7323112c8902e7a9924a372547d43a691d6fc7e4d8"
                                            },
                                    "preview":  {
                                                    "asset":  "MoonQueenEclipse.html",
@@ -5531,7 +5531,7 @@
                                                    "sha256":  "31fe9f866994d67619cf2d13acf216f0a0e76c1e9fa73dde8fbb874d1f9492d3"
                                                }
                                },
-                     "source_sha256":  "40ef407630baaca351150b2c61d140de0f458f0eb31bf8aacafac711d1888dfa",
+                     "source_sha256":  "07e175b517e45f0c108bfe283fedf29c28538cd2d15e4da3c03387be4a640a3e",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -5800,8 +5800,8 @@
                                    "zip":  {
                                                "asset":  "NightHoundWildcat.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundWildcat.zip",
-                                               "size":  4397741,
-                                               "sha256":  "aa1b90110b957569c53891ec671db75fdd0020413922bfdcb958abfc5b92c275"
+                                               "size":  4397742,
+                                               "sha256":  "36ff1db072e847dc4880afa69b43c06680bdd2f4cefcc839773578a69901d47e"
                                            },
                                    "preview":  {
                                                    "asset":  "NightHoundWildcat.html",
@@ -5810,7 +5810,7 @@
                                                    "sha256":  "833544226ca1b2f1ec4c19b0c0d26142fbfc9d29ebd7fcc490c88f167a9d6bdf"
                                                }
                                },
-                     "source_sha256":  "3715ef6d8e1acfcf4698debcec25cf92b3ae4c16bc60055cd9e186ada3230243",
+                     "source_sha256":  "993f2209058a06b45dff1245aaf50f9d6dfca3b688da2305c761f1cc856b6af9",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -5955,8 +5955,8 @@
                                    "zip":  {
                                                "asset":  "NomadRedraja.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadRedraja.zip",
-                                               "size":  16982,
-                                               "sha256":  "12fb0ee1d6b195dbf38f5bf4a80e4ef08bd1d7435007c0ab4325b1977f65fe72"
+                                               "size":  16990,
+                                               "sha256":  "3b3f7b887cdfd840271c7b6a6560c37adadfc279e4d71f301dce0b0da806cda9"
                                            },
                                    "preview":  {
                                                    "asset":  "NomadRedraja.html",
@@ -5965,7 +5965,7 @@
                                                    "sha256":  "0cd9bc709cb0d5488f686feaa64d04524bc49ce5279f1def11a99bad078db7c5"
                                                }
                                },
-                     "source_sha256":  "a719bd3e17e3034248e5e0a6afebb7e2d6bfe3527fd15b9abcd1b96050ad553e",
+                     "source_sha256":  "35b885fd1049285c07e28dcdfebb29d67ddd84fd779dc2500ed438a48db0cd82",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -6234,8 +6234,8 @@
                                    "zip":  {
                                                "asset":  "PebblesGolden.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PebblesGolden.zip",
-                                               "size":  438752,
-                                               "sha256":  "2d1c2617b1c34f33df227462f7195e389f5502b6e0bb3dda164c950d47bfc6af"
+                                               "size":  438759,
+                                               "sha256":  "926695317c4e2230bf2a2a761ed506008572b7353779786f5b9fe6b155d718db"
                                            },
                                    "preview":  {
                                                    "asset":  "PebblesGolden.html",
@@ -6244,7 +6244,7 @@
                                                    "sha256":  "8a891d0657f759d28e7f8968c93796f8bce7d249a628fd54b79c0e35ccf842c8"
                                                }
                                },
-                     "source_sha256":  "0b3c8301a028f268a0536c7eb77738606df0dd6c05928566341cd1500583644f",
+                     "source_sha256":  "e986a726bb0c65c5406812372f84099610ff5fd9e7664e5bb096ff2a9a6fb772",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -6296,8 +6296,8 @@
                                    "zip":  {
                                                "asset":  "PebblesTerminator.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PebblesTerminator.zip",
-                                               "size":  10703,
-                                               "sha256":  "3e08c3bf08dc6a5eca4f31be6838899f8012b8fbd37553742ad8bc488f7b0fc6"
+                                               "size":  10711,
+                                               "sha256":  "4c736bd4de2d1a3ce05fa3ae092246e0ef90fecff8fd92ef4c6189e912140771"
                                            },
                                    "preview":  {
                                                    "asset":  "PebblesTerminator.html",
@@ -6306,7 +6306,7 @@
                                                    "sha256":  "c51436525afb4c74bd50754038f0394c6bb296a9da516592868e44fe58f580a2"
                                                }
                                },
-                     "source_sha256":  "5546c7213aa6ac471b9a92dfafc6712ab16258e9ea36efe9ea782edc24524592",
+                     "source_sha256":  "4878f4e55c45c6656471f52b0f90662dd3a2a0e1222fd93a8dfc3d0608e88eac",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -6657,8 +6657,8 @@
                                    "zip":  {
                                                "asset":  "PredatorNightmare.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PredatorNightmare.zip",
-                                               "size":  3378546,
-                                               "sha256":  "03470f5a814b4dc71d8cd6b334c565fd69b9840ae46a2b2688f74de08b9555af"
+                                               "size":  3378547,
+                                               "sha256":  "a1343758bb81f8d9c7f80ff25655d911f80f9eb90e95c979df603d2287b536c3"
                                            },
                                    "preview":  {
                                                    "asset":  "PredatorNightmare.html",
@@ -6667,7 +6667,7 @@
                                                    "sha256":  "ca4b2ee5d0131856f2932e88d707bfab7b0d2e8b53c3dd5e0bbcc31a1df0753d"
                                                }
                                },
-                     "source_sha256":  "4728127588347726b06170da7e2b336b7ca9b7be2e62dcf68b338ef0784015dc",
+                     "source_sha256":  "35fc046ff3e70c6c9cbf5f54478da7676d36b3bf86cf62b834c8b0b56e21185e",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -6874,8 +6874,8 @@
                                    "zip":  {
                                                "asset":  "PuppetMasterFreakshow.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterFreakshow.zip",
-                                               "size":  14599,
-                                               "sha256":  "c4157d706b2717f525c870e8da0678008604705acedbccd7bf00221215753e48"
+                                               "size":  14606,
+                                               "sha256":  "cd7c59f7140763baf458190fed58aa28e69e0d1d6a300cbe05ee896f7d5cf67d"
                                            },
                                    "preview":  {
                                                    "asset":  "PuppetMasterFreakshow.html",
@@ -6884,7 +6884,7 @@
                                                    "sha256":  "cc4616f2ec95b1a35756d0445d50a45d7d31a79903bf1006e9b19dd67f99598a"
                                                }
                                },
-                     "source_sha256":  "c3f8895faee881b7edd75379bf798486c2f6ad4138958266ba1f1c0c01bb961c",
+                     "source_sha256":  "5e735989e9739b6a47ac6d81380f5098886c8dc144022b13918b9d075295f264",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -6905,8 +6905,8 @@
                                    "zip":  {
                                                "asset":  "PuppetMasterGameMaster.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterGameMaster.zip",
-                                               "size":  3836080,
-                                               "sha256":  "a40a3708bd8f7a6316bd9c2b3ea365a65b480a91496775c10c7ba4602072b5dd"
+                                               "size":  3836081,
+                                               "sha256":  "5932b001960eea520556ba4b2dfd43843e459888c7b0a754743f8b57a2306a0a"
                                            },
                                    "preview":  {
                                                    "asset":  "PuppetMasterGameMaster.html",
@@ -6915,7 +6915,7 @@
                                                    "sha256":  "925c27fb36d5a20e828a4e793779a6598f8661415b28930e90512945b75de48f"
                                                }
                                },
-                     "source_sha256":  "5b674a18907880f2afd61b6eecf1a86a7cffc2a2987ee5a58a4c4d4022726a18",
+                     "source_sha256":  "662bdc6501154b37eb3f9a0ba7cdc15b0b560e539ff3d0739109f6f468d4a9e0",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -7184,8 +7184,8 @@
                                    "zip":  {
                                                "asset":  "RampageSiamWarrior.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RampageSiamWarrior.zip",
-                                               "size":  2251190,
-                                               "sha256":  "cb2c6403c27c949ebcd52b7ac098e3157d9bf47270164356cd9a24f5c63b5119"
+                                               "size":  2251194,
+                                               "sha256":  "ff61f13f6647b16be99266c1cad9bde3a16f52486e0707b7daa16afb5a854954"
                                            },
                                    "preview":  {
                                                    "asset":  "RampageSiamWarrior.html",
@@ -7194,7 +7194,7 @@
                                                    "sha256":  "a839ef1286ed4019fbc8cb99a2f9a51b6c8e64e8315911ab6c17a90b0354d216"
                                                }
                                },
-                     "source_sha256":  "6da957d49d4c60c1509ffa69ed55e1d4b51d11ecdd6b38e3ed23b313ef66b825",
+                     "source_sha256":  "b058e601272037d177cd186f6c3e64f4f81835d18ba4604c1e84197763ec09c2",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -7464,7 +7464,7 @@
                                                "asset":  "RavenorThor.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RavenorThor.zip",
                                                "size":  1858362,
-                                               "sha256":  "862e69319cc748bf6bb576b8fb8d092996f2520585e9c3202512326d898abb9b"
+                                               "sha256":  "a0736f1dbe0bb9eff6f1a3e4fc490251f746ffb6392a8fb9958921c3d9668879"
                                            },
                                    "preview":  {
                                                    "asset":  "RavenorThor.html",
@@ -7473,7 +7473,7 @@
                                                    "sha256":  "dadf34a64b5a254399fe426d929ec547248ea9453cf5e04e6e143dab455b62bf"
                                                }
                                },
-                     "source_sha256":  "f465f53dc3ff1a6981f8e0a02c4f0bbdac35b9f07e9d9ac384f006318fb1e7f0",
+                     "source_sha256":  "743f93e3fd29fa62b503da5d8d5b1c77ab3e084d1a8c7426383beb5211cabf25",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -7649,8 +7649,8 @@
                                    "zip":  {
                                                "asset":  "RiftwalkerPandora.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RiftwalkerPandora.zip",
-                                               "size":  15341,
-                                               "sha256":  "46ebb2f5802f01c31e6280fa91bb3a2da5722e046a4d7bded47e0aa40e22b8f9"
+                                               "size":  15340,
+                                               "sha256":  "d63a6e583a358d922740ee27b579913a897f89f37bba2b69981b45682ca87948"
                                            },
                                    "preview":  {
                                                    "asset":  "RiftwalkerPandora.html",
@@ -7659,7 +7659,7 @@
                                                    "sha256":  "56d06ab7d34b783d8bc1c1be85c9fe043b9a0fe52c0617d39c5a4d3e53df7381"
                                                }
                                },
-                     "source_sha256":  "ccda38043ed79cba0f936783976bac08f28ab7fce4888f6ed36faf78b3c2937c",
+                     "source_sha256":  "8722bd3a6f3d0180bc32ed84806ddcabafff11fde174e5f30717d4337953ee0b",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -7799,7 +7799,7 @@
                                                "asset":  "SandWraithShadowWraith.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SandWraithShadowWraith.zip",
                                                "size":  3139682,
-                                               "sha256":  "0277744d8ae4104df0699406255a809d7e7b13e96c42d5a8dd26f20e79387114"
+                                               "sha256":  "484e8b1854ef038d80211432048d3bb68ec820d81e9574a58d913081d7e621dd"
                                            },
                                    "preview":  {
                                                    "asset":  "SandWraithShadowWraith.html",
@@ -7808,7 +7808,7 @@
                                                    "sha256":  "ae92c94a0fbc92fd2d130ac32f235b9a155a31f2af9113e1d27a91ed2dddbee3"
                                                }
                                },
-                     "source_sha256":  "63ca8ba844d0cbc6eb9aa27390f9d24df63bd300ba6e48f89ef8dc5a028e917b",
+                     "source_sha256":  "2d9f80f58a3bb6a8e61c4eab3f3fb5867b74203a7faa8bc12871f4045ada3e68",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8201,8 +8201,8 @@
                                    "zip":  {
                                                "asset":  "SilhouetteMaeNak.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteMaeNak.zip",
-                                               "size":  5174871,
-                                               "sha256":  "f4bc1d3c084d189c78026c5dfa5f82db2de0a3692dbde0777fb0625c2e933977"
+                                               "size":  5174873,
+                                               "sha256":  "4ecc9b72274b1322103c998ac666aa8d885953b622f78389b5e2a67f5ac1801f"
                                            },
                                    "preview":  {
                                                    "asset":  "SilhouetteMaeNak.html",
@@ -8211,7 +8211,7 @@
                                                    "sha256":  "19e45ca5cea560850763f7451d9360e5fd66631cfc8600e9066adbfcff6e5efd"
                                                }
                                },
-                     "source_sha256":  "96dd1a433057818b61108c7bf1727b77dc7d34d4a1adb56f810733f00326d79c",
+                     "source_sha256":  "363c5287b3b053339bcdd3ce9f8dad2de6a991cc43559b5d5f456cbc7eac275f",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8232,8 +8232,8 @@
                                    "zip":  {
                                                "asset":  "SilhouetteMasterAssassin.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SilhouetteMasterAssassin.zip",
-                                               "size":  2648912,
-                                               "sha256":  "07bf086b40b62a8a8b1dda5d7543a27c07af1c7bacf419c0b34fb2b20f8b399c"
+                                               "size":  2648914,
+                                               "sha256":  "565dac2e0d62252b2f22cc338274c63e245f4bd1c45a5621a82db42efce3f744"
                                            },
                                    "preview":  {
                                                    "asset":  "SilhouetteMasterAssassin.html",
@@ -8242,7 +8242,7 @@
                                                    "sha256":  "46ed54020bf82e5b548cf24d249cf874cbab80495091b876bdeeaecdacd2ede2"
                                                }
                                },
-                     "source_sha256":  "c76e66dc6e7122c4bef3687ff387369451ef4249b3831063724dc98aad14117c",
+                     "source_sha256":  "d9b819b1ced143a9320eabebcbb0f17a7cf80ee59bb5244ce0068478fa7b3ddf",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8449,8 +8449,8 @@
                                    "zip":  {
                                                "asset":  "SolsticeYinAndYang.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SolsticeYinAndYang.zip",
-                                               "size":  19437782,
-                                               "sha256":  "eb5de20c5f28af3359e9ff3d477012a54f003ee87a6f2dc639645ab0377869f4"
+                                               "size":  19437776,
+                                               "sha256":  "885f582359775191ae0d80ec734cd3e15538d3b13bedb77f4be0687166c209f2"
                                            },
                                    "preview":  {
                                                    "asset":  "SolsticeYinAndYang.html",
@@ -8459,7 +8459,7 @@
                                                    "sha256":  "e36f9a1d02894f51251473bd0ac3268b2013b81d9569434f33e102b3d6402c38"
                                                }
                                },
-                     "source_sha256":  "f091163c4a52cb4a73969cfe63432d66c72f4175bcae3c330db559eb19d32746",
+                     "source_sha256":  "8c2aa25fc2fae7d712d7b42e6e01ebd23b3c9abd30ebd33f7ffbaa6759b0b679",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8573,8 +8573,8 @@
                                    "zip":  {
                                                "asset":  "SoulstealerGreed.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SoulstealerGreed.zip",
-                                               "size":  4298908,
-                                               "sha256":  "7c37f424893b46855c8b7c4d5df050fda27a32025af70bd0b195108288be983c"
+                                               "size":  4298910,
+                                               "sha256":  "428da53a4325cf4888afa3d70ee398a88f9ae4559ffd190ce5d60714a728b482"
                                            },
                                    "preview":  {
                                                    "asset":  "SoulstealerGreed.html",
@@ -8583,7 +8583,7 @@
                                                    "sha256":  "9d7899bd047e9f3f4ccd8d79b3961c276fda678b171e9080451ee28bec407c9e"
                                                }
                                },
-                     "source_sha256":  "e8f4c24102a536987f18cd69b1cf7bbb4f832d72efeba277e3c3c031f9ea4f25",
+                     "source_sha256":  "5ce1a6cf89427a786d2d003fa634a127c0e90722b317b0a3ceb6be5093ca6d0b",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8728,8 +8728,8 @@
                                    "zip":  {
                                                "asset":  "SwiftbladeDeathbloom.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/SwiftbladeDeathbloom.zip",
-                                               "size":  5292289,
-                                               "sha256":  "7ce75ae2f73788da67a76fd01577f97945787156fd27a26608f3b1683678e22c"
+                                               "size":  5292291,
+                                               "sha256":  "168d0d3251a197e1629277afbdbd41d6c60ab2a3e5c21005236a9d59df389b63"
                                            },
                                    "preview":  {
                                                    "asset":  "SwiftbladeDeathbloom.html",
@@ -8738,7 +8738,7 @@
                                                    "sha256":  "83fb75e8a99779bf42e568e35628cf1cd0e5903fb16697c9628d48cd10d34bad"
                                                }
                                },
-                     "source_sha256":  "7249c195abb3e4711a58421574dc9730d86adeb197a1bbef91ff118adcb88800",
+                     "source_sha256":  "c5523369798f70bb7f6425392258a658ad58e8912bf12cbe428344f38c947c48",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8914,8 +8914,8 @@
                                    "zip":  {
                                                "asset":  "TDMonkeyKing.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TDMonkeyKing.zip",
-                                               "size":  7355034,
-                                               "sha256":  "2c7c35626371257f27451f016f447982a2ef7d098c7a871d684d874a9b8e7062"
+                                               "size":  7355037,
+                                               "sha256":  "2477602f937c656d68ada4e43b47d5d8bcdaebc69e480e898cbe2fa91bf91962"
                                            },
                                    "preview":  {
                                                    "asset":  "TDMonkeyKing.html",
@@ -8924,7 +8924,7 @@
                                                    "sha256":  "7b0fd1b4a00e271daa3e09b63f34a41f35933aad7564788ab404faa4819ed373"
                                                }
                                },
-                     "source_sha256":  "4ab0a311f1963a6ccd85d72cea02d2faf431c99efb23415f1a8e9a5c83bd0e42",
+                     "source_sha256":  "3944142fe14b3498ba7982aeaaf9a9935af810b7353afafc35133bc9efb747d0",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -9748,8 +9748,8 @@
                                    "zip":  {
                                                "asset":  "WretchedHagHocusPocus.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WretchedHagHocusPocus.zip",
-                                               "size":  4565563,
-                                               "sha256":  "6bca82b297d4a22c27e64b90d1754338766d478fa332590a8580ee4d8809cb4e"
+                                               "size":  4565565,
+                                               "sha256":  "a344d775bb33fbd66244fdb7002766fe0e17bb5f506cc0afaf56e0a9e279533f"
                                            },
                                    "preview":  {
                                                    "asset":  "WretchedHagHocusPocus.html",
@@ -9758,7 +9758,7 @@
                                                    "sha256":  "f31489f977d180d189a03b8cdaadfb618cd315bcd6ed6e66a8e528fb063a5e93"
                                                }
                                },
-                     "source_sha256":  "bd8bd9f72cb1678728d49e1be2eedea17860a7977da3bdfebbe2f1894f135ce2",
+                     "source_sha256":  "40e3a8222b99894d6c75f459fd5f8ab1bbf67be2e0eba20bb06d005cf36f326e",
                      "updated":  "2026-11-23"
                  },
                  {
