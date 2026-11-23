@@ -4,5 +4,4 @@
     Category    = 'Hero'
     Group       = 'swiftblade/base'
     Added       = '2026-11-16'
-    Badge       = 'test'
 }
