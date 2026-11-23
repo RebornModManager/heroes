@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:48:16+01:00",
+    "generated":  "2026-11-23T12:51:05+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  3179611,
-                  "sha256":  "67be5df7ef7314108c0cf7e33edd95fc15e8cb9a14a0e47d5a4d28ed90245d42"
+                  "size":  3911598,
+                  "sha256":  "1107080db3888bf5232bd863245798fa826ce722943276f1cd6385f1ae5aead2"
               },
     "mods":  [
                  {
@@ -3107,6 +3107,781 @@
                                                }
                                },
                      "source_sha256":  "4959a6d17b963af8099476726d500e6e99545fb45ad4df245cef26d61433dee7",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FluxForceOfNature",
+                     "kind":  "heroes",
+                     "name":  "Flux - Force of Nature",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flux/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/FluxForceOfNature/FluxForceOfNature.psd1",
+                     "icon":  "mods/FluxForceOfNature/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FluxForceOfNature.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FluxForceOfNature.zip",
+                                               "size":  12045867,
+                                               "sha256":  "4772e4c16f8ee0ddc7d24777466c477f082e6a0b47c574546cd8fcf4e252721a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FluxForceOfNature.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FluxForceOfNature.html",
+                                                   "size":  17381449,
+                                                   "sha256":  "cf7152301eacf308619510ed0a276e1b833329504d1efe936620971bcac64133"
+                                               }
+                               },
+                     "source_sha256":  "8f8ebcda2337ecb7913219978c71dd120331415623329fb0bf0d516a3904f226",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "FluxIronFlux",
+                     "kind":  "heroes",
+                     "name":  "Flux - Iron Flux",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "flux/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/FluxIronFlux/FluxIronFlux.psd1",
+                     "icon":  "mods/FluxIronFlux/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "FluxIronFlux.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/FluxIronFlux.zip",
+                                               "size":  10630710,
+                                               "sha256":  "6074bfd6b77b9d0a3695333c3acf98fe11d7f65419d8c1f23ddb0e99f6266ab0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "FluxIronFlux.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/FluxIronFlux.html",
+                                                   "size":  17061512,
+                                                   "sha256":  "2ba14151d745a40bc758917affef1f28c2ba7cd0e01738014e105ceb37c6384f"
+                                               }
+                               },
+                     "source_sha256":  "06a48b3bd62e432324ea47bb20c3cefc53788ea0848491d225e4b20e921df86c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ForsakenArcherAshen",
+                     "kind":  "heroes",
+                     "name":  "Forsaken Archer - Ashen",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "forsaken_archer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ForsakenArcherAshen/ForsakenArcherAshen.psd1",
+                     "icon":  "mods/ForsakenArcherAshen/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ForsakenArcherAshen.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ForsakenArcherAshen.zip",
+                                               "size":  19826243,
+                                               "sha256":  "f9a8a6ae2d3a899021af19ed6726e9b08e9be7b8444dc132c87b7ed53d9a2601"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ForsakenArcherAshen.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ForsakenArcherAshen.html",
+                                                   "size":  29572619,
+                                                   "sha256":  "63106562746e4dc581d2e18d38611c1e9774daf7e9dd80ffcb6a8ea49df10802"
+                                               }
+                               },
+                     "source_sha256":  "70eed21c25affeb58065a9ab14e2cbe1de8b2dd29fc91425569871cf9dd7d2d0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ForsakenArcherMars",
+                     "kind":  "heroes",
+                     "name":  "Forsaken Archer - Mars",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "forsaken_archer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/ForsakenArcherMars/ForsakenArcherMars.psd1",
+                     "icon":  "mods/ForsakenArcherMars/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ForsakenArcherMars.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ForsakenArcherMars.zip",
+                                               "size":  13350384,
+                                               "sha256":  "3d9986a844c2eb4ef29e606a68b458e1de5d7878afd6797757dc682f6b3c824a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ForsakenArcherMars.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ForsakenArcherMars.html",
+                                                   "size":  22400644,
+                                                   "sha256":  "de7ef18fa1665c67633dd6685d5f6b136d4d4f22403eff0aceec9c22b83416c3"
+                                               }
+                               },
+                     "source_sha256":  "4090bf7318fc60de1d51aa68a22b4474a9c49a2bf910b2bfba35060324848683",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ForsakenArcherPraRamArcher",
+                     "kind":  "heroes",
+                     "name":  "Forsaken Archer - Pra Ram Archer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "forsaken_archer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/ForsakenArcherPraRamArcher/ForsakenArcherPraRamArcher.psd1",
+                     "icon":  "mods/ForsakenArcherPraRamArcher/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ForsakenArcherPraRamArcher.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ForsakenArcherPraRamArcher.zip",
+                                               "size":  11044616,
+                                               "sha256":  "96323309d5efc010d9bada88bd624b4c9c81e6ee39163facd30c1fbe189d8f0c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ForsakenArcherPraRamArcher.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ForsakenArcherPraRamArcher.html",
+                                                   "size":  15658225,
+                                                   "sha256":  "e284cbdd9858bcffe01820c5afe029f8201a951c8ee7c427f71eec4ec9ecb1f5"
+                                               }
+                               },
+                     "source_sha256":  "ea049ccf8117ce364606e1e362abf8d8a6b2e2375b1d4466fe6cf9f341a7bd53",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ForsakenArcherSinew",
+                     "kind":  "heroes",
+                     "name":  "Forsaken Archer - Sinew",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "forsaken_archer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/ForsakenArcherSinew/ForsakenArcherSinew.psd1",
+                     "icon":  "mods/ForsakenArcherSinew/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ForsakenArcherSinew.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ForsakenArcherSinew.zip",
+                                               "size":  24547579,
+                                               "sha256":  "a57a7984cc6317ec9275e8a6f0b597faeb9d9fb6c53d29ed2e9cb02c56d736e4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ForsakenArcherSinew.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ForsakenArcherSinew.html",
+                                                   "size":  34176328,
+                                                   "sha256":  "446800ad5c802da24737cf1252495e0e379754244a746a1d02e06c457be96182"
+                                               }
+                               },
+                     "source_sha256":  "164beeeeb29dc8ec7d315a4320a8f04d0a2039ff7ef9db07d752324405e3dd22",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GauntletInvader",
+                     "kind":  "heroes",
+                     "name":  "Gauntlet - Invader Gauntlet",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gauntlet/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/GauntletInvader/GauntletInvader.psd1",
+                     "icon":  "mods/GauntletInvader/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GauntletInvader.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GauntletInvader.zip",
+                                               "size":  9578747,
+                                               "sha256":  "9f7192548d77b21fa1c381ac094bb1531b74a5eaac8a2d91a91a7050026957e4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GauntletInvader.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GauntletInvader.html",
+                                                   "size":  19582218,
+                                                   "sha256":  "0f76688a587d64e49ffec24d0293201fa77056ecd5f67b392eed61a83773826a"
+                                               }
+                               },
+                     "source_sha256":  "5a1a87699fb1f5933b8a6f3e1de500b31dcea68f4c32f4d9822be26f048e175b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GauntletKnockout",
+                     "kind":  "heroes",
+                     "name":  "Gauntlet - Knockout Gauntlet",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gauntlet/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/GauntletKnockout/GauntletKnockout.psd1",
+                     "icon":  "mods/GauntletKnockout/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GauntletKnockout.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GauntletKnockout.zip",
+                                               "size":  9334560,
+                                               "sha256":  "b709d4c3f42e283786a807a406233fc46e49007b3b132c3834524af2dfd415cf"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GauntletKnockout.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GauntletKnockout.html",
+                                                   "size":  21633138,
+                                                   "sha256":  "96a6c589b46ce54f7337da7b4f91e4e8ffc7721a63ac704728d31e475ae808d2"
+                                               }
+                               },
+                     "source_sha256":  "f2d3bb5144b630b26850584e6e60b7fde9dd4ed3dd6b8e9078303fd9631534e5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GauntletMrMarvelous",
+                     "kind":  "heroes",
+                     "name":  "Gauntlet - Mr. Marvelous",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gauntlet/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/GauntletMrMarvelous/GauntletMrMarvelous.psd1",
+                     "icon":  "mods/GauntletMrMarvelous/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GauntletMrMarvelous.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GauntletMrMarvelous.zip",
+                                               "size":  10601209,
+                                               "sha256":  "1869cb361169e66c228a8217b5eb36ec9a8b34207085d3654373a547951d104b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GauntletMrMarvelous.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GauntletMrMarvelous.html",
+                                                   "size":  18870054,
+                                                   "sha256":  "0e2f882c91a8dccf8f2523ad0d25d4565a1c1c2b6c97245986e8a0b1e51d1c16"
+                                               }
+                               },
+                     "source_sha256":  "260cc45296d874d8fb8bb0dc36e5fb6ab988127eb0f8b4a6442648634a0036da",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GauntletUssuri",
+                     "kind":  "heroes",
+                     "name":  "Gauntlet - Ussuri",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gauntlet/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/GauntletUssuri/GauntletUssuri.psd1",
+                     "icon":  "mods/GauntletUssuri/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GauntletUssuri.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GauntletUssuri.zip",
+                                               "size":  10481216,
+                                               "sha256":  "ec67e526d4731b89391efe2a2fefab375d0fabaf89065bb6a1b181798da04ffc"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GauntletUssuri.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GauntletUssuri.html",
+                                                   "size":  21576984,
+                                                   "sha256":  "b9a2ec854a67621557f3c55168b6883e338279b3458c051afa2d06488a2e3971"
+                                               }
+                               },
+                     "source_sha256":  "64f79a8a8512e32139ae07662a0f917d4eb196eadb23b85896961caa062f122a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GauntletYorio",
+                     "kind":  "heroes",
+                     "name":  "Gauntlet - Yorio",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gauntlet/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/GauntletYorio/GauntletYorio.psd1",
+                     "icon":  "mods/GauntletYorio/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GauntletYorio.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GauntletYorio.zip",
+                                               "size":  27677,
+                                               "sha256":  "1c72e9716130357a3d8330f0376624fa0a802ccfa1ab51ce7b428ce7977f32f7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GauntletYorio.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GauntletYorio.html",
+                                                   "size":  14180098,
+                                                   "sha256":  "3c42da372d997c2dba59f45d435e36605e078f8358cb0b87f15edeebf5d6c615"
+                                               }
+                               },
+                     "source_sha256":  "aecad943fbe22dde120fc25c1adfa72c7648a3ab4370a61052a21507622c4441",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GlaciusJoven",
+                     "kind":  "heroes",
+                     "name":  "Glacius - Joven",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "glacius/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/GlaciusJoven/GlaciusJoven.psd1",
+                     "icon":  "mods/GlaciusJoven/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GlaciusJoven.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GlaciusJoven.zip",
+                                               "size":  9415400,
+                                               "sha256":  "16987f6b64a6ed236c19a79575cfee68dcdf3b530ce482799c9af6c4b5518623"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GlaciusJoven.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GlaciusJoven.html",
+                                                   "size":  16153958,
+                                                   "sha256":  "8c7421a9d11d831cb20371e22c994c8e6fb542b1815d6d1a04442d434e9203a5"
+                                               }
+                               },
+                     "source_sha256":  "b64eb9c5489bed34f7a85eeabd7bf81ad9521fbf1cda917e43df627423461488",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GlaciusKeybreaker",
+                     "kind":  "heroes",
+                     "name":  "Glacius - Keybreaker",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "glacius/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/GlaciusKeybreaker/GlaciusKeybreaker.psd1",
+                     "icon":  "mods/GlaciusKeybreaker/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GlaciusKeybreaker.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GlaciusKeybreaker.zip",
+                                               "size":  16455188,
+                                               "sha256":  "cfbbafa2c7702de476e22c92a2813cd7c0e88271a21465da9a38189aa3bcb78b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GlaciusKeybreaker.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GlaciusKeybreaker.html",
+                                                   "size":  25405315,
+                                                   "sha256":  "8fe0ebb74be240fb889d9677a19a8ea1ceb5585fbc6a7b373c5f9b4449beb309"
+                                               }
+                               },
+                     "source_sha256":  "93a58b8f700329b3078fd6cb7994b2552b346888fcae0d7a1cea32517e1a0a6c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GlaciusNuclearWinter",
+                     "kind":  "heroes",
+                     "name":  "Glacius - Nuclear Winter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "glacius/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/GlaciusNuclearWinter/GlaciusNuclearWinter.psd1",
+                     "icon":  "mods/GlaciusNuclearWinter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GlaciusNuclearWinter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GlaciusNuclearWinter.zip",
+                                               "size":  8999210,
+                                               "sha256":  "7661cfd890a289b8235d08bc86a4aba9efdf4631c413042e48436eec83807d75"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GlaciusNuclearWinter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GlaciusNuclearWinter.html",
+                                                   "size":  15635075,
+                                                   "sha256":  "7ab84a6cd3fbb83318d5088f31c91b8117836310d13359ad6077b139a5141bb7"
+                                               }
+                               },
+                     "source_sha256":  "2558c28663fd14b6da673420bc52bbae3e787f2b3e241efd3c275b9e2eac26b6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GlaciusWildfire",
+                     "kind":  "heroes",
+                     "name":  "Glacius - Wildfire",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "glacius/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/GlaciusWildfire/GlaciusWildfire.psd1",
+                     "icon":  "mods/GlaciusWildfire/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GlaciusWildfire.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GlaciusWildfire.zip",
+                                               "size":  17537518,
+                                               "sha256":  "e9e8f8488be045c54ea3649347e637dade3fc64cddedc088a468afacffc9993b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GlaciusWildfire.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GlaciusWildfire.html",
+                                                   "size":  26075086,
+                                                   "sha256":  "b8f118f37b93083529bd4b0cf685574937789aec60b880aeaf155c1123925d86"
+                                               }
+                               },
+                     "source_sha256":  "942de9ab599a2116acf49d94e84482d234dcf68235e439d8707c6d1878cc357a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GlaciusZircon",
+                     "kind":  "heroes",
+                     "name":  "Glacius - Zircon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "glacius/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/GlaciusZircon/GlaciusZircon.psd1",
+                     "icon":  "mods/GlaciusZircon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GlaciusZircon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GlaciusZircon.zip",
+                                               "size":  16441679,
+                                               "sha256":  "e9e1341c0d7475319ed89395e5476116d0535a2321f60f24bb0d3cde378bc253"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GlaciusZircon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GlaciusZircon.html",
+                                                   "size":  38543044,
+                                                   "sha256":  "d1b42a9b9f1e753f3f0730fa114b69f350f26770b0c45d5e34423556d02ea970"
+                                               }
+                               },
+                     "source_sha256":  "a6449d8118dda8d613d09b11f05594ee7c4570fbc5d81243da5f6106581eb047",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GladiatorKusanagi",
+                     "kind":  "heroes",
+                     "name":  "Gladiator - Kusanagi",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gladiator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/GladiatorKusanagi/GladiatorKusanagi.psd1",
+                     "icon":  "mods/GladiatorKusanagi/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GladiatorKusanagi.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GladiatorKusanagi.zip",
+                                               "size":  20827649,
+                                               "sha256":  "634a9da04fad1377ebdc7342827880431ede49d5418da85e7f961f162f35a32f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GladiatorKusanagi.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GladiatorKusanagi.html",
+                                                   "size":  14072144,
+                                                   "sha256":  "8f467a87b8b6073e2d0cebcc8e5bfcf2e43730dde94b77d7329f3fe80bb02123"
+                                               }
+                               },
+                     "source_sha256":  "3ddd88de5542202e0365b321ccd6c5e0e556a25fde620cb01114e2169449118d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GravekeeperPixelkeeper",
+                     "kind":  "heroes",
+                     "name":  "Gravekeeper - Pixelkeeper",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gravekeeper/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/GravekeeperPixelkeeper/GravekeeperPixelkeeper.psd1",
+                     "icon":  "mods/GravekeeperPixelkeeper/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GravekeeperPixelkeeper.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GravekeeperPixelkeeper.zip",
+                                               "size":  9586936,
+                                               "sha256":  "87c626329dd789ab216ed4325f8fd046dbc518203180f5aecde605a2fd20cdd7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GravekeeperPixelkeeper.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GravekeeperPixelkeeper.html",
+                                                   "size":  14474358,
+                                                   "sha256":  "c8ef38a1ad50fcb6670c27d8e292eb9ad292aee328da92c9f521bd5b7ec06af8"
+                                               }
+                               },
+                     "source_sha256":  "ac6b315ec40f756b09619ed8f1a38171c16571f12acd51242d33b29e7234f2e6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GravekeeperShinigami",
+                     "kind":  "heroes",
+                     "name":  "Gravekeeper - Shinigami",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gravekeeper/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/GravekeeperShinigami/GravekeeperShinigami.psd1",
+                     "icon":  "mods/GravekeeperShinigami/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GravekeeperShinigami.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GravekeeperShinigami.zip",
+                                               "size":  6738430,
+                                               "sha256":  "9bfeef71c11f0a0c92eb417774014ba32669b3e5c154fcd547949c8aed6e8f7c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GravekeeperShinigami.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GravekeeperShinigami.html",
+                                                   "size":  13062777,
+                                                   "sha256":  "e00557574a7d3282b4091a0e79aa3d21b09a076441b2b67bc6ded4764fc383c2"
+                                               }
+                               },
+                     "source_sha256":  "49e48b16333c631de0c86aeaa7fd3585794802d28e9bde8627b0c7065db1ef5f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GunbladeCyberAssassin",
+                     "kind":  "heroes",
+                     "name":  "Gunblade - Cyber Assassin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gunblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/GunbladeCyberAssassin/GunbladeCyberAssassin.psd1",
+                     "icon":  "mods/GunbladeCyberAssassin/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GunbladeCyberAssassin.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GunbladeCyberAssassin.zip",
+                                               "size":  8738810,
+                                               "sha256":  "5c39ad42208661819106f17adc1a70cbf50002281624dc252f03e4e966702bb5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GunbladeCyberAssassin.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GunbladeCyberAssassin.html",
+                                                   "size":  17000259,
+                                                   "sha256":  "33e81ad75b13afceda0aa1826432d0e2f6493c840e8893bbf3487b23cc1879ef"
+                                               }
+                               },
+                     "source_sha256":  "736048d89068801f11969ddb2cebd9da5715ae9498e712510a688a77982fb7a7",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GunbladeGunclaw",
+                     "kind":  "heroes",
+                     "name":  "Gunblade - Gunclaw",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gunblade/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/GunbladeGunclaw/GunbladeGunclaw.psd1",
+                     "icon":  "mods/GunbladeGunclaw/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GunbladeGunclaw.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GunbladeGunclaw.zip",
+                                               "size":  10393971,
+                                               "sha256":  "b36b6e27c69623ad8bf5736884206ae72f10d7a1ceaaea1150e72bc5aa8b7df7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GunbladeGunclaw.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GunbladeGunclaw.html",
+                                                   "size":  17968309,
+                                                   "sha256":  "5313c0a0a349228a4f3f31ae8e61859cf775621acfc440c86a78516438a5842a"
+                                               }
+                               },
+                     "source_sha256":  "2cb4946d3334da8747f133e6d8aad3e13b93dc5f83fb7cb655884b47a1f2b100",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GunbladeGunmaiden",
+                     "kind":  "heroes",
+                     "name":  "Gunblade - Gunmaiden",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gunblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/GunbladeGunmaiden/GunbladeGunmaiden.psd1",
+                     "icon":  "mods/GunbladeGunmaiden/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GunbladeGunmaiden.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GunbladeGunmaiden.zip",
+                                               "size":  10286838,
+                                               "sha256":  "8529fbc7c7faa9eb6970b2f5077e689b7aa75633af76db4d78f12451f1e05054"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GunbladeGunmaiden.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GunbladeGunmaiden.html",
+                                                   "size":  22920220,
+                                                   "sha256":  "a9852bfbd31c521facbe24a12d0d8623f79fb97fabf10153b1cbab67c878a2e5"
+                                               }
+                               },
+                     "source_sha256":  "42ac8ad124f77616f165e9879a0a3273b881e7acbfd29a5e137786fba7a53d09",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "GunbladeHunter",
+                     "kind":  "heroes",
+                     "name":  "Gunblade - Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "gunblade/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/GunbladeHunter/GunbladeHunter.psd1",
+                     "icon":  "mods/GunbladeHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GunbladeHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GunbladeHunter.zip",
+                                               "size":  14538,
+                                               "sha256":  "ea057511c809d91c73b4795a9053bcbc52c725fbb9c12bebd9d563e519d2b979"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GunbladeHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GunbladeHunter.html",
+                                                   "size":  20361356,
+                                                   "sha256":  "59715342fff1b2277ebed1ea92da9a634affb3c3d90374210d2636d5a93bbe4c"
+                                               }
+                               },
+                     "source_sha256":  "43681df4fcd43378e45a44c8fc0bda5fe89855e570ee37fb49e895d93ef000a6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HammerstormAdkarnaHammerguard",
+                     "kind":  "heroes",
+                     "name":  "Hammerstorm - Adkarna Hammerguard",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hammerstorm/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/HammerstormAdkarnaHammerguard/HammerstormAdkarnaHammerguard.psd1",
+                     "icon":  "mods/HammerstormAdkarnaHammerguard/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HammerstormAdkarnaHammerguard.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormAdkarnaHammerguard.zip",
+                                               "size":  10601919,
+                                               "sha256":  "561d8c1f336ff5709ba3cd8f284116e5b48ebfe21fce508cc0c255f8a3a6f3b8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HammerstormAdkarnaHammerguard.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HammerstormAdkarnaHammerguard.html",
+                                                   "size":  15982088,
+                                                   "sha256":  "bea1ce965293dfaf01cd701be1bf698c3e26e24ea8889f3eba277bcadad617c3"
+                                               }
+                               },
+                     "source_sha256":  "e565ddc5b45ddb49e607b9dc241af63da4509b113314b62e36005f0f5946c48b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "HammerstormCarnystorm",
+                     "kind":  "heroes",
+                     "name":  "Hammerstorm - Carnystorm",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "hammerstorm/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/HammerstormCarnystorm/HammerstormCarnystorm.psd1",
+                     "icon":  "mods/HammerstormCarnystorm/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "HammerstormCarnystorm.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/HammerstormCarnystorm.zip",
+                                               "size":  9554482,
+                                               "sha256":  "38890555ff55cc7cadc744f91bba168e8e50254f759264af4a0b23d5c8974a5d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "HammerstormCarnystorm.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/HammerstormCarnystorm.html",
+                                                   "size":  16670919,
+                                                   "sha256":  "b3c3d56cfea0fda4fc52077e729fbd78a58ec9bae4a4830928c3ca5eb29928c8"
+                                               }
+                               },
+                     "source_sha256":  "faea4e67a86c4cedd1d82add29c9aec22021c8383f1854ed6760c0d12eac2d21",
                      "updated":  "2026-11-23"
                  },
                  {
