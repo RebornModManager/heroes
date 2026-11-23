@@ -1,14 +1,789 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:33:54+01:00",
+    "generated":  "2026-11-23T12:40:40+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  155048,
-                  "sha256":  "a79878255637e383949995477445cebc444f4f26be672d004f32bdb9be432a35"
+                  "size":  1295233,
+                  "sha256":  "e51ae5e839de2fc5b4d602900a918a801e12acd227f7d06d230962b13bcf24c4"
               },
     "mods":  [
+                 {
+                     "id":  "AccursedAbaddon",
+                     "kind":  "heroes",
+                     "name":  "Accursed - Abaddon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "accursed/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/AccursedAbaddon/AccursedAbaddon.psd1",
+                     "icon":  "mods/AccursedAbaddon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AccursedAbaddon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AccursedAbaddon.zip",
+                                               "size":  10904266,
+                                               "sha256":  "ee1112c2e2de91f5c6db5e2c62468385032e44ea20a0167483537ed507acc0f8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AccursedAbaddon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AccursedAbaddon.html",
+                                                   "size":  23435358,
+                                                   "sha256":  "827f14ab98308d70c188587301870a03f4dce141ecd1ec6edea79bc602d4cf3d"
+                                               }
+                               },
+                     "source_sha256":  "8aa0a8e1747a7ed8c0ea04079c8bc46fd7c3d66a2c206186cd34c99846dcc244",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AccursedLordOfLocusts",
+                     "kind":  "heroes",
+                     "name":  "Accursed - Lord of Locusts",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "accursed/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/AccursedLordOfLocusts/AccursedLordOfLocusts.psd1",
+                     "icon":  "mods/AccursedLordOfLocusts/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AccursedLordOfLocusts.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AccursedLordOfLocusts.zip",
+                                               "size":  10258248,
+                                               "sha256":  "d5f66696a477f0ea03747004f47bf2418aeb71b5176987fb2dfe2806a0c80b2b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AccursedLordOfLocusts.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AccursedLordOfLocusts.html",
+                                                   "size":  21784587,
+                                                   "sha256":  "f184229cb21aabe2a3cfd393fd1179b83a1c01f45138b7e279b5de7c46d0a2f0"
+                                               }
+                               },
+                     "source_sha256":  "ddcd30c2a0faeaaa4b731a97515b4fff2214f9e371b6de7c6e835f5dda126bbc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AlunaRedRidingHood",
+                     "kind":  "heroes",
+                     "name":  "Aluna - Red Riding Hood",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "aluna/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/AlunaRedRidingHood/AlunaRedRidingHood.psd1",
+                     "icon":  "mods/AlunaRedRidingHood/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AlunaRedRidingHood.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AlunaRedRidingHood.zip",
+                                               "size":  13726239,
+                                               "sha256":  "3b1d6762bcdda080d99745ce1030eacbedec9405dd7ad41c20240e4ece947f7d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AlunaRedRidingHood.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AlunaRedRidingHood.html",
+                                                   "size":  20320537,
+                                                   "sha256":  "5556ab60e062322b44885d6ed370fab81b5f893391c8ea10b96ea3ec805ba3dc"
+                                               }
+                               },
+                     "source_sha256":  "c0f1d8ecbb0ccc00b64d6e366ca6ca020d2b673dc51deac035f6dce9cfa3fbe6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AmunRaFusionRa",
+                     "kind":  "heroes",
+                     "name":  "Amun-Ra - Fusion Ra",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "amun_ra/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/AmunRaFusionRa/AmunRaFusionRa.psd1",
+                     "icon":  "mods/AmunRaFusionRa/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AmunRaFusionRa.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AmunRaFusionRa.zip",
+                                               "size":  10973936,
+                                               "sha256":  "22e01f3b2675b44be17139024158253878654ad20f47dc9ebdb49fd721def9ca"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AmunRaFusionRa.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AmunRaFusionRa.html",
+                                                   "size":  17886350,
+                                                   "sha256":  "741b675b8c45ad2fe7fe0fe72f0baa11d13ba5685077b2a880960c8ea37b1c0c"
+                                               }
+                               },
+                     "source_sha256":  "5d4f9540f9ae3fccb8db7e0cf008c4a737d92dbd5177cfe0873ea97e21c5c561",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AmunRaMontuRa",
+                     "kind":  "heroes",
+                     "name":  "Amun-Ra - Montu-Ra",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "amun_ra/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/AmunRaMontuRa/AmunRaMontuRa.psd1",
+                     "icon":  "mods/AmunRaMontuRa/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AmunRaMontuRa.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AmunRaMontuRa.zip",
+                                               "size":  10359946,
+                                               "sha256":  "9d766407dbb7c66c4420e9deac68e1f9a0abd7c8c4ec4a7f5a7c8af633361220"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AmunRaMontuRa.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AmunRaMontuRa.html",
+                                                   "size":  19555575,
+                                                   "sha256":  "4753a941692f59f6f1c15ff3c4b6f2ef626c129f6d7dce3dc3c508874b3be31b"
+                                               }
+                               },
+                     "source_sha256":  "1eea7d3d741d07080fb4bb8e7a6fa46c8e1a2491f3e50c4788ebabb8e983c23c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AmunRaRoboRa",
+                     "kind":  "heroes",
+                     "name":  "Amun-Ra - RoboRa",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "amun_ra/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/AmunRaRoboRa/AmunRaRoboRa.psd1",
+                     "icon":  "mods/AmunRaRoboRa/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AmunRaRoboRa.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AmunRaRoboRa.zip",
+                                               "size":  10008266,
+                                               "sha256":  "09a70d3c2872a1ae0b9dd1ce167899b1bf6e44ec198a621cfb576a770c4bf24b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AmunRaRoboRa.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AmunRaRoboRa.html",
+                                                   "size":  15414321,
+                                                   "sha256":  "cc3c73ffadf4e77afd8bf8e8c82306f46a09b09ebcc9f46d3d34a0c6a62bf5da"
+                                               }
+                               },
+                     "source_sha256":  "3b25ccaa39d803eb5965011f06f1c7e7c11758150fa13010e5261e245d49728d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AndromedaChristmasLights",
+                     "kind":  "heroes",
+                     "name":  "Andromeda - Christmas Lights",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "andromeda/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/AndromedaChristmasLights/AndromedaChristmasLights.psd1",
+                     "icon":  "mods/AndromedaChristmasLights/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AndromedaChristmasLights.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AndromedaChristmasLights.zip",
+                                               "size":  8277580,
+                                               "sha256":  "406dd4f27470a3477b63645872d865fe14933f425c99c1ffbfd7de7032c27444"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AndromedaChristmasLights.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AndromedaChristmasLights.html",
+                                                   "size":  14185970,
+                                                   "sha256":  "f99c09ada728bc802b2636cc394f42a4811525130166a5bae141b4ef219388ba"
+                                               }
+                               },
+                     "source_sha256":  "1976ec3acbc80d6ac1effb66b578aa7592355bd7ab7c07f49f52bf5f5b59951b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AndromedaEos",
+                     "kind":  "heroes",
+                     "name":  "Andromeda - Eos",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "andromeda/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/AndromedaEos/AndromedaEos.psd1",
+                     "icon":  "mods/AndromedaEos/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AndromedaEos.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AndromedaEos.zip",
+                                               "size":  7735834,
+                                               "sha256":  "13b2fb856b25ae375009a0100c5d83dcb467919bea91f1e6b3aec93ef99330f4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AndromedaEos.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AndromedaEos.html",
+                                                   "size":  14382468,
+                                                   "sha256":  "5c1bba3e14d2d4ba987d99982db2a3b04617f26825ddd41ba726436a760b2589"
+                                               }
+                               },
+                     "source_sha256":  "07ec9c4ade2914c4fda9a4a4ca640a11fd6724f838b66f74f7eb2ebdf90e7dd5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AndromedaMandromeda",
+                     "kind":  "heroes",
+                     "name":  "Andromeda - Mandromeda",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "andromeda/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/AndromedaMandromeda/AndromedaMandromeda.psd1",
+                     "icon":  "mods/AndromedaMandromeda/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AndromedaMandromeda.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AndromedaMandromeda.zip",
+                                               "size":  8046358,
+                                               "sha256":  "b0c0532f9ec08f127438a4dd3a4e0fd0060634e764a91655e07be36560e19a11"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AndromedaMandromeda.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AndromedaMandromeda.html",
+                                                   "size":  11772588,
+                                                   "sha256":  "b73ff8e6269dca609744331dbfb74a920c39cc12fbb3a7ebbb1e21d77840be33"
+                                               }
+                               },
+                     "source_sha256":  "426ddf76d19d6a59d9d03e08f5c67f0b23f9b65e48291e5dd218085bb641651c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "AndromedaNebula",
+                     "kind":  "heroes",
+                     "name":  "Andromeda - Nebula",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "andromeda/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/AndromedaNebula/AndromedaNebula.psd1",
+                     "icon":  "mods/AndromedaNebula/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "AndromedaNebula.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/AndromedaNebula.zip",
+                                               "size":  9792305,
+                                               "sha256":  "47798758a667e5ccb88c986c7cf7a40fbf5a359defb5f7cec0e007d59fb7e3b0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "AndromedaNebula.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/AndromedaNebula.html",
+                                                   "size":  14539384,
+                                                   "sha256":  "3d48ec046ba77b2d5d80e9583d70f834855af484f5b89e6db16f3c44218c86da"
+                                               }
+                               },
+                     "source_sha256":  "4cc98b17d569d2ad6ba930818fa57068a53fcedbdf5283abb76346d11a35c21e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArachnaArachnae",
+                     "kind":  "heroes",
+                     "name":  "Arachna - Arachnae",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "arachna/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ArachnaArachnae/ArachnaArachnae.psd1",
+                     "icon":  "mods/ArachnaArachnae/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArachnaArachnae.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArachnaArachnae.zip",
+                                               "size":  12190062,
+                                               "sha256":  "86269d18b0b189ad930b0e23e6f7d6b2dae61fe03486d1eb8149cf0c767d032d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArachnaArachnae.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArachnaArachnae.html",
+                                                   "size":  16010829,
+                                                   "sha256":  "a45376997493bd624719ea4a7c6111167cbd51728c840e929a1c44e6a62400a8"
+                                               }
+                               },
+                     "source_sha256":  "ebb3a1f06be508bcc1ed263d28c1596b0dcfaac612fe44d0762068498f5f6d94",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArachnaYokai",
+                     "kind":  "heroes",
+                     "name":  "Arachna - Yokai",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "arachna/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-14",
+                     "patch":  false,
+                     "psd1":  "mods/ArachnaYokai/ArachnaYokai.psd1",
+                     "icon":  "mods/ArachnaYokai/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArachnaYokai.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArachnaYokai.zip",
+                                               "size":  10441274,
+                                               "sha256":  "0540ce3366036ac65dd2281aab79a570f847b32b6a08784e416a5aa5bf66ed53"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArachnaYokai.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArachnaYokai.html",
+                                                   "size":  18045332,
+                                                   "sha256":  "0c55ca173228800a9446895f6da294c301667aa75cf6f9213ae3b5a5d767f7a4"
+                                               }
+                               },
+                     "source_sha256":  "a3b0c0b5b5294db54af1107b2a57bd9916b8f01ae79f6b406e13b2fbf8709dc5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArmadonArmaDonna",
+                     "kind":  "heroes",
+                     "name":  "Armadon - ArmaDonna",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "armadon/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ArmadonArmaDonna/ArmadonArmaDonna.psd1",
+                     "icon":  "mods/ArmadonArmaDonna/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArmadonArmaDonna.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonArmaDonna.zip",
+                                               "size":  3637583,
+                                               "sha256":  "0a70ca28ef8130112c88785ecdfed7f51ec241b94eaa9d36daae0669f7d4db1d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArmadonArmaDonna.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArmadonArmaDonna.html",
+                                                   "size":  9101505,
+                                                   "sha256":  "733e2b6a2c3881fa90edfe3744da2ce1466b501c65013b3fd956e05bd7dfcb25"
+                                               }
+                               },
+                     "source_sha256":  "8f070e0764912660abd3cf09ccb9324455d8fb152be6abd74705e0ec36297217",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArmadonAscension",
+                     "kind":  "heroes",
+                     "name":  "Armadon - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "armadon/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ArmadonAscension/ArmadonAscension.psd1",
+                     "icon":  "mods/ArmadonAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArmadonAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonAscension.zip",
+                                               "size":  341332,
+                                               "sha256":  "4158a0b23bc1b899dd56e4adbd18ef4af760a99e190e9d32f8f761091597f686"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArmadonAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArmadonAscension.html",
+                                                   "size":  23258211,
+                                                   "sha256":  "56ca71b75237fe9413fce0638aec76861014b5d0960b824b6154005aca598cce"
+                                               }
+                               },
+                     "source_sha256":  "82de9afb21c7dcb2e777c16e16b4edc78397dda1b7487f1c0c47a1e8af498ed4",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArmadonDreadmace",
+                     "kind":  "heroes",
+                     "name":  "Armadon - Dreadmace",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "armadon/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ArmadonDreadmace/ArmadonDreadmace.psd1",
+                     "icon":  "mods/ArmadonDreadmace/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArmadonDreadmace.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonDreadmace.zip",
+                                               "size":  9521984,
+                                               "sha256":  "4a28b249e10aff29ea9d283868d6190c54fd8a8b82c8b779deff4ab251b6aa8a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArmadonDreadmace.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArmadonDreadmace.html",
+                                                   "size":  18405387,
+                                                   "sha256":  "8640efba0a88aa9686ce6441acbf0185a9defddfcd35550ae9b0cc97a173693f"
+                                               }
+                               },
+                     "source_sha256":  "91f7ae7169b492ab12134f7415b6753536937235537a89a12eaaa0c72a1a9e8b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArmadonScarlord",
+                     "kind":  "heroes",
+                     "name":  "Armadon - Scarlord",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "armadon/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/ArmadonScarlord/ArmadonScarlord.psd1",
+                     "icon":  "mods/ArmadonScarlord/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArmadonScarlord.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonScarlord.zip",
+                                               "size":  8975030,
+                                               "sha256":  "681f1acfb7c17c2b38b7b9823e9157837d7414fd7622545d70d595b2f653466f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArmadonScarlord.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArmadonScarlord.html",
+                                                   "size":  13984194,
+                                                   "sha256":  "a0fc3990166f99fa6c39825a371c23e26a72800267bd721ed3a0742e4fc948c1"
+                                               }
+                               },
+                     "source_sha256":  "d6138848eec0fd48189b127b701b1aadf8efab2d7efb86381b48b6f6d12dbffb",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ArmadonSloth",
+                     "kind":  "heroes",
+                     "name":  "Armadon - Sloth",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "armadon/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ArmadonSloth/ArmadonSloth.psd1",
+                     "icon":  "mods/ArmadonSloth/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ArmadonSloth.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ArmadonSloth.zip",
+                                               "size":  4329521,
+                                               "sha256":  "17d60e5f305d7cbd2532349846ee61edf581d1d30af9a3058d6b546ab69a5c2c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ArmadonSloth.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ArmadonSloth.html",
+                                                   "size":  13836114,
+                                                   "sha256":  "b4761dd33ec61c4e2caa811c5f61d93312a3cd7b2c942b9617df28f0027a71bb"
+                                               }
+                               },
+                     "source_sha256":  "7223c5ae98b59e24eba6ff144e26a0e473b2f8c1926625bbf5114922f578860b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BehemothAnhur",
+                     "kind":  "heroes",
+                     "name":  "Behemoth - Anhur",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "behemoth/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/BehemothAnhur/BehemothAnhur.psd1",
+                     "icon":  "mods/BehemothAnhur/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BehemothAnhur.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothAnhur.zip",
+                                               "size":  9218710,
+                                               "sha256":  "b9ce195b22c09f9bb03847103178cd0e64689f191cdf5862971ffc3517d1b975"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BehemothAnhur.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BehemothAnhur.html",
+                                                   "size":  16463790,
+                                                   "sha256":  "ad446e5455754c3c31a53862df7b212e332ffe944ce0943288445a86cd2def7f"
+                                               }
+                               },
+                     "source_sha256":  "e34e328538771cc2cdc811f7bd88cd3dc0de722704a9142451d7a16d1e1024f8",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BehemothCarnelianParagon",
+                     "kind":  "heroes",
+                     "name":  "Behemoth - Carnelian Paragon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "behemoth/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BehemothCarnelianParagon/BehemothCarnelianParagon.psd1",
+                     "icon":  "mods/BehemothCarnelianParagon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BehemothCarnelianParagon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothCarnelianParagon.zip",
+                                               "size":  9669128,
+                                               "sha256":  "01bc85ed1374708e5195e68735c6e5d76eacd3a44cebb818c9fdd5f97e76ce9d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BehemothCarnelianParagon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BehemothCarnelianParagon.html",
+                                                   "size":  22273167,
+                                                   "sha256":  "0689268aaf4a5de25cc96408fa6bb2ab2327a9d93baa7e0bddd021fcafff6e8c"
+                                               }
+                               },
+                     "source_sha256":  "45f6940bb5e7cc98780e374e01216bb81c20b806e460a92ac09f3333c2f90cae",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BehemothFrostfieldTwitch",
+                     "kind":  "heroes",
+                     "name":  "Behemoth - Frostfield Twitch",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "behemoth/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/BehemothFrostfieldTwitch/BehemothFrostfieldTwitch.psd1",
+                     "icon":  "mods/BehemothFrostfieldTwitch/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BehemothFrostfieldTwitch.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothFrostfieldTwitch.zip",
+                                               "size":  10938067,
+                                               "sha256":  "16357802f19d456c564113010151f11eefbd6e8bb9568e8f901946c2475c95f1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BehemothFrostfieldTwitch.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BehemothFrostfieldTwitch.html",
+                                                   "size":  36968269,
+                                                   "sha256":  "1309a36406fa04746ea53461bf94f8b0dad83c06dcb6a685735d5b8db4a269cb"
+                                               }
+                               },
+                     "source_sha256":  "7f65d1e7eb827df490cbd6c4af779c2dcc80dc66ef81d855513ae4869f4d9373",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BehemothMinotaur",
+                     "kind":  "heroes",
+                     "name":  "Behemoth - Minotaur",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "behemoth/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/BehemothMinotaur/BehemothMinotaur.psd1",
+                     "icon":  "mods/BehemothMinotaur/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BehemothMinotaur.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothMinotaur.zip",
+                                               "size":  8770527,
+                                               "sha256":  "34a6d13036d57ebfb91e33fd14ed9b20c732989f10b8e13cdd3bce46efb2496f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BehemothMinotaur.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BehemothMinotaur.html",
+                                                   "size":  16423047,
+                                                   "sha256":  "b488001a9eafe737f8ee566c086f4e15addcfc923ab2cab25565be767bb1934e"
+                                               }
+                               },
+                     "source_sha256":  "b84f5baceace25151ad5b2277a142b8857ae92ce4a415dc9d3bb71431add1bca",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BehemothPlushieBehe",
+                     "kind":  "heroes",
+                     "name":  "Behemoth - Plushie Behe",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "behemoth/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/BehemothPlushieBehe/BehemothPlushieBehe.psd1",
+                     "icon":  "mods/BehemothPlushieBehe/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BehemothPlushieBehe.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothPlushieBehe.zip",
+                                               "size":  9065374,
+                                               "sha256":  "b86938b066e0ff828b4a3405980df9004ae127d442f17f9b813764cc7e6806b8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BehemothPlushieBehe.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BehemothPlushieBehe.html",
+                                                   "size":  16122351,
+                                                   "sha256":  "cd5363bd6bbbd9a12649ddf8a5e65133615786b817dc3f502d3414fffffbe6da"
+                                               }
+                               },
+                     "source_sha256":  "e718bd0cc71604dca91af5ca8ca942437aac0bd6e046cec12413c522f6d6c25a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BehemothRuneWeaver",
+                     "kind":  "heroes",
+                     "name":  "Behemoth - Rune Weaver",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "behemoth/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/BehemothRuneWeaver/BehemothRuneWeaver.psd1",
+                     "icon":  "mods/BehemothRuneWeaver/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BehemothRuneWeaver.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BehemothRuneWeaver.zip",
+                                               "size":  10404816,
+                                               "sha256":  "d073d7538d0abc234d8a67e168ae37fb6bb81486f29c1a7f89c4280e83512355"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BehemothRuneWeaver.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BehemothRuneWeaver.html",
+                                                   "size":  15245281,
+                                                   "sha256":  "bbebb5f76f2e30baecb33ec33f44ca1d77f92bd9f91e0f4e61f6ea4766c91a5b"
+                                               }
+                               },
+                     "source_sha256":  "b94ee9ccf9f08256220209c688226f22561d038002a31e6ca0d07a42df4b36a7",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BerzerkerBloodAxe",
+                     "kind":  "heroes",
+                     "name":  "Berzerker - BloodAxe",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "berzerker/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-30",
+                     "patch":  false,
+                     "psd1":  "mods/BerzerkerBloodAxe/BerzerkerBloodAxe.psd1",
+                     "icon":  "mods/BerzerkerBloodAxe/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BerzerkerBloodAxe.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BerzerkerBloodAxe.zip",
+                                               "size":  14613,
+                                               "sha256":  "432f311241130413e08296bd7e8be9ad13d7b4e9e889c3dbd0d1359347b4391f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BerzerkerBloodAxe.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BerzerkerBloodAxe.html",
+                                                   "size":  20939701,
+                                                   "sha256":  "e7c38c9fa91911ecf1d995439de267d6756aaef85cf9235e22eb174de6cbfd88"
+                                               }
+                               },
+                     "source_sha256":  "3dd9ebb86aba3396b7b2c6be466079fcfe0a9e3ea125ac28470a3c4581ddd3b6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BerzerkerChaos",
+                     "kind":  "heroes",
+                     "name":  "Berzerker - Chaos Berzerker",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "berzerker/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/BerzerkerChaos/BerzerkerChaos.psd1",
+                     "icon":  "mods/BerzerkerChaos/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BerzerkerChaos.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BerzerkerChaos.zip",
+                                               "size":  9593267,
+                                               "sha256":  "89ce2a0b998b49eeea8e4428e37d37e6f6225343d606e9fb1b168ee4a51ac7c8"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BerzerkerChaos.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BerzerkerChaos.html",
+                                                   "size":  13760258,
+                                                   "sha256":  "36a665b66f5e0ddc9aa48e46956bcbabfd5a7ba992e0891182bd6ed6c4caea46"
+                                               }
+                               },
+                     "source_sha256":  "d34f2ada5804410987c69a6a00d5e55bc8fa581eaa3ab7cfeac8ca3b5a64e1bb",
+                     "updated":  "2026-11-23"
+                 },
                  {
                      "id":  "MagmusScoria",
                      "kind":  "heroes",
