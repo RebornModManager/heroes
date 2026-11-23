@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:58:41+01:00",
+    "generated":  "2026-11-23T13:01:18+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  6361369,
-                  "sha256":  "4ef6491e982169f450639cb836f81ebb79dfbdac02499a419bf3c9f2935c0abd"
+                  "size":  6982761,
+                  "sha256":  "aeb5a7e0a1a6677e77a1c3c0a5234e469b282fb4b3df8eb2bd828a629bf976cb"
               },
     "mods":  [
                  {
@@ -6207,6 +6207,781 @@
                                                }
                                },
                      "source_sha256":  "5546c7213aa6ac471b9a92dfafc6712ab16258e9ea36efe9ea782edc24524592",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PestilenceMisfitPesti",
+                     "kind":  "heroes",
+                     "name":  "Pestilence - Misfit Pesti",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pestilence/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/PestilenceMisfitPesti/PestilenceMisfitPesti.psd1",
+                     "icon":  "mods/PestilenceMisfitPesti/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PestilenceMisfitPesti.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PestilenceMisfitPesti.zip",
+                                               "size":  8204173,
+                                               "sha256":  "c076cb5508a01cdb864e1b8eda1bdd64cdf9b109b717e4a2ec55a1c2307bac30"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PestilenceMisfitPesti.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PestilenceMisfitPesti.html",
+                                                   "size":  13142531,
+                                                   "sha256":  "dfac3d8e2feed8d28dacc8f27dfc3a9389d30c4afd5f2e545171966028b3879e"
+                                               }
+                               },
+                     "source_sha256":  "d7ef67d74257d3df5073c1fb145abf4d542b20654780e5905f7f24b7b1915926",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PestilencePlushiePesti",
+                     "kind":  "heroes",
+                     "name":  "Pestilence - Plushie Pesti",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pestilence/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/PestilencePlushiePesti/PestilencePlushiePesti.psd1",
+                     "icon":  "mods/PestilencePlushiePesti/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PestilencePlushiePesti.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PestilencePlushiePesti.zip",
+                                               "size":  8829592,
+                                               "sha256":  "563804c8adf517aef5db8392b19ccced6e5a43c664d3f1a25b993bddea83fe77"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PestilencePlushiePesti.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PestilencePlushiePesti.html",
+                                                   "size":  14494784,
+                                                   "sha256":  "9b761b5edd0fe6a1bae9b999b49741acdffd9ceebf6c7917c540851a7150187a"
+                                               }
+                               },
+                     "source_sha256":  "c6f2e0671546593a9bc695c31be684c6581533416ac30433d42b827a2e57445a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PharaohAscension",
+                     "kind":  "heroes",
+                     "name":  "Pharaoh - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pharaoh/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PharaohAscension/PharaohAscension.psd1",
+                     "icon":  "mods/PharaohAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PharaohAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PharaohAscension.zip",
+                                               "size":  11034399,
+                                               "sha256":  "ea77dc02cefc8f78a8f113067f6ab15a4ee2b41e3c4cf636461000a295075a44"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PharaohAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PharaohAscension.html",
+                                                   "size":  15404241,
+                                                   "sha256":  "5750f0f79aacb4bc9360c44f149c3019ced5662255ef671c766165b4f8d2e1e9"
+                                               }
+                               },
+                     "source_sha256":  "dfceac7214a31fe99ff54de5dbbff337aa75e77f53797f64ccde7616fcfff541",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PlagueRiderFrostRider",
+                     "kind":  "heroes",
+                     "name":  "Plague Rider - Frost Rider",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "plague_rider/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-03",
+                     "patch":  false,
+                     "psd1":  "mods/PlagueRiderFrostRider/PlagueRiderFrostRider.psd1",
+                     "icon":  "mods/PlagueRiderFrostRider/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PlagueRiderFrostRider.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PlagueRiderFrostRider.zip",
+                                               "size":  9785088,
+                                               "sha256":  "a462068c00ba5cdfe6fb22e85375d25eedce1187a684916c74204ba75815528c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PlagueRiderFrostRider.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PlagueRiderFrostRider.html",
+                                                   "size":  14989791,
+                                                   "sha256":  "aa6f4d8b7d10a544280bd24db6c39b9d0545059a6f05edc02bd5c2c051ce0ee8"
+                                               }
+                               },
+                     "source_sha256":  "84d4d9eb11123a8f4c0f5389dd39127fee4419d0173630479059f909b085ec3e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PollywogPriestAxolotlPollywog",
+                     "kind":  "heroes",
+                     "name":  "Pollywog Priest - Axolotl Pollywog",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pollywog_priest/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/PollywogPriestAxolotlPollywog/PollywogPriestAxolotlPollywog.psd1",
+                     "icon":  "mods/PollywogPriestAxolotlPollywog/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PollywogPriestAxolotlPollywog.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PollywogPriestAxolotlPollywog.zip",
+                                               "size":  9927799,
+                                               "sha256":  "91a6a8acfaa10b72d6c5080d91abb21e216e04d0a51dd2a5d9752b56dfca55e7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PollywogPriestAxolotlPollywog.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PollywogPriestAxolotlPollywog.html",
+                                                   "size":  17267041,
+                                                   "sha256":  "f96defa07999f1f82c079f976110882992dc924598549293f344892362afe716"
+                                               }
+                               },
+                     "source_sha256":  "a1237ec5a07f7ca86374dae17e060de4c1c4224cec6648988a32e3fd99da33e5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PollywogPriestPrincePolly",
+                     "kind":  "heroes",
+                     "name":  "Pollywog Priest - Prince Polly",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pollywog_priest/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/PollywogPriestPrincePolly/PollywogPriestPrincePolly.psd1",
+                     "icon":  "mods/PollywogPriestPrincePolly/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PollywogPriestPrincePolly.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PollywogPriestPrincePolly.zip",
+                                               "size":  9689678,
+                                               "sha256":  "40ed47dcf5e3c63497d3b173475db12d0ab5169f965c0f8761702ec72972acfc"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PollywogPriestPrincePolly.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PollywogPriestPrincePolly.html",
+                                                   "size":  18103489,
+                                                   "sha256":  "9971dcfdd7efadc639d829c1b086ea8ca12f1e765a6b34df7db0edfc7278b3b7"
+                                               }
+                               },
+                     "source_sha256":  "03dc947587f53faf5dcd0417ac961d9f3d57722c348549d6d8b2cb76744b4e60",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PollywogPriestPunkPollywog",
+                     "kind":  "heroes",
+                     "name":  "Pollywog Priest - Punk Pollywog",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pollywog_priest/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-19",
+                     "patch":  false,
+                     "psd1":  "mods/PollywogPriestPunkPollywog/PollywogPriestPunkPollywog.psd1",
+                     "icon":  "mods/PollywogPriestPunkPollywog/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PollywogPriestPunkPollywog.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PollywogPriestPunkPollywog.zip",
+                                               "size":  9905106,
+                                               "sha256":  "2d894d2b327b4a457f1b9c0c325176c18273d3271b5248e9dda177ad0a9b5880"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PollywogPriestPunkPollywog.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PollywogPriestPunkPollywog.html",
+                                                   "size":  15829278,
+                                                   "sha256":  "2ba30cba29f7f9f8c858801b5d8f642820b32a46579c66bf67b515d7bc0cd259"
+                                               }
+                               },
+                     "source_sha256":  "42437b8e3ae3e3df51cbe7b81d70a764f3cd9d7aba7152880fc7880ce12b55c3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PredatorBeast",
+                     "kind":  "heroes",
+                     "name":  "Predator - Beast",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "predator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/PredatorBeast/PredatorBeast.psd1",
+                     "icon":  "mods/PredatorBeast/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PredatorBeast.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PredatorBeast.zip",
+                                               "size":  9753586,
+                                               "sha256":  "d8cab3fe0075d1d03c3a3c2a33585e20182b66a9da3732b19a55746fc3e25ae5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PredatorBeast.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PredatorBeast.html",
+                                                   "size":  20250754,
+                                                   "sha256":  "b05197454a79679f01df2d43f46638e22edfed684f783a588bb1bc8c2f948d6a"
+                                               }
+                               },
+                     "source_sha256":  "599faf2cf290578032acb7785a3ac091f241c570dadfbf78d474fb753288ed1d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PredatorBirthdayBasher",
+                     "kind":  "heroes",
+                     "name":  "Predator - Birthday Basher",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "predator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "",
+                     "patch":  false,
+                     "psd1":  "mods/PredatorBirthdayBasher/PredatorBirthdayBasher.psd1",
+                     "icon":  "mods/PredatorBirthdayBasher/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PredatorBirthdayBasher.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PredatorBirthdayBasher.zip",
+                                               "size":  11003889,
+                                               "sha256":  "a1984e9e0e3095037f6ef533e3b5a6c4ca7e5f01a2e8c6b2497c52deaf133e41"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PredatorBirthdayBasher.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PredatorBirthdayBasher.html",
+                                                   "size":  21182404,
+                                                   "sha256":  "b2e44bfb59d674438b6e430a578fb2f8c30d054d7f0f499b66567affe0e8f26f"
+                                               }
+                               },
+                     "source_sha256":  "7946f3a66a80766edcede9cae3fbc7d43aa493f55c937fc69519cdae89013c60",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PredatorBunny",
+                     "kind":  "heroes",
+                     "name":  "Predator - Bunny",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "predator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PredatorBunny/PredatorBunny.psd1",
+                     "icon":  "mods/PredatorBunny/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PredatorBunny.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PredatorBunny.zip",
+                                               "size":  8261571,
+                                               "sha256":  "6b9a6d5035b7e87c3c56b01a00bed5a58f79b8d7ade84bef1c1ac4474bd6cb84"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PredatorBunny.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PredatorBunny.html",
+                                                   "size":  13598954,
+                                                   "sha256":  "58a0efb7c714c52133acbe6a6661c95b27d24c00a3a445bcdf1a3c306538763e"
+                                               }
+                               },
+                     "source_sha256":  "8cd27fccd35840d57705fa8de06f901a0ba2965457f887894f05f9b770ca9f50",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PredatorNightmare",
+                     "kind":  "heroes",
+                     "name":  "Predator - Nightmare",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "predator/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PredatorNightmare/PredatorNightmare.psd1",
+                     "icon":  "mods/PredatorNightmare/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PredatorNightmare.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PredatorNightmare.zip",
+                                               "size":  3378546,
+                                               "sha256":  "03470f5a814b4dc71d8cd6b334c565fd69b9840ae46a2b2688f74de08b9555af"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PredatorNightmare.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PredatorNightmare.html",
+                                                   "size":  11236936,
+                                                   "sha256":  "ca4b2ee5d0131856f2932e88d707bfab7b0d2e8b53c3dd5e0bbcc31a1df0753d"
+                                               }
+                               },
+                     "source_sha256":  "4728127588347726b06170da7e2b336b7ca9b7be2e62dcf68b338ef0784015dc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PrisonerRune",
+                     "kind":  "heroes",
+                     "name":  "Prisoner - Rune",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "prisoner/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PrisonerRune/PrisonerRune.psd1",
+                     "icon":  "mods/PrisonerRune/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PrisonerRune.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PrisonerRune.zip",
+                                               "size":  353100,
+                                               "sha256":  "2f628492ee737ef57166c3e2894d937d8cfcde651ebf813da51f8e3cd6a1f29c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PrisonerRune.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PrisonerRune.html",
+                                                   "size":  21976857,
+                                                   "sha256":  "1585ae7d4a0d8f5b4877d54bd57720361512e2a678b1d68f08ec74c9844151d6"
+                                               }
+                               },
+                     "source_sha256":  "306b7397564d6303caf36d6ecc0bf64ac17ee71cf3c91f0fbedde1ad6a499c99",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ProphetAmadea",
+                     "kind":  "heroes",
+                     "name":  "Prophet - Amadea",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "prophet/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/ProphetAmadea/ProphetAmadea.psd1",
+                     "icon":  "mods/ProphetAmadea/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ProphetAmadea.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ProphetAmadea.zip",
+                                               "size":  12032125,
+                                               "sha256":  "bc071e367d48ddc652b790fc401ed0965e23c8317414fcdf2282844eb6725d3b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ProphetAmadea.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ProphetAmadea.html",
+                                                   "size":  16451590,
+                                                   "sha256":  "baf8c0982c0d5f209aa8f41eb0351df18d6653bf4aadf38a7e9bc50ca309884c"
+                                               }
+                               },
+                     "source_sha256":  "8483182f83c77f7a1eb68f9392baf9b95d2bf2d1a5c952989d02fdc1eae1cab1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ProphetTrickster",
+                     "kind":  "heroes",
+                     "name":  "Prophet - Trickster",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "prophet/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ProphetTrickster/ProphetTrickster.psd1",
+                     "icon":  "mods/ProphetTrickster/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ProphetTrickster.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ProphetTrickster.zip",
+                                               "size":  10814333,
+                                               "sha256":  "6fb91e2a2ba7279c89239135b12d0b26dcd4c3148009df9b23a71356e8d308f7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ProphetTrickster.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ProphetTrickster.html",
+                                                   "size":  17233701,
+                                                   "sha256":  "34a64f0b45a6ac99c704005a92234144560209a53a25ae5df822ee889095edbd"
+                                               }
+                               },
+                     "source_sha256":  "5c61fff5cd2f56368414b648bc48908bcdb18effd5eb67817f3b70a68289b16e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterDalang",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - Dalang",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterDalang/PuppetMasterDalang.psd1",
+                     "icon":  "mods/PuppetMasterDalang/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterDalang.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterDalang.zip",
+                                               "size":  12347617,
+                                               "sha256":  "dd23ffcb54211788d0d773fe4863035027b78d6b60d836d609ed4d01a9e48a24"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterDalang.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterDalang.html",
+                                                   "size":  16069205,
+                                                   "sha256":  "7ac687b58511ae18be677ca6c77b6026b6cba5abefe5c2ad4a5d6d919be1a5e0"
+                                               }
+                               },
+                     "source_sha256":  "619d3f164f207746d019b9bb1fe63414223ebd9bdff575c1e137945d5461728c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterDollMaster",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - Doll Master",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterDollMaster/PuppetMasterDollMaster.psd1",
+                     "icon":  "mods/PuppetMasterDollMaster/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterDollMaster.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterDollMaster.zip",
+                                               "size":  15225309,
+                                               "sha256":  "3dafaa5e8ff9566ba79f0e8f33a9c774532005fdc5a958ec3d4bdb2eb480364c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterDollMaster.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterDollMaster.html",
+                                                   "size":  21730831,
+                                                   "sha256":  "ef862ba21fe866d76f06d7ac51ae6cf1a388908cee96309b6cee139a86277506"
+                                               }
+                               },
+                     "source_sha256":  "9a36440137ad44b4a517a12f0d45adfc11ce81e77eeae8fc68f382125a0b5814",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterEffigy",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - Effigy",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterEffigy/PuppetMasterEffigy.psd1",
+                     "icon":  "mods/PuppetMasterEffigy/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterEffigy.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterEffigy.zip",
+                                               "size":  17701033,
+                                               "sha256":  "a8f97e28c69e905ada18b0ca60c686793cc2e211d49a93437b78b516170b0672"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterEffigy.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterEffigy.html",
+                                                   "size":  31567818,
+                                                   "sha256":  "d3feab181c37bbd30e7fed28cc0784cb1156beb4bec8f8d76fdd0ef73fa524d8"
+                                               }
+                               },
+                     "source_sha256":  "0b141286b310b6b61c8d72819281ca091351e0d2b5aa1ec87a5a403edbad934a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterFreakshow",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - Freakshow",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterFreakshow/PuppetMasterFreakshow.psd1",
+                     "icon":  "mods/PuppetMasterFreakshow/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterFreakshow.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterFreakshow.zip",
+                                               "size":  14599,
+                                               "sha256":  "c4157d706b2717f525c870e8da0678008604705acedbccd7bf00221215753e48"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterFreakshow.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterFreakshow.html",
+                                                   "size":  31925718,
+                                                   "sha256":  "cc4616f2ec95b1a35756d0445d50a45d7d31a79903bf1006e9b19dd67f99598a"
+                                               }
+                               },
+                     "source_sha256":  "c3f8895faee881b7edd75379bf798486c2f6ad4138958266ba1f1c0c01bb961c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterGameMaster",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - Game Master",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterGameMaster/PuppetMasterGameMaster.psd1",
+                     "icon":  "mods/PuppetMasterGameMaster/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterGameMaster.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterGameMaster.zip",
+                                               "size":  3836080,
+                                               "sha256":  "a40a3708bd8f7a6316bd9c2b3ea365a65b480a91496775c10c7ba4602072b5dd"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterGameMaster.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterGameMaster.html",
+                                                   "size":  8805964,
+                                                   "sha256":  "925c27fb36d5a20e828a4e793779a6598f8661415b28930e90512945b75de48f"
+                                               }
+                               },
+                     "source_sha256":  "5b674a18907880f2afd61b6eecf1a86a7cffc2a2987ee5a58a4c4d4022726a18",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterMoPhi",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - Mo-Phi",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterMoPhi/PuppetMasterMoPhi.psd1",
+                     "icon":  "mods/PuppetMasterMoPhi/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterMoPhi.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterMoPhi.zip",
+                                               "size":  10448002,
+                                               "sha256":  "10f57e7862cdb6e80e18269db62a3a47aab971b12823fe3d196da2d54722d0ba"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterMoPhi.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterMoPhi.html",
+                                                   "size":  19156672,
+                                                   "sha256":  "04bc76709d71f493a84dc2eb0e9e0770c1a68d59f1740f380bf802cc375527bc"
+                                               }
+                               },
+                     "source_sha256":  "c0d3f7cc2cac9839c5ec6c170136567d2204caf94fcff92ead55563030e83d49",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PuppetMasterTheSculptor",
+                     "kind":  "heroes",
+                     "name":  "Puppet Master - The Sculptor",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "puppet_master/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/PuppetMasterTheSculptor/PuppetMasterTheSculptor.psd1",
+                     "icon":  "mods/PuppetMasterTheSculptor/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PuppetMasterTheSculptor.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PuppetMasterTheSculptor.zip",
+                                               "size":  21520616,
+                                               "sha256":  "2a13cceee9f0b466522b269c15d9fb03f637f77829fd777deaf3788dbbd1b111"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PuppetMasterTheSculptor.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PuppetMasterTheSculptor.html",
+                                                   "size":  35479468,
+                                                   "sha256":  "81f62777a11b3c3045f5e7c2534871a3870028ac72e728411ff5d145e798699b"
+                                               }
+                               },
+                     "source_sha256":  "c80c51aa03f2f1c67c694469abf001842bf1908e057c85eba678331feea46ccf",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PyromancerArsin",
+                     "kind":  "heroes",
+                     "name":  "Pyromancer - Arsin",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pyromancer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PyromancerArsin/PyromancerArsin.psd1",
+                     "icon":  "mods/PyromancerArsin/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PyromancerArsin.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PyromancerArsin.zip",
+                                               "size":  9722676,
+                                               "sha256":  "e8dea0b98cbe3ccce247b7ba94c0189a9e482e0fe06ec1a3b46b1b1177fd85a7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PyromancerArsin.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PyromancerArsin.html",
+                                                   "size":  18391859,
+                                                   "sha256":  "068d13cfa9ff58ea5b94dabc46004252ba0de2213aeab6d73cf25e9d9860d202"
+                                               }
+                               },
+                     "source_sha256":  "5bce1f62ac731489ad9dd8b267d69a03dc2c67bfa9600faf7d6129ca97cf4554",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PyromancerBrimstone",
+                     "kind":  "heroes",
+                     "name":  "Pyromancer - Brimstone",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pyromancer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PyromancerBrimstone/PyromancerBrimstone.psd1",
+                     "icon":  "mods/PyromancerBrimstone/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PyromancerBrimstone.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PyromancerBrimstone.zip",
+                                               "size":  10800,
+                                               "sha256":  "abe94f3b55525476f95b6af5cbee4e687c055f36577fe3437e0d818aff39cbae"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PyromancerBrimstone.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PyromancerBrimstone.html",
+                                                   "size":  20895750,
+                                                   "sha256":  "d4fc1f68a5ea85ee213fdeaa34ad49559623e22d3086cb1e7675e20e927941e1"
+                                               }
+                               },
+                     "source_sha256":  "71d92b5b19bcf174405bc251d69ea3f3ebff1a5542502d2f723c0525c1c19fe9",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PyromancerHeadlessHorseman",
+                     "kind":  "heroes",
+                     "name":  "Pyromancer - Headless Horseman Pyromancer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pyromancer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/PyromancerHeadlessHorseman/PyromancerHeadlessHorseman.psd1",
+                     "icon":  "mods/PyromancerHeadlessHorseman/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PyromancerHeadlessHorseman.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PyromancerHeadlessHorseman.zip",
+                                               "size":  10452891,
+                                               "sha256":  "443c3195f7368af437ae1b77bf53300efca2927fb3f8c288d90408bdf966cb19"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PyromancerHeadlessHorseman.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PyromancerHeadlessHorseman.html",
+                                                   "size":  17839990,
+                                                   "sha256":  "d3f29993d4d42ecab4bc7aefa5893092eb721656ea76c6eeb686720297d2b6c3"
+                                               }
+                               },
+                     "source_sha256":  "33a15436e2ada44a4b39a315294c87297fe0134089c3cb3a0342318a9717a442",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PyromancerPunkPyro",
+                     "kind":  "heroes",
+                     "name":  "Pyromancer - Punk Pyro",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pyromancer/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/PyromancerPunkPyro/PyromancerPunkPyro.psd1",
+                     "icon":  "mods/PyromancerPunkPyro/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PyromancerPunkPyro.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PyromancerPunkPyro.zip",
+                                               "size":  9693626,
+                                               "sha256":  "3e741a4215a0335545f24753cc47c42140f922b7f029548e32a5efded5dd31f7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PyromancerPunkPyro.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PyromancerPunkPyro.html",
+                                                   "size":  16692925,
+                                                   "sha256":  "fec82189cf2d5ec3f3abe48a7b6fb2e28efb240a7b6b23ec3616b5d71c381268"
+                                               }
+                               },
+                     "source_sha256":  "8b5a8f34e17cc945eea67825c0fc0c8308d4d9c9aa9fbfbcfa85e127ac476675",
                      "updated":  "2026-11-23"
                  },
                  {
