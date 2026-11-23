@@ -1,0 +1,114 @@
+{
+    "schema":  1,
+    "generated":  "2026-11-23T12:22:23+01:00",
+    "repo":  "RebornModManager/heroes",
+    "mods":  [
+                 {
+                     "id":  "MagmusScoria",
+                     "kind":  "heroes",
+                     "name":  "Magmus - Scoria",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "magmus/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MagmusScoria/MagmusScoria.psd1",
+                     "icon":  "mods/MagmusScoria/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MagmusScoria.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MagmusScoria.zip",
+                                               "size":  10558464,
+                                               "sha256":  "8177776329905c49d8628bc99ff09bd0545df1db887d517f80ba24be1c8f40f9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MagmusScoria.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MagmusScoria.html",
+                                                   "size":  18962666,
+                                                   "sha256":  "b32aa208e26d93bcc2a4d6e83753e1ffe07a5a98dffc3451890427bfe600fa4c"
+                                               }
+                               },
+                     "source_sha256":  "872df216a662f29df5b47cc2e74818b97fd2246308501c8eec489da4098c6b39",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NomadShaka",
+                     "kind":  "heroes",
+                     "name":  "Nomad - Shaka",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "nomad/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/NomadShaka/NomadShaka.psd1",
+                     "icon":  "mods/NomadShaka/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NomadShaka.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadShaka.zip",
+                                               "size":  8339686,
+                                               "sha256":  "643f15ac455de309dd66c1e5ef2938efce4e5f531c2b7003f9070dc11be76f5b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NomadShaka.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NomadShaka.html",
+                                                   "size":  19882411,
+                                                   "sha256":  "896fe951f910a40e07f81930712acd87164702948cf4b5ebf919c38e738eff2f"
+                                               }
+                               },
+                     "source_sha256":  "6dfc1673954697bd7525a6358a1dcea589f30821bf23fcab83c691f5028fab62",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportWarp",
+                     "kind":  "ui",
+                     "name":  "Teleport - Blue Warp",
+                     "description":  "Warp effect skin for the Teleportation Stone",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportWarp/TeleportWarp.psd1",
+                     "icon":  "mods/TeleportWarp/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportWarp.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportWarp.zip",
+                                               "size":  141530,
+                                               "sha256":  "91cd6a2c15597a51ef6e96737c4f41665e4558ff07765ec018c53363ae96236b"
+                                           }
+                               },
+                     "source_sha256":  "f69b13712ab194c2e03db0c782f9a759c11fc20735c3ec7b21c9201b7a5bb458",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TowerRangeRings",
+                     "kind":  "ui",
+                     "name":  "Tower Range Rings",
+                     "description":  "Adds range indicator rings to all attack towers",
+                     "category":  "UI",
+                     "type":  "World",
+                     "group":  "",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  true,
+                     "psd1":  "mods/TowerRangeRings/TowerRangeRings.psd1",
+                     "icon":  "mods/TowerRangeRings/icon.dds",
+                     "files":  {
+
+                               },
+                     "source_sha256":  "d585711259060dc1ec46b6fee64a0484d38f9d170b5f64e03e7896c0306ac014",
+                     "updated":  "2026-11-23"
+                 }
+             ]
+}
