@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:56:19+01:00",
+    "generated":  "2026-11-23T12:58:41+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  5023641,
-                  "sha256":  "4ece15945b6163360c005530f4148b9a5ff6de7fd37f6216d2e24692c09f6c8d"
+                  "size":  6361369,
+                  "sha256":  "4ef6491e982169f450639cb836f81ebb79dfbdac02499a419bf3c9f2935c0abd"
               },
     "mods":  [
                  {
@@ -5435,6 +5435,440 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "MoonQueenLunari",
+                     "kind":  "heroes",
+                     "name":  "Moon Queen - Lunari",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "moon_queen/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/MoonQueenLunari/MoonQueenLunari.psd1",
+                     "icon":  "mods/MoonQueenLunari/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MoonQueenLunari.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MoonQueenLunari.zip",
+                                               "size":  9454912,
+                                               "sha256":  "a6a28a268a788b913bb7d956bdf4f4440aad2eb4f33eb6b94388e302f7d94cf5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MoonQueenLunari.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MoonQueenLunari.html",
+                                                   "size":  19963864,
+                                                   "sha256":  "ea701e3dad133ddc58140d9e0d2e089238a6f37b03a6578a2265ae9295c6dda9"
+                                               }
+                               },
+                     "source_sha256":  "b8174364b0b4fea1b72ba56b1827afb410ae9257a91fe016d54cf716454b954b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MoonQueenMoon",
+                     "kind":  "heroes",
+                     "name":  "Moon Queen - Moon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "moon_queen/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MoonQueenMoon/MoonQueenMoon.psd1",
+                     "icon":  "mods/MoonQueenMoon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MoonQueenMoon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MoonQueenMoon.zip",
+                                               "size":  10713092,
+                                               "sha256":  "ba78194f0cdcc313c10080264f22eb4a98414c9fff54d8ba7a5906c42b15efbe"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MoonQueenMoon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MoonQueenMoon.html",
+                                                   "size":  22896064,
+                                                   "sha256":  "2c4c054d6bf8abfea492385af793463e5b5e8d4a53c05e144c5d4c626f2021be"
+                                               }
+                               },
+                     "source_sha256":  "1d612ac3b963d56c731a587d394584dae159c403bada147e2a59f72b917ebd06",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MoraxusChainsaw",
+                     "kind":  "heroes",
+                     "name":  "Moraxus - Chainsaw Moraxus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "moraxus/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-02",
+                     "patch":  false,
+                     "psd1":  "mods/MoraxusChainsaw/MoraxusChainsaw.psd1",
+                     "icon":  "mods/MoraxusChainsaw/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MoraxusChainsaw.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MoraxusChainsaw.zip",
+                                               "size":  16968565,
+                                               "sha256":  "2ff3f3471d91df9434ecce73d827527f9c8f9ea6fdeb07216d7519cd1b13ec4a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MoraxusChainsaw.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MoraxusChainsaw.html",
+                                                   "size":  24870937,
+                                                   "sha256":  "5bf1135bd84526eaa6eea74ca8f4defd248d75809a9c9752fe969dc595229856"
+                                               }
+                               },
+                     "source_sha256":  "7293c95a9fec64be60c75dcb8649ee5439762e5638f423ac51f028e81bdaf475",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NightHoundCatnipNightHound",
+                     "kind":  "heroes",
+                     "name":  "Night Hound - Catnip Night Hound",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "night_hound/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/NightHoundCatnipNightHound/NightHoundCatnipNightHound.psd1",
+                     "icon":  "mods/NightHoundCatnipNightHound/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NightHoundCatnipNightHound.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundCatnipNightHound.zip",
+                                               "size":  8747040,
+                                               "sha256":  "9803b2f402adc497cf88123b68c9e0b853b13361ce7019bae5d8635b67700c75"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NightHoundCatnipNightHound.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NightHoundCatnipNightHound.html",
+                                                   "size":  17340252,
+                                                   "sha256":  "59db583a2b50adfaf36895ab206674b5288ab43bec3ad1cbd6197c0746b5e93d"
+                                               }
+                               },
+                     "source_sha256":  "4b380f3cf211064bfe8aea06a69b978d0092cec7e548f8d3b5502a5dc21f4e62",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NightHoundFrightHound",
+                     "kind":  "heroes",
+                     "name":  "Night Hound - Fright Hound",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "night_hound/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/NightHoundFrightHound/NightHoundFrightHound.psd1",
+                     "icon":  "mods/NightHoundFrightHound/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NightHoundFrightHound.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundFrightHound.zip",
+                                               "size":  8450824,
+                                               "sha256":  "660b7bcf3ebad6e6f7af6f754a73e9c27a0b97e4ddeeb3f44ae37a97d28d9312"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NightHoundFrightHound.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NightHoundFrightHound.html",
+                                                   "size":  17018495,
+                                                   "sha256":  "0312229e4473d6a067c652579357b528818f68efe3e407053ec6af6840ce63a0"
+                                               }
+                               },
+                     "source_sha256":  "e13a8fdbbbc14ac8cdd4f9a2b1f057d4a2f4ba6ec26b6dafc928c6d379a4ece4",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NightHoundMisfitNightHound",
+                     "kind":  "heroes",
+                     "name":  "Night Hound - Misfit Night Hound",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "night_hound/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/NightHoundMisfitNightHound/NightHoundMisfitNightHound.psd1",
+                     "icon":  "mods/NightHoundMisfitNightHound/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NightHoundMisfitNightHound.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundMisfitNightHound.zip",
+                                               "size":  8832724,
+                                               "sha256":  "edbbdb49256260afbe8518978e964a099d0e8059c7a688ef8f1792e6a2a8c477"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NightHoundMisfitNightHound.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NightHoundMisfitNightHound.html",
+                                                   "size":  15822266,
+                                                   "sha256":  "bb0cb419f4f6a794c9021baf76c137d72281eda018077029b6448af1a855420b"
+                                               }
+                               },
+                     "source_sha256":  "22013ca9e6fb94e4012ad67c32efaadb20a2662f31503583828d69f5297cfc0c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NightHoundPlushieNightHound",
+                     "kind":  "heroes",
+                     "name":  "Night Hound - Plushie Night Hound",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "night_hound/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/NightHoundPlushieNightHound/NightHoundPlushieNightHound.psd1",
+                     "icon":  "mods/NightHoundPlushieNightHound/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NightHoundPlushieNightHound.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundPlushieNightHound.zip",
+                                               "size":  9011665,
+                                               "sha256":  "a77ab5f582ad873b4c25a484599b6271562edeedc1a3098bd9342412db18342a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NightHoundPlushieNightHound.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NightHoundPlushieNightHound.html",
+                                                   "size":  16686260,
+                                                   "sha256":  "bb354a73fe61a9e5eaa0f5c7bb688c0dd47abc87aac7c5aafda058aab8246a67"
+                                               }
+                               },
+                     "source_sha256":  "dbab5e726f16bf4a611b7ef025a7d2f5d1347f9f45957cf8c3ff4af6f502b844",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NightHoundRabidNightBunny",
+                     "kind":  "heroes",
+                     "name":  "Night Hound - Rabid Night Bunny",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "night_hound/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/NightHoundRabidNightBunny/NightHoundRabidNightBunny.psd1",
+                     "icon":  "mods/NightHoundRabidNightBunny/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NightHoundRabidNightBunny.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundRabidNightBunny.zip",
+                                               "size":  9370584,
+                                               "sha256":  "dc889f25a19cc6eb3e25bdf0f75cf6306d748a2c5a8d3500c4cf89cf60fe1fda"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NightHoundRabidNightBunny.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NightHoundRabidNightBunny.html",
+                                                   "size":  16880085,
+                                                   "sha256":  "cbc24b9c2a54c93600c93a6c577a56540c2f0ea2e0ba529f3e1fc8b3fca5273c"
+                                               }
+                               },
+                     "source_sha256":  "065686dca4bbc4524c9dafa297148c9494939edf3fc17415212763b07236246b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NightHoundWildcat",
+                     "kind":  "heroes",
+                     "name":  "NightHound - Wildcat",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "night_hound/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/NightHoundWildcat/NightHoundWildcat.psd1",
+                     "icon":  "mods/NightHoundWildcat/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NightHoundWildcat.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NightHoundWildcat.zip",
+                                               "size":  4397741,
+                                               "sha256":  "aa1b90110b957569c53891ec671db75fdd0020413922bfdcb958abfc5b92c275"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NightHoundWildcat.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NightHoundWildcat.html",
+                                                   "size":  11801013,
+                                                   "sha256":  "833544226ca1b2f1ec4c19b0c0d26142fbfc9d29ebd7fcc490c88f167a9d6bdf"
+                                               }
+                               },
+                     "source_sha256":  "3715ef6d8e1acfcf4698debcec25cf92b3ae4c16bc60055cd9e186ada3230243",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NomadBloodstorm",
+                     "kind":  "heroes",
+                     "name":  "Nomad - Bloodstorm",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "nomad/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/NomadBloodstorm/NomadBloodstorm.psd1",
+                     "icon":  "mods/NomadBloodstorm/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NomadBloodstorm.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadBloodstorm.zip",
+                                               "size":  4830188,
+                                               "sha256":  "6ad1fcb7bcc50480be9951d6e601c77fee1aca6d0145e82f843315a9379266fd"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NomadBloodstorm.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NomadBloodstorm.html",
+                                                   "size":  13021964,
+                                                   "sha256":  "2246a3f8368f518553812bd8863ec8ea703611e820a92714633ee9b91ece8719"
+                                               }
+                               },
+                     "source_sha256":  "e5d62c230012cda143bb74085f13d9ff01efb825ac7db2bfbb2e993d6df229bd",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NomadExterminator",
+                     "kind":  "heroes",
+                     "name":  "Nomad - Exterminator",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "nomad/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/NomadExterminator/NomadExterminator.psd1",
+                     "icon":  "mods/NomadExterminator/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NomadExterminator.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadExterminator.zip",
+                                               "size":  8783625,
+                                               "sha256":  "f98885d625cbcfd7437fde003e033ca25abdb61c1c2b0ad3fea2d7b4b53dd302"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NomadExterminator.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NomadExterminator.html",
+                                                   "size":  15824300,
+                                                   "sha256":  "1d6ca02819a0c27bbf1379f268bae60e88563b50517f103e2b1051d343cf8625"
+                                               }
+                               },
+                     "source_sha256":  "1b2bbbef8157b8a6a971be9a94ff9cda0dc60b84d784f596a339f93b3c96cd0a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NomadHangJebat",
+                     "kind":  "heroes",
+                     "name":  "Nomad - Hang Jebat",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "nomad/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/NomadHangJebat/NomadHangJebat.psd1",
+                     "icon":  "mods/NomadHangJebat/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NomadHangJebat.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadHangJebat.zip",
+                                               "size":  9413342,
+                                               "sha256":  "494c758f81d408c7d24847c55ba05d35bc2de1a2dbe3cdbe09a4bb568120dc4a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NomadHangJebat.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NomadHangJebat.html",
+                                                   "size":  16946257,
+                                                   "sha256":  "7209d87821bde8a477ac2760e1dfacf7f283ee7e547298fdadf2768b9907ebaa"
+                                               }
+                               },
+                     "source_sha256":  "4492761dc3efed044f5af2711889603f194d886a788844a06eb6d6d2848121b6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NomadHoNWorld",
+                     "kind":  "heroes",
+                     "name":  "Nomad - HoNWorld",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "nomad/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-23",
+                     "patch":  false,
+                     "psd1":  "mods/NomadHoNWorld/NomadHoNWorld.psd1",
+                     "icon":  "mods/NomadHoNWorld/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NomadHoNWorld.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadHoNWorld.zip",
+                                               "size":  13080217,
+                                               "sha256":  "def8e7fd343b297d95497d4c012fd6d2173744c3da6829fded656ceeb496c8c0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NomadHoNWorld.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NomadHoNWorld.html",
+                                                   "size":  24331313,
+                                                   "sha256":  "a9d56f930c8927da67c94ca53c546a579c5c399d84a5f787a92d2928da318ad0"
+                                               }
+                               },
+                     "source_sha256":  "2b10cab8e5c546ffc598cf6c4f4aa674c81ac741513e1b83ae7b224f5eb67bb5",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "NomadRedraja",
+                     "kind":  "heroes",
+                     "name":  "Nomad - Redraja",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "nomad/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/NomadRedraja/NomadRedraja.psd1",
+                     "icon":  "mods/NomadRedraja/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "NomadRedraja.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadRedraja.zip",
+                                               "size":  16982,
+                                               "sha256":  "12fb0ee1d6b195dbf38f5bf4a80e4ef08bd1d7435007c0ab4325b1977f65fe72"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "NomadRedraja.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/NomadRedraja.html",
+                                                   "size":  21493141,
+                                                   "sha256":  "0cd9bc709cb0d5488f686feaa64d04524bc49ce5279f1def11a99bad078db7c5"
+                                               }
+                               },
+                     "source_sha256":  "a719bd3e17e3034248e5e0a6afebb7e2d6bfe3527fd15b9abcd1b96050ad553e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "NomadShaka",
                      "kind":  "heroes",
                      "name":  "Nomad - Shaka",
@@ -5463,6 +5897,316 @@
                                                }
                                },
                      "source_sha256":  "6dfc1673954697bd7525a6358a1dcea589f30821bf23fcab83c691f5028fab62",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PandamoniumAmandaPanda",
+                     "kind":  "heroes",
+                     "name":  "Pandamonium - Amanda Panda",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pandamonium/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/PandamoniumAmandaPanda/PandamoniumAmandaPanda.psd1",
+                     "icon":  "mods/PandamoniumAmandaPanda/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PandamoniumAmandaPanda.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PandamoniumAmandaPanda.zip",
+                                               "size":  9195076,
+                                               "sha256":  "905da5d145a215b332cb4a8169c08b8f04b66f197ff3258fa00a4744780cb060"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PandamoniumAmandaPanda.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PandamoniumAmandaPanda.html",
+                                                   "size":  16494854,
+                                                   "sha256":  "c4c5ae637bd2147439bf968eebb0313a770f534905f48ea40f24b624964f3a00"
+                                               }
+                               },
+                     "source_sha256":  "a21b863b73d134cfbf6dbea2ecadb35b8e1f004eb63ad82bc528b15ca5d82438",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PandamoniumNianGuardian",
+                     "kind":  "heroes",
+                     "name":  "Pandamonium - Nian Guardian",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pandamonium/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/PandamoniumNianGuardian/PandamoniumNianGuardian.psd1",
+                     "icon":  "mods/PandamoniumNianGuardian/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PandamoniumNianGuardian.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PandamoniumNianGuardian.zip",
+                                               "size":  9936669,
+                                               "sha256":  "7d3223625e2e23e6a1be99b920ddd5b90632f8729e21c677960b1a0eae98b49d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PandamoniumNianGuardian.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PandamoniumNianGuardian.html",
+                                                   "size":  19638067,
+                                                   "sha256":  "01d3af2f21f9defc74f686b01b4e8f5eafaef8a2b28f9c9fb5315dd78c310e27"
+                                               }
+                               },
+                     "source_sha256":  "938d417464a9dc62c588785338eba261e219c81045fdf8d4b6b44b21169624d6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PandamoniumPlushiePanda",
+                     "kind":  "heroes",
+                     "name":  "Pandamonium - Plushie Panda",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pandamonium/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/PandamoniumPlushiePanda/PandamoniumPlushiePanda.psd1",
+                     "icon":  "mods/PandamoniumPlushiePanda/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PandamoniumPlushiePanda.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PandamoniumPlushiePanda.zip",
+                                               "size":  9048124,
+                                               "sha256":  "2c4b58a158be002b4b1cc93cf864489dbba1577b94dd4940aefba2dc100e4596"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PandamoniumPlushiePanda.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PandamoniumPlushiePanda.html",
+                                                   "size":  16509544,
+                                                   "sha256":  "625411c892af28a4d74482029e4a38fdb72815e3f650a9ebe44682a02a284f86"
+                                               }
+                               },
+                     "source_sha256":  "8020d60d31199bdb22de1d6715e25e38e231c4d1a745fe5fbc6d18f84aaab05b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PandamoniumPolarmonium",
+                     "kind":  "heroes",
+                     "name":  "Pandamonium - Polarmonium",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pandamonium/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-16",
+                     "patch":  false,
+                     "psd1":  "mods/PandamoniumPolarmonium/PandamoniumPolarmonium.psd1",
+                     "icon":  "mods/PandamoniumPolarmonium/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PandamoniumPolarmonium.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PandamoniumPolarmonium.zip",
+                                               "size":  7221405,
+                                               "sha256":  "beb0c9aa301584b262a41732ce8edd2fc8853619c7f159189e1104e10499f1f9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PandamoniumPolarmonium.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PandamoniumPolarmonium.html",
+                                                   "size":  15144963,
+                                                   "sha256":  "7f42009da438935dc710b32426f1244895b0d978dc90697bf185c88621eb137c"
+                                               }
+                               },
+                     "source_sha256":  "5f0ac5d22cba9490f70673c07e92bd6531f0678e482812785c8c728aea71c19e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ParasiteAscension",
+                     "kind":  "heroes",
+                     "name":  "Parasite - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "parasite/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-30",
+                     "patch":  false,
+                     "psd1":  "mods/ParasiteAscension/ParasiteAscension.psd1",
+                     "icon":  "mods/ParasiteAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ParasiteAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ParasiteAscension.zip",
+                                               "size":  9323396,
+                                               "sha256":  "cab33449bf1d348732eb9ed0f860f343ea280554b4e24df54db40ab2f25a5579"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ParasiteAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ParasiteAscension.html",
+                                                   "size":  17250552,
+                                                   "sha256":  "c9c25976719e2d9a0d961e80a581b3dc538cd2e833f3c63fd1b25316c014a966"
+                                               }
+                               },
+                     "source_sha256":  "14e215bd00f16c228a12e1131de2f03ef651da529218332ae9cc0cbfe133be76",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ParasiteEnvy",
+                     "kind":  "heroes",
+                     "name":  "Parasite - Envy",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "parasite/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ParasiteEnvy/ParasiteEnvy.psd1",
+                     "icon":  "mods/ParasiteEnvy/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ParasiteEnvy.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ParasiteEnvy.zip",
+                                               "size":  14218,
+                                               "sha256":  "37046c7e400de72d0e528433afc56f7f7493249bfa7ba435614e273caf2eef40"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ParasiteEnvy.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ParasiteEnvy.html",
+                                                   "size":  18657972,
+                                                   "sha256":  "ce52a1fd3705fbfaeb5f477964ed08bab02080db699bcb1c6b10f4d3019fddc6"
+                                               }
+                               },
+                     "source_sha256":  "61135ce7e7e92010064cc50d9a1a6f3b03b558f6ad2ef31341a744c8088e58a1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PebblesBoulderdash",
+                     "kind":  "heroes",
+                     "name":  "Pebbles - Boulderdash",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pebbles/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-04",
+                     "patch":  false,
+                     "psd1":  "mods/PebblesBoulderdash/PebblesBoulderdash.psd1",
+                     "icon":  "mods/PebblesBoulderdash/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PebblesBoulderdash.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PebblesBoulderdash.zip",
+                                               "size":  10753171,
+                                               "sha256":  "d3b6d7d4a049c0c4cc6a1e26f9fe44677f90a81080632ff450fe8dc550e8fdbe"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PebblesBoulderdash.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PebblesBoulderdash.html",
+                                                   "size":  24592201,
+                                                   "sha256":  "e11b820db0862671c576f3984cccc39a5ebd0958710a5dff5cb51cc0f4b97e0c"
+                                               }
+                               },
+                     "source_sha256":  "6703ac0eb47aa21e72242914d88282d40de669a9bee6d28c5af6182c467e436e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PebblesGolden",
+                     "kind":  "heroes",
+                     "name":  "Pebbles - Golden",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pebbles/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PebblesGolden/PebblesGolden.psd1",
+                     "icon":  "mods/PebblesGolden/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PebblesGolden.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PebblesGolden.zip",
+                                               "size":  438752,
+                                               "sha256":  "2d1c2617b1c34f33df227462f7195e389f5502b6e0bb3dda164c950d47bfc6af"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PebblesGolden.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PebblesGolden.html",
+                                                   "size":  19752486,
+                                                   "sha256":  "8a891d0657f759d28e7f8968c93796f8bce7d249a628fd54b79c0e35ccf842c8"
+                                               }
+                               },
+                     "source_sha256":  "0b3c8301a028f268a0536c7eb77738606df0dd6c05928566341cd1500583644f",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PebblesRocky",
+                     "kind":  "heroes",
+                     "name":  "Pebbles - Rocky",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pebbles/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-08",
+                     "patch":  false,
+                     "psd1":  "mods/PebblesRocky/PebblesRocky.psd1",
+                     "icon":  "mods/PebblesRocky/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PebblesRocky.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PebblesRocky.zip",
+                                               "size":  9433287,
+                                               "sha256":  "1a7ea05887035d4d60ed4204d355a303552080d7b891a483ca712079f8003ba0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PebblesRocky.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PebblesRocky.html",
+                                                   "size":  19417324,
+                                                   "sha256":  "76259cdb847ffbaef36b6d52d7960f90af9efb5c1502df42d4007f25a733e77d"
+                                               }
+                               },
+                     "source_sha256":  "b9ea84d670ac35112d49f7b40f9979681625d7ab232782502a069af6ed628599",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PebblesTerminator",
+                     "kind":  "heroes",
+                     "name":  "Pebbles - Terminator",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pebbles/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/PebblesTerminator/PebblesTerminator.psd1",
+                     "icon":  "mods/PebblesTerminator/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PebblesTerminator.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PebblesTerminator.zip",
+                                               "size":  10703,
+                                               "sha256":  "3e08c3bf08dc6a5eca4f31be6838899f8012b8fbd37553742ad8bc488f7b0fc6"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PebblesTerminator.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PebblesTerminator.html",
+                                                   "size":  24235911,
+                                                   "sha256":  "c51436525afb4c74bd50754038f0394c6bb296a9da516592868e44fe58f580a2"
+                                               }
+                               },
+                     "source_sha256":  "5546c7213aa6ac471b9a92dfafc6712ab16258e9ea36efe9ea782edc24524592",
                      "updated":  "2026-11-23"
                  },
                  {
