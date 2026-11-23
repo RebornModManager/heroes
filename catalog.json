@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T13:09:00+01:00",
+    "generated":  "2026-11-23T13:10:17+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  8888924,
-                  "sha256":  "e25224f7e2f18cb50bb9dcdc85a45b61f1c73fa7dfe657d73d28f0eb6f56d0c5"
+                  "size":  9981392,
+                  "sha256":  "9584333e4063a38967fda6992d3e915c5052a1f55d88c8ead8568b570c5c9561"
               },
     "mods":  [
                  {
@@ -4226,6 +4226,106 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "KillEffectAcme",
+                     "kind":  "ui",
+                     "name":  "Kill Effect - Acme",
+                     "description":  "Replaces the kill effect.",
+                     "category":  "UI",
+                     "type":  "Kill Effect",
+                     "group":  "killeffects",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/KillEffectAcme/KillEffectAcme.psd1",
+                     "icon":  "mods/KillEffectAcme/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KillEffectAcme.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectAcme.zip",
+                                               "size":  7109192,
+                                               "sha256":  "29389536c8a1a7e6da3b4f8367555c39042e95cbf4e8fe000fe1afc636e8c19f"
+                                           }
+                               },
+                     "source_sha256":  "0c8b080ffd83480bbde34dd9845fef5327a7f7aa466f46cd7d8d06de0eb6dfde",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KillEffectDemonhand",
+                     "kind":  "ui",
+                     "name":  "Kill Effect - Demon Hand",
+                     "description":  "Replaces the kill effect.",
+                     "category":  "UI",
+                     "type":  "Kill Effect",
+                     "group":  "killeffects",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/KillEffectDemonhand/KillEffectDemonhand.psd1",
+                     "icon":  "mods/KillEffectDemonhand/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KillEffectDemonhand.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectDemonhand.zip",
+                                               "size":  2271431,
+                                               "sha256":  "f36fc074246d6c7d337b473a9e8ccdba747141b80be061e762807f4fb892841e"
+                                           }
+                               },
+                     "source_sha256":  "dba83522e8e6696c1f7b01902964144dfe0be01b2651fd08306624bb427a1e2e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KillEffectFist",
+                     "kind":  "ui",
+                     "name":  "Kill Effect - Fist",
+                     "description":  "Replaces the kill effect.",
+                     "category":  "UI",
+                     "type":  "Kill Effect",
+                     "group":  "killeffects",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/KillEffectFist/KillEffectFist.psd1",
+                     "icon":  "mods/KillEffectFist/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KillEffectFist.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectFist.zip",
+                                               "size":  419604,
+                                               "sha256":  "d8484cde46ec4fa6a005e6cbe767e551c91035cce323132c4912e63c9f82c759"
+                                           }
+                               },
+                     "source_sha256":  "bc2a68105443b0b92da0f8c2685fa2638db8ffb2e76f22a7cfa9dafa8ddd7f30",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KillEffectRip",
+                     "kind":  "ui",
+                     "name":  "Kill Effect - RIP",
+                     "description":  "Replaces the kill effect.",
+                     "category":  "UI",
+                     "type":  "Kill Effect",
+                     "group":  "killeffects",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/KillEffectRip/KillEffectRip.psd1",
+                     "icon":  "mods/KillEffectRip/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KillEffectRip.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectRip.zip",
+                                               "size":  4822983,
+                                               "sha256":  "32341eaf606688e01e9726258ff6bd612e55cf7f6657a07a8a6686cc09f32e4c"
+                                           }
+                               },
+                     "source_sha256":  "09c54813e44fb068c95af281408faa5bec2bc1abba26776612a769d211290747",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "KinesisNecrosis",
                      "kind":  "heroes",
                      "name":  "Kinesis - Necrosis",
@@ -6334,6 +6434,26 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "PlinkoAnimSkip",
+                     "kind":  "ui",
+                     "name":  "Plinko Animation Skip",
+                     "description":  "Skips the Plinko ball drop animation, instantly revealing your prize when you click Drop.",
+                     "category":  "UI",
+                     "type":  "UI",
+                     "group":  "",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  true,
+                     "psd1":  "mods/PlinkoAnimSkip/PlinkoAnimSkip.psd1",
+                     "icon":  "mods/PlinkoAnimSkip/icon.dds",
+                     "files":  {
+
+                               },
+                     "source_sha256":  "02dbab139cd4bbaaa98794977ba1f5224a1790642d2c77a27420cbcb51ac4d41",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "PollywogPriestAxolotlPollywog",
                      "kind":  "heroes",
                      "name":  "Pollywog Priest - Axolotl Pollywog",
@@ -7605,6 +7725,31 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "RunePlus",
+                     "kind":  "ui",
+                     "name":  "Rune Plus",
+                     "description":  "Enhanced powerup rune effect visuals",
+                     "category":  "UI",
+                     "type":  "World",
+                     "group":  "Runes",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/RunePlus/RunePlus.psd1",
+                     "icon":  "mods/RunePlus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "RunePlus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RunePlus.zip",
+                                               "size":  10191,
+                                               "sha256":  "61d59fef549758fe64663dec3756a03e8a5b3f531b646bf842fb0914fab8fd2b"
+                                           }
+                               },
+                     "source_sha256":  "fbb503fc0ea19c3e9b7aa6b00fe087772ffb5c88ea202d5019fe2c5ac30f7388",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "SandWraithBlightWraith",
                      "kind":  "heroes",
                      "name":  "Sand Wraith - Blight Wraith",
@@ -8783,6 +8928,106 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "Teleport8bit",
+                     "kind":  "ui",
+                     "name":  "Teleport - 8Bit",
+                     "description":  "Replaces the teleportation stone effect.",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/Teleport8bit/Teleport8bit.psd1",
+                     "icon":  "mods/Teleport8bit/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "Teleport8bit.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/Teleport8bit.zip",
+                                               "size":  2671922,
+                                               "sha256":  "8b1a15ab04d4da39ad2b95f5b1c0f7340da892fe1315af550c5264600e58c7e2"
+                                           }
+                               },
+                     "source_sha256":  "8e3732a0716cf2cb24fcd31ee0b5290e1167f2b55fc564ffc7f172ee9c4aae3c",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportGreenMist",
+                     "kind":  "ui",
+                     "name":  "Teleport - Green Mist",
+                     "description":  "Green mist effect skin for the Teleportation Stone",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportGreenMist/TeleportGreenMist.psd1",
+                     "icon":  "mods/TeleportGreenMist/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportGreenMist.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportGreenMist.zip",
+                                               "size":  114714,
+                                               "sha256":  "c84b002f02f3f62fa51ce8bfe6849e5329164333b6ea77b767d8cabfbb9397ba"
+                                           }
+                               },
+                     "source_sha256":  "61813e62a60e61ae9a4a316a811a814043643698374189ae541cfe8537da7aec",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportPurpleMist",
+                     "kind":  "ui",
+                     "name":  "Teleport - Purple Mist",
+                     "description":  "Dark purple/black mist effect skin for the Teleportation Stone",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportPurpleMist/TeleportPurpleMist.psd1",
+                     "icon":  "mods/TeleportPurpleMist/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportPurpleMist.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportPurpleMist.zip",
+                                               "size":  109731,
+                                               "sha256":  "2e2403a0c83641cd1646117465e05716c74dc61ffefda2b5c954efea79c61b62"
+                                           }
+                               },
+                     "source_sha256":  "a987ffa6ea87f197ff9f32b691cd007b94644edbcc28973ee17310b11184d97e",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportRedMist",
+                     "kind":  "ui",
+                     "name":  "Teleport - Red Mist",
+                     "description":  "Red mist effect skin for the Teleportation Stone",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportRedMist/TeleportRedMist.psd1",
+                     "icon":  "mods/TeleportRedMist/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportRedMist.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportRedMist.zip",
+                                               "size":  119736,
+                                               "sha256":  "5f36f2142bf235cfa396801a6aca255d3e89730783b431b3611c2bc9c7c35866"
+                                           }
+                               },
+                     "source_sha256":  "fa3141fcacb650924d75c23a5d9e33cee56dfa205571acff554fc31395a660a2",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "TeleportWarp",
                      "kind":  "ui",
                      "name":  "Teleport - Blue Warp",
@@ -8805,6 +9050,81 @@
                                            }
                                },
                      "source_sha256":  "f69b13712ab194c2e03db0c782f9a759c11fc20735c3ec7b21c9201b7a5bb458",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportWarpRed",
+                     "kind":  "ui",
+                     "name":  "Teleport - Red Warp",
+                     "description":  "Red warp effect skin for the Teleportation Stone",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportWarpRed/TeleportWarpRed.psd1",
+                     "icon":  "mods/TeleportWarpRed/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportWarpRed.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportWarpRed.zip",
+                                               "size":  119932,
+                                               "sha256":  "c108f1d5c0324276243e55b5483d8676b5ccdc79dec0ecf382109af2834ebb33"
+                                           }
+                               },
+                     "source_sha256":  "ca79930bd5ae6ac583781ab2f6cad02b59a08a92718d08ff97738cf69fdfec19",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportWorldcup",
+                     "kind":  "ui",
+                     "name":  "Teleport - World Cup",
+                     "description":  "Replaces the teleportation stone effect.",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportWorldcup/TeleportWorldcup.psd1",
+                     "icon":  "mods/TeleportWorldcup/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportWorldcup.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportWorldcup.zip",
+                                               "size":  5390051,
+                                               "sha256":  "a670973864c14223ca2d382e232aceca74dc263eeedddcbbd8704d9e9d751f91"
+                                           }
+                               },
+                     "source_sha256":  "bdec6a7c9eb9e6d6460b0d3045a588de89b5f64304f747fa81f360c6db9779fc",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TeleportYellowMist",
+                     "kind":  "ui",
+                     "name":  "Teleport - Yellow Mist",
+                     "description":  "Yellow mist effect skin for the Teleportation Stone",
+                     "category":  "UI",
+                     "type":  "Teleport",
+                     "group":  "teleport_warp",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TeleportYellowMist/TeleportYellowMist.psd1",
+                     "icon":  "mods/TeleportYellowMist/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TeleportYellowMist.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportYellowMist.zip",
+                                               "size":  116307,
+                                               "sha256":  "dea13e762cb7ecbd9e6d61b3c6a172528d7692166599d890cdc1de092bd1c151"
+                                           }
+                               },
+                     "source_sha256":  "0b21a46a5745eaa02780f6f082f85d63c3d40269598805899d7128340e5d6563",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -8980,6 +9300,31 @@
 
                                },
                      "source_sha256":  "d585711259060dc1ec46b6fee64a0484d38f9d170b5f64e03e7896c0306ac014",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "TreeStumps",
+                     "kind":  "ui",
+                     "name":  "Tree Stumps",
+                     "description":  "Replaces map trees with small stumps for a clearer view of the battlefield",
+                     "category":  "UI",
+                     "type":  "World",
+                     "group":  "",
+                     "badge":  "",
+                     "tested":  "true",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/TreeStumps/TreeStumps.psd1",
+                     "icon":  "mods/TreeStumps/icon.png",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TreeStumps.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TreeStumps.zip",
+                                               "size":  294,
+                                               "sha256":  "b12cac387a940f19f21dda0d6656db6a90cca16b9871d77123dc7d101defc81a"
+                                           }
+                               },
+                     "source_sha256":  "3a398670f5fa1f7c0b455fa38b6f26c77c0a49997bc29797baab245930ad42a5",
                      "updated":  "2026-11-23"
                  },
                  {
@@ -9352,6 +9697,285 @@
                                                }
                                },
                      "source_sha256":  "b802b93a9d6d8943f42996952be9b550a612b56c5d45f417b1338a0b6bc0ff54",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WretchedHagAlexandrite",
+                     "kind":  "heroes",
+                     "name":  "Wretched Hag - Alexandrite",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "wretched_hag/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-01",
+                     "patch":  false,
+                     "psd1":  "mods/WretchedHagAlexandrite/WretchedHagAlexandrite.psd1",
+                     "icon":  "mods/WretchedHagAlexandrite/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WretchedHagAlexandrite.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WretchedHagAlexandrite.zip",
+                                               "size":  10221923,
+                                               "sha256":  "1a1c58b23f84c7b04d08eeb60fa07268d26dc4e953c768d66d3ffcdf56799c99"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WretchedHagAlexandrite.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WretchedHagAlexandrite.html",
+                                                   "size":  37592056,
+                                                   "sha256":  "d6848b866c82a7603e880688f363a50c1baafcaea5832776464ab98397fc9304"
+                                               }
+                               },
+                     "source_sha256":  "76fd04ee12929dce43e00abbad64f4728ad2292984372ff1aae8bb1ef4b32596",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WretchedHagHocusPocus",
+                     "kind":  "heroes",
+                     "name":  "Wretched Hag - Hocus Pocus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "wretched_hag/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/WretchedHagHocusPocus/WretchedHagHocusPocus.psd1",
+                     "icon":  "mods/WretchedHagHocusPocus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WretchedHagHocusPocus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WretchedHagHocusPocus.zip",
+                                               "size":  4565563,
+                                               "sha256":  "6bca82b297d4a22c27e64b90d1754338766d478fa332590a8580ee4d8809cb4e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WretchedHagHocusPocus.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WretchedHagHocusPocus.html",
+                                                   "size":  9069523,
+                                                   "sha256":  "f31489f977d180d189a03b8cdaadfb618cd315bcd6ed6e66a8e528fb063a5e93"
+                                               }
+                               },
+                     "source_sha256":  "bd8bd9f72cb1678728d49e1be2eedea17860a7977da3bdfebbe2f1894f135ce2",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WretchedHagLadySita",
+                     "kind":  "heroes",
+                     "name":  "Wretched Hag - Lady Sita",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "wretched_hag/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/WretchedHagLadySita/WretchedHagLadySita.psd1",
+                     "icon":  "mods/WretchedHagLadySita/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WretchedHagLadySita.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WretchedHagLadySita.zip",
+                                               "size":  9424092,
+                                               "sha256":  "9b6dc938e5b5ed28810c7bd670cae6f7dcb900879674ffe3dc2bb184ba67f2ba"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WretchedHagLadySita.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WretchedHagLadySita.html",
+                                                   "size":  16876634,
+                                                   "sha256":  "f9ee07c916912aee85f04982559f38ded82950307b7803c960a6b6ccb0c2fcdf"
+                                               }
+                               },
+                     "source_sha256":  "c1f7a8ac8ad96689a730e9f62fbe7dc2c9ceea026127b066d2e4efeec5aa9816",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WretchedHagMercury",
+                     "kind":  "heroes",
+                     "name":  "Wretched Hag - Mercury",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "wretched_hag/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/WretchedHagMercury/WretchedHagMercury.psd1",
+                     "icon":  "mods/WretchedHagMercury/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WretchedHagMercury.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WretchedHagMercury.zip",
+                                               "size":  11175967,
+                                               "sha256":  "9bb92f2699e4037b47f7649f710f215c756eed80b7fe9724d32ad8935ba91d2d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WretchedHagMercury.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WretchedHagMercury.html",
+                                                   "size":  19814317,
+                                                   "sha256":  "67f2fa3a9a49a0a3fcc4ac3e599d78ee2fa21287a209ab9e43e1b6455d63f5eb"
+                                               }
+                               },
+                     "source_sha256":  "bde5ae6efe1493744b57f0901ea308550315d6acfbb0e7d3ddfcfceb047f13af",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WretchedHagTreasureHunter",
+                     "kind":  "heroes",
+                     "name":  "Wretched Hag - Treasure Hunter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "wretched_hag/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-22",
+                     "patch":  false,
+                     "psd1":  "mods/WretchedHagTreasureHunter/WretchedHagTreasureHunter.psd1",
+                     "icon":  "mods/WretchedHagTreasureHunter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WretchedHagTreasureHunter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WretchedHagTreasureHunter.zip",
+                                               "size":  9446838,
+                                               "sha256":  "375c2e7e3597aed93b8d1168e1b085fb95ff362a6e792a359024070990034f37"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WretchedHagTreasureHunter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WretchedHagTreasureHunter.html",
+                                                   "size":  15558314,
+                                                   "sha256":  "e03fa3e4994dcd621cd3a99b9c3c01fa632cdb8415b97eb69edfc5add1efc77b"
+                                               }
+                               },
+                     "source_sha256":  "4e899646cf3d812e9225abb9b86de4d9662c681ecc9774c02166db44400bbff0",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ZephyrFirestorm",
+                     "kind":  "heroes",
+                     "name":  "Zephyr - Firestorm",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "zephyr/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/ZephyrFirestorm/ZephyrFirestorm.psd1",
+                     "icon":  "mods/ZephyrFirestorm/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ZephyrFirestorm.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ZephyrFirestorm.zip",
+                                               "size":  5557448,
+                                               "sha256":  "2eb36c2ef4f677068690b4ac76f27081fee3d818f1f1f1adabaadd29416f3066"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ZephyrFirestorm.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ZephyrFirestorm.html",
+                                                   "size":  12045463,
+                                                   "sha256":  "76943408bb5f0ee112950bb174cdd3bda6f4ddc70bd3aad87f024d8d40422afb"
+                                               }
+                               },
+                     "source_sha256":  "36c23f24a6b39c8351b3ebd44cd04ccebc1cb2215e85da9cb822d82bf108b317",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ZephyrHorus",
+                     "kind":  "heroes",
+                     "name":  "Zephyr - Horus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "zephyr/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/ZephyrHorus/ZephyrHorus.psd1",
+                     "icon":  "mods/ZephyrHorus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ZephyrHorus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ZephyrHorus.zip",
+                                               "size":  9950024,
+                                               "sha256":  "43f62377946aaccd53bafaf7b007f6460dd8c4223f84e5599992d6846f54e22b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ZephyrHorus.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ZephyrHorus.html",
+                                                   "size":  15801348,
+                                                   "sha256":  "9de3cf8e7e67e07fd8d2223843174fe74e6f550ec62720a610e6d1c421b27bff"
+                                               }
+                               },
+                     "source_sha256":  "e70a2e641055c94af79d973c85902d9415515401a9b741171152abb157b2033d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ZephyrSnowZephyr",
+                     "kind":  "heroes",
+                     "name":  "Zephyr - Snow Zephyr",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "zephyr/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/ZephyrSnowZephyr/ZephyrSnowZephyr.psd1",
+                     "icon":  "mods/ZephyrSnowZephyr/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ZephyrSnowZephyr.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ZephyrSnowZephyr.zip",
+                                               "size":  6980596,
+                                               "sha256":  "377e209947a06e7772f598db7493a1cdcfe180741f834dc31c377199f07c179a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ZephyrSnowZephyr.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ZephyrSnowZephyr.html",
+                                                   "size":  13759208,
+                                                   "sha256":  "6bf3de6b166016c85aa60fcdca656c09df97848fc9f9f8220e616da12c5ebdfa"
+                                               }
+                               },
+                     "source_sha256":  "54e89456412e17bc6dcc28783756d1327e0927b00e4ccedf990cec31bafc3dc1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "ZephyrTwista",
+                     "kind":  "heroes",
+                     "name":  "Zephyr - Twista",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "zephyr/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/ZephyrTwista/ZephyrTwista.psd1",
+                     "icon":  "mods/ZephyrTwista/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "ZephyrTwista.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/ZephyrTwista.zip",
+                                               "size":  8804938,
+                                               "sha256":  "f1a3107fdb0da8aa86022c6a6df6464adbc74916ca6f88e5dd2f4b224eada100"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "ZephyrTwista.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/ZephyrTwista.html",
+                                                   "size":  15493666,
+                                                   "sha256":  "c0a75e581c091e03b7a11a52ae9bc0e3b19f626a985cb04405d30377d99d5245"
+                                               }
+                               },
+                     "source_sha256":  "8515603ca324929d0e530dd8ad532c0731bf06dffd25c6f48b63f56ff657e835",
                      "updated":  "2026-11-23"
                  }
              ]
