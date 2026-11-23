@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T19:01:03+01:00",
+    "generated":  "2026-11-23T19:22:05+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
@@ -5273,8 +5273,8 @@
                                    "zip":  {
                                                "asset":  "MasterOfArmsCybernetics.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MasterOfArmsCybernetics.zip",
-                                               "size":  12246276,
-                                               "sha256":  "ceed162bbda2a94863eacf98820021435d110100a8dcd01947b70df01b11ffa1"
+                                               "size":  12246510,
+                                               "sha256":  "d68dd300954b88309594db84d12e406ad2c66119e75d07c8c1faab40e763db44"
                                            },
                                    "preview":  {
                                                    "asset":  "MasterOfArmsCybernetics.html",
@@ -5283,7 +5283,7 @@
                                                    "sha256":  "758fc846444e9c157a01f74bc64c39bc319910314bf69845cefeb6afd109a0b7"
                                                }
                                },
-                     "source_sha256":  "2feb8b07aa68f08da409746b6952ed26b4ec9acac6d675d6ccc89f2f121e5f14",
+                     "source_sha256":  "7abcbcd7383bec7e6e31a5023b56af1d3c0ccea92259c3365a711c028db52ab9",
                      "updated":  "2026-11-23"
                  },
                  {
