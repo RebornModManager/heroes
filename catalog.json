@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T12:53:59+01:00",
+    "generated":  "2026-11-23T12:56:19+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  4315432,
-                  "sha256":  "ab2380a2d5effb66620c478918d160dc706e998f7cd5fae447fd70f48ba9d534"
+                  "size":  5023641,
+                  "sha256":  "4ece15945b6163360c005530f4148b9a5ff6de7fd37f6216d2e24692c09f6c8d"
               },
     "mods":  [
                  {
@@ -4660,6 +4660,347 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "LordSalforisPrince",
+                     "kind":  "heroes",
+                     "name":  "Lord Salforis - Prince",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "lord_salforis/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/LordSalforisPrince/LordSalforisPrince.psd1",
+                     "icon":  "mods/LordSalforisPrince/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LordSalforisPrince.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LordSalforisPrince.zip",
+                                               "size":  12054,
+                                               "sha256":  "7be4cecb18d58f0d140a5c15b7fb338f39f0ebc3b46414e0ce70508e877859cb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LordSalforisPrince.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LordSalforisPrince.html",
+                                                   "size":  17375293,
+                                                   "sha256":  "e1dee5f0bc72acf50fbdf3dfc9d7e488ae3cb33a37071247b9be10322252704d"
+                                               }
+                               },
+                     "source_sha256":  "848fac4bf0416884be5fbbe56387aa66007b07640bb3acb035ec182f057fba93",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LordSalforisSlasher",
+                     "kind":  "heroes",
+                     "name":  "Lord Salforis - Slasher",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "lord_salforis/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-28",
+                     "patch":  false,
+                     "psd1":  "mods/LordSalforisSlasher/LordSalforisSlasher.psd1",
+                     "icon":  "mods/LordSalforisSlasher/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LordSalforisSlasher.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LordSalforisSlasher.zip",
+                                               "size":  12031,
+                                               "sha256":  "dc0269430fb6f34ac91251c7d095b244e609baede305b6411e96e6f32161f610"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LordSalforisSlasher.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LordSalforisSlasher.html",
+                                                   "size":  19356522,
+                                                   "sha256":  "4f11440455821510ed1d3cd72143a422a1dfe4dee53e05588b218b07000175b8"
+                                               }
+                               },
+                     "source_sha256":  "d7f827c454cc48b4760aa8e2797a0ff9be62f3c2438cd417d62064b3981a01e7",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "LordSalforisTechromancer",
+                     "kind":  "heroes",
+                     "name":  "Lord Salforis - Techromancer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "lord_salforis/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-17",
+                     "patch":  false,
+                     "psd1":  "mods/LordSalforisTechromancer/LordSalforisTechromancer.psd1",
+                     "icon":  "mods/LordSalforisTechromancer/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "LordSalforisTechromancer.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/LordSalforisTechromancer.zip",
+                                               "size":  10648450,
+                                               "sha256":  "b3f5842a0bc1afe647f5c2a8ff1a7ff6d8ec76e2d4c0d0ff31b8d540fdf9c53e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "LordSalforisTechromancer.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/LordSalforisTechromancer.html",
+                                                   "size":  15779324,
+                                                   "sha256":  "f89d08d316bdc8e3d7b2b51d62782caa66a9c5bf8a2eff7a853906a758d74815"
+                                               }
+                               },
+                     "source_sha256":  "4524e565cf293ba345a0cbb3b051cb79e90c070f3f441aea196241f85ad3e6d1",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MadmanHook",
+                     "kind":  "heroes",
+                     "name":  "Madman - Hook",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "madman/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MadmanHook/MadmanHook.psd1",
+                     "icon":  "mods/MadmanHook/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MadmanHook.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MadmanHook.zip",
+                                               "size":  3299571,
+                                               "sha256":  "6a7d24fb4fe1fb2e16aa4a36098d9e7b6eff21ef3c49a8b621935925fc4db68c"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MadmanHook.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MadmanHook.html",
+                                                   "size":  11446136,
+                                                   "sha256":  "06802d7ad43736fc578690b331e742d969cedd737490c0e58cf04ac8445f4b31"
+                                               }
+                               },
+                     "source_sha256":  "b8c680bd56f423b174768aa4b26b9233e7cfb42e54e8dc6d61fdb2b9fff88af6",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MadmanMadCat",
+                     "kind":  "heroes",
+                     "name":  "Madman - Mad Cat",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "madman/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MadmanMadCat/MadmanMadCat.psd1",
+                     "icon":  "mods/MadmanMadCat/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MadmanMadCat.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MadmanMadCat.zip",
+                                               "size":  9575750,
+                                               "sha256":  "413319203c2c948b73613d8f884034c866feb7e1cefb40552bb782ff1dac7958"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MadmanMadCat.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MadmanMadCat.html",
+                                                   "size":  17521964,
+                                                   "sha256":  "fe82b8c4c84c3036433655db39b70baa5bf0f05a9b94548c59afbb8875b12edb"
+                                               }
+                               },
+                     "source_sha256":  "1cab255b6e39aad16d2be0c2628e9184cacac2be49f34c3ea2aadfa07d0c168a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MadmanNightmare",
+                     "kind":  "heroes",
+                     "name":  "Madman - Nightmare",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "madman/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-29",
+                     "patch":  false,
+                     "psd1":  "mods/MadmanNightmare/MadmanNightmare.psd1",
+                     "icon":  "mods/MadmanNightmare/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MadmanNightmare.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MadmanNightmare.zip",
+                                               "size":  5698079,
+                                               "sha256":  "3397fb77a714adf775781580ab25c7d0aa18344d681fe9c0a1255892407291c0"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MadmanNightmare.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MadmanNightmare.html",
+                                                   "size":  11822900,
+                                                   "sha256":  "203532ceae66efcbc56af0bb4e1107f83ccab2f81d8e96dadaa89ea2ba7930c1"
+                                               }
+                               },
+                     "source_sha256":  "b79c225edb3aca9ac3e63dc3567b21125bcae984cd9a78435685ed0aca003ede",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MadmanRavingMadman",
+                     "kind":  "heroes",
+                     "name":  "Madman - Raving Madman",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "madman/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-30",
+                     "patch":  false,
+                     "psd1":  "mods/MadmanRavingMadman/MadmanRavingMadman.psd1",
+                     "icon":  "mods/MadmanRavingMadman/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MadmanRavingMadman.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MadmanRavingMadman.zip",
+                                               "size":  10094471,
+                                               "sha256":  "096f737d998dd5f2bcd23b22ce35a8c49eabc3d7d9ac0cdba498698b1e9600af"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MadmanRavingMadman.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MadmanRavingMadman.html",
+                                                   "size":  15409059,
+                                                   "sha256":  "47b5133204fff67933c275283d5590608299e12b801e3b0fcebb63fcb53532ae"
+                                               }
+                               },
+                     "source_sha256":  "593856830626feaf4205769c26a02b2349655d5bda6b5ca801c652a2495acd24",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MagebaneDarkmana",
+                     "kind":  "heroes",
+                     "name":  "Magebane - Darkmana",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "magebane/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MagebaneDarkmana/MagebaneDarkmana.psd1",
+                     "icon":  "mods/MagebaneDarkmana/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MagebaneDarkmana.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MagebaneDarkmana.zip",
+                                               "size":  3433829,
+                                               "sha256":  "458722aa3cb11df2a530558d3ecef669a6562c0dc8160e603850d0a1b91f1a7f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MagebaneDarkmana.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MagebaneDarkmana.html",
+                                                   "size":  18390843,
+                                                   "sha256":  "39f0514ba7199b91f5ed77479d7ba9dd4e362ce4642a874f2ef6c97033ab5ed7"
+                                               }
+                               },
+                     "source_sha256":  "891f92b9c65f94e26afca7391c9361a7bbe1d190aa1c102404db5550f690ee9a",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MagebaneMagusBane",
+                     "kind":  "heroes",
+                     "name":  "Magebane - Magus Bane",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "magebane/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-12",
+                     "patch":  false,
+                     "psd1":  "mods/MagebaneMagusBane/MagebaneMagusBane.psd1",
+                     "icon":  "mods/MagebaneMagusBane/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MagebaneMagusBane.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MagebaneMagusBane.zip",
+                                               "size":  7306890,
+                                               "sha256":  "1271be665a446cb4aea901f8797af01821c445ea948e6f79931d8b0082aedf1f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MagebaneMagusBane.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MagebaneMagusBane.html",
+                                                   "size":  14588041,
+                                                   "sha256":  "0ea6bf9ee1c4c68abf5ea248f4e63c9537d414b9e441182370d2c3575b692a1d"
+                                               }
+                               },
+                     "source_sha256":  "9382fd1ef88de8902861413cf68807386760515b796c8e8e1265287106199246",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MagmusAscension",
+                     "kind":  "heroes",
+                     "name":  "Magmus - Ascension",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "magmus/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MagmusAscension/MagmusAscension.psd1",
+                     "icon":  "mods/MagmusAscension/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MagmusAscension.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MagmusAscension.zip",
+                                               "size":  9834874,
+                                               "sha256":  "96f8cd2bc22cad721e1182b250252fff6c7fdc78f1495820b87c2f810da6fe77"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MagmusAscension.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MagmusAscension.html",
+                                                   "size":  19090740,
+                                                   "sha256":  "9e52ee730074a9337f5693489f69f448e9709db9246df40bb129250c242dc77e"
+                                               }
+                               },
+                     "source_sha256":  "0ce40d52a9338b4456fce5387e2571fc5901bf19547af9c12064898cb8bcc5de",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MagmusSaji",
+                     "kind":  "heroes",
+                     "name":  "Magmus - Saji",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "magmus/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MagmusSaji/MagmusSaji.psd1",
+                     "icon":  "mods/MagmusSaji/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MagmusSaji.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MagmusSaji.zip",
+                                               "size":  10681189,
+                                               "sha256":  "92f7f809766c27405e7d3fcf4a1ad8510bc6d77426f3c54560c867811175d534"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MagmusSaji.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MagmusSaji.html",
+                                                   "size":  19482510,
+                                                   "sha256":  "ac5c2dc3371eafc971988055a43340ef3624807a28bc54bb8fa1c7c260063701"
+                                               }
+                               },
+                     "source_sha256":  "b03606b346b04a3de347641af6aabf9ba590937c95fd112eb5e8195bb2d152ee",
+                     "updated":  "2026-11-23"
+                 },
+                 {
                      "id":  "MagmusScoria",
                      "kind":  "heroes",
                      "name":  "Magmus - Scoria",
@@ -4688,6 +5029,409 @@
                                                }
                                },
                      "source_sha256":  "872df216a662f29df5b47cc2e74818b97fd2246308501c8eec489da4098c6b39",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MagmusTaurus",
+                     "kind":  "heroes",
+                     "name":  "Magmus - Taurus",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "magmus/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MagmusTaurus/MagmusTaurus.psd1",
+                     "icon":  "mods/MagmusTaurus/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MagmusTaurus.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MagmusTaurus.zip",
+                                               "size":  10274772,
+                                               "sha256":  "2e2a7cadcf18f9709d456a61c3ec9ca5ddc6df0f10f7900b0b2dac3fe10d058e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MagmusTaurus.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MagmusTaurus.html",
+                                                   "size":  12673726,
+                                                   "sha256":  "c112c8c8ebd93710044978d8d03dadfb8c39e31bd9ac9f134aee256bf63737b3"
+                                               }
+                               },
+                     "source_sha256":  "c4bfe0d9477eb7a0ba7382fc9ef1ad36878fe15f01574491a5d5014fb41fc2db",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MalikenFusion",
+                     "kind":  "heroes",
+                     "name":  "Maliken - Fusion",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "maliken/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MalikenFusion/MalikenFusion.psd1",
+                     "icon":  "mods/MalikenFusion/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MalikenFusion.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MalikenFusion.zip",
+                                               "size":  19829020,
+                                               "sha256":  "593567358bdd67898251bd55d8de35b61a3c0ca62ff702132971075cbafd9bff"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MalikenFusion.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MalikenFusion.html",
+                                                   "size":  18150528,
+                                                   "sha256":  "5bf29361df21171661a64abaf82509d2a8e4bcb7c74cc9008701b69b6f823657"
+                                               }
+                               },
+                     "source_sha256":  "ba4f15c37cb65a2b7f9a6eebe0d1a35aef7260860dcce6796b4c7ed4b24f8f18",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MartyrSisterDeath",
+                     "kind":  "heroes",
+                     "name":  "Martyr - Sister Death",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "martyr/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-10-30",
+                     "patch":  false,
+                     "psd1":  "mods/MartyrSisterDeath/MartyrSisterDeath.psd1",
+                     "icon":  "mods/MartyrSisterDeath/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MartyrSisterDeath.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MartyrSisterDeath.zip",
+                                               "size":  9651153,
+                                               "sha256":  "c09a1d6eda07c1a46f05f8ffc2f042d2808eabf03c9d6ae5b82dc994d7acd43b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MartyrSisterDeath.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MartyrSisterDeath.html",
+                                                   "size":  18261379,
+                                                   "sha256":  "f7b0f5cce72187da5cdb99541ed3909f788c59cdb6ac5ae07afbd9df294d058b"
+                                               }
+                               },
+                     "source_sha256":  "c52532f7dcbf1d02e7b07669ccd6c7299475624cfe9ecd63d9a2a51c810e3bac",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MasterOfArmsCommandos",
+                     "kind":  "heroes",
+                     "name":  "Master Of Arms - Commandos",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "master_of_arms/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MasterOfArmsCommandos/MasterOfArmsCommandos.psd1",
+                     "icon":  "mods/MasterOfArmsCommandos/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MasterOfArmsCommandos.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MasterOfArmsCommandos.zip",
+                                               "size":  13868450,
+                                               "sha256":  "0257c322d70c7623960f921605b59a566843586e1fd4018a1a3a37c869e44427"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MasterOfArmsCommandos.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MasterOfArmsCommandos.html",
+                                                   "size":  18651599,
+                                                   "sha256":  "8bae6f99a24b559c2e02b53243a9aba3dab704066ddc77fd5626a0462b1f1d50"
+                                               }
+                               },
+                     "source_sha256":  "0f11ba2d8d1d3540f4432b3c22624940068ed034f48aa690fa2ce32dc92359af",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MasterOfArmsCybernetics",
+                     "kind":  "heroes",
+                     "name":  "Master Of Arms - Cybernetics",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "master_of_arms/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MasterOfArmsCybernetics/MasterOfArmsCybernetics.psd1",
+                     "icon":  "mods/MasterOfArmsCybernetics/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MasterOfArmsCybernetics.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MasterOfArmsCybernetics.zip",
+                                               "size":  12246276,
+                                               "sha256":  "ceed162bbda2a94863eacf98820021435d110100a8dcd01947b70df01b11ffa1"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MasterOfArmsCybernetics.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MasterOfArmsCybernetics.html",
+                                                   "size":  14948354,
+                                                   "sha256":  "758fc846444e9c157a01f74bc64c39bc319910314bf69845cefeb6afd109a0b7"
+                                               }
+                               },
+                     "source_sha256":  "2feb8b07aa68f08da409746b6952ed26b4ec9acac6d675d6ccc89f2f121e5f14",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MasterOfArmsElMaestro",
+                     "kind":  "heroes",
+                     "name":  "Master Of Arms - El Maestro",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "master_of_arms/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MasterOfArmsElMaestro/MasterOfArmsElMaestro.psd1",
+                     "icon":  "mods/MasterOfArmsElMaestro/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MasterOfArmsElMaestro.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MasterOfArmsElMaestro.zip",
+                                               "size":  13883066,
+                                               "sha256":  "709a4f2790549757f2a206af9748869d9b615e3e2c1897211f3737c87af8632d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MasterOfArmsElMaestro.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MasterOfArmsElMaestro.html",
+                                                   "size":  16939852,
+                                                   "sha256":  "54116191c0608465135dae289b249b070ffe56ed8ccceb042a0a22fd3b5d2be8"
+                                               }
+                               },
+                     "source_sha256":  "52fa073f6c76222f3038b312c54d5e2b031cd450d0e59736a21ec8aa3b1af99d",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MasterOfArmsMistressOfArms",
+                     "kind":  "heroes",
+                     "name":  "Master Of Arms - Mistress of Arms",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "master_of_arms/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-21",
+                     "patch":  false,
+                     "psd1":  "mods/MasterOfArmsMistressOfArms/MasterOfArmsMistressOfArms.psd1",
+                     "icon":  "mods/MasterOfArmsMistressOfArms/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MasterOfArmsMistressOfArms.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MasterOfArmsMistressOfArms.zip",
+                                               "size":  12554293,
+                                               "sha256":  "d7d1ddacd5e61c40ea89cca66d77e21d147e74a1ba58c332088d1458c994adf5"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MasterOfArmsMistressOfArms.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MasterOfArmsMistressOfArms.html",
+                                                   "size":  20298728,
+                                                   "sha256":  "1c1d6b6cc2416eadcc62a2edae85534b486d3316456dc1433251a10221d16670"
+                                               }
+                               },
+                     "source_sha256":  "1863b50831722b2f9247705d7dc7327d6f0022795d924eb7f5d0967d1d822749",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MasterOfArmsSongkran",
+                     "kind":  "heroes",
+                     "name":  "Master Of Arms - Songkran",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "master_of_arms/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MasterOfArmsSongkran/MasterOfArmsSongkran.psd1",
+                     "icon":  "mods/MasterOfArmsSongkran/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MasterOfArmsSongkran.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MasterOfArmsSongkran.zip",
+                                               "size":  9398483,
+                                               "sha256":  "01ced90caef205f61811f1c7853125d6b3559a77c519345676a68a60e11324f4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MasterOfArmsSongkran.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MasterOfArmsSongkran.html",
+                                                   "size":  16876434,
+                                                   "sha256":  "25c43a362159c00d8c382b3052afdd4ebba21a873d020517bdd356ad2e93588c"
+                                               }
+                               },
+                     "source_sha256":  "c07bea3dd71e945700d16628dc334b75f37a8992d6aad444d68d3f0a5235a7b3",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MonkeyKingQueenOfFools",
+                     "kind":  "heroes",
+                     "name":  "Monkey King - Queen of Fools",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "monkey_king/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-15",
+                     "patch":  false,
+                     "psd1":  "mods/MonkeyKingQueenOfFools/MonkeyKingQueenOfFools.psd1",
+                     "icon":  "mods/MonkeyKingQueenOfFools/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MonkeyKingQueenOfFools.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MonkeyKingQueenOfFools.zip",
+                                               "size":  10242854,
+                                               "sha256":  "d6f3f3ffc1c9d64ceb3221fe3098865afb73bd21ea19a372374bb50ec748adeb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MonkeyKingQueenOfFools.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MonkeyKingQueenOfFools.html",
+                                                   "size":  19075356,
+                                                   "sha256":  "23f944a006b04de0c1b39e9366243fc8e1ce2a283a361cf09b3bc6650d7f81ab"
+                                               }
+                               },
+                     "source_sha256":  "a7eb6af8eef6069b6b03192de9cfb2ed742b444a02b301a25886c896fb1fc49b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MonkeyKingShinobi",
+                     "kind":  "heroes",
+                     "name":  "Monkey King - Shinobi",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "monkey_king/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-15",
+                     "patch":  false,
+                     "psd1":  "mods/MonkeyKingShinobi/MonkeyKingShinobi.psd1",
+                     "icon":  "mods/MonkeyKingShinobi/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MonkeyKingShinobi.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MonkeyKingShinobi.zip",
+                                               "size":  10912675,
+                                               "sha256":  "34f9afadae8fa36ea16aa817470edee31ecaca38b3c697cad3f4e5ba4f05df87"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MonkeyKingShinobi.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MonkeyKingShinobi.html",
+                                                   "size":  23560113,
+                                                   "sha256":  "7023e36ced7069c8026dae289a496757455e86998ec5aa43ec292517580d7a26"
+                                               }
+                               },
+                     "source_sha256":  "42aa55f215addd70ea1ea9d17e7c39d3707780bc41b78c7bee59009b8dc5e2a2",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MonkeyKingWukong",
+                     "kind":  "heroes",
+                     "name":  "Monkey King - Wukong",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "monkey_king/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MonkeyKingWukong/MonkeyKingWukong.psd1",
+                     "icon":  "mods/MonkeyKingWukong/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MonkeyKingWukong.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MonkeyKingWukong.zip",
+                                               "size":  4108161,
+                                               "sha256":  "7c36e5a6c5a048bdfecaaa6f35d8a419579d60552fda6caadc1d93812a622c66"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MonkeyKingWukong.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MonkeyKingWukong.html",
+                                                   "size":  8790183,
+                                                   "sha256":  "b8234f204fc64c6fb676e758a7cb307e8825fdaac2367d686f35bb75e535ed81"
+                                               }
+                               },
+                     "source_sha256":  "40bb0287e3489efcb43561ff2e39f86dc959541718a839a4ae7f361a43380d48",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MoonQueenBloodMoonQueen",
+                     "kind":  "heroes",
+                     "name":  "Moon Queen - Blood Moon Queen",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "moon_queen/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-09",
+                     "patch":  false,
+                     "psd1":  "mods/MoonQueenBloodMoonQueen/MoonQueenBloodMoonQueen.psd1",
+                     "icon":  "mods/MoonQueenBloodMoonQueen/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MoonQueenBloodMoonQueen.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MoonQueenBloodMoonQueen.zip",
+                                               "size":  6843671,
+                                               "sha256":  "d6c7fe9c9d0c4830d097d9fba9ae4fa13f456e16d25b3f4bd2c7ee4e5360c5ee"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MoonQueenBloodMoonQueen.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MoonQueenBloodMoonQueen.html",
+                                                   "size":  13817330,
+                                                   "sha256":  "a9051ddeb102e29aac7d99192944037c490b47df8a38a5cac4b7e786fdc7fe7f"
+                                               }
+                               },
+                     "source_sha256":  "e81338d6c57db593e2631d0878f225f1033a8d5181aefe953e1ca84f7c2eeb1b",
+                     "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MoonQueenEclipse",
+                     "kind":  "heroes",
+                     "name":  "Moon Queen - Eclipse",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "moon_queen/base",
+                     "badge":  "",
+                     "tested":  "",
+                     "added":  "2026-10-20",
+                     "patch":  false,
+                     "psd1":  "mods/MoonQueenEclipse/MoonQueenEclipse.psd1",
+                     "icon":  "mods/MoonQueenEclipse/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MoonQueenEclipse.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MoonQueenEclipse.zip",
+                                               "size":  6532,
+                                               "sha256":  "a665ff4ec64041b7ab2e039c1b736d4a67b2afc2e26097e7477c34bc2175d85a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MoonQueenEclipse.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MoonQueenEclipse.html",
+                                                   "size":  18784518,
+                                                   "sha256":  "31fe9f866994d67619cf2d13acf216f0a0e76c1e9fa73dde8fbb874d1f9492d3"
+                                               }
+                               },
+                     "source_sha256":  "40ef407630baaca351150b2c61d140de0f458f0eb31bf8aacafac711d1888dfa",
                      "updated":  "2026-11-23"
                  },
                  {
