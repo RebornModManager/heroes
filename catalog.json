@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T19:50:10+01:00",
+    "generated":  "2026-11-23T21:10:16+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
@@ -5862,8 +5862,8 @@
                                    "zip":  {
                                                "asset":  "NomadExterminator.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/NomadExterminator.zip",
-                                               "size":  8787484,
-                                               "sha256":  "42f366b48422383d3827add42ca57f6bf9f0fd9211bb79fb9073d62e7383edf8"
+                                               "size":  8787388,
+                                               "sha256":  "fb7d91660de4ee28bb6723ea3759390ec0a2d9e1c7d632cef34950a2dd451b7f"
                                            },
                                    "preview":  {
                                                    "asset":  "NomadExterminator.html",
@@ -5872,7 +5872,7 @@
                                                    "sha256":  "1d6ca02819a0c27bbf1379f268bae60e88563b50517f103e2b1051d343cf8625"
                                                }
                                },
-                     "source_sha256":  "49654025cbdfcde0b5998fbbe2a0345ba05135cb0989fa21ef862943e842fdde",
+                     "source_sha256":  "e0f688548e6f7fe066e24701263bbec8d64b8f944b8fdaf4ba1e15a31a2d16ba",
                      "updated":  "2026-11-23"
                  },
                  {
