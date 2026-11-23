@@ -1,9 +1,0 @@
-﻿@{
-    Name        = 'Kill Effect - Demon Hand'
-    Description = 'Replaces the kill effect.'
-    Type        = 'Kill Effect'
-    Category    = 'UI'
-    Group       = 'killeffects'
-    Tested      = 'true'
-    Added       = '2026-10-20'
-}

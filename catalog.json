@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T21:15:20+01:00",
+    "generated":  "2026-11-23T22:03:14+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  9981392,
-                  "sha256":  "9584333e4063a38967fda6992d3e915c5052a1f55d88c8ead8568b570c5c9561"
+                  "size":  8979076,
+                  "sha256":  "fe32a99ad754e5de6b81edc903f0e987d75ee1b51869c2d44ce06963b00e8c8e"
               },
     "mods":  [
                  {
@@ -4226,106 +4226,6 @@
                      "updated":  "2026-11-23"
                  },
                  {
-                     "id":  "KillEffectAcme",
-                     "kind":  "ui",
-                     "name":  "Kill Effect - Acme",
-                     "description":  "Replaces the kill effect.",
-                     "category":  "UI",
-                     "type":  "Kill Effect",
-                     "group":  "killeffects",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/KillEffectAcme/KillEffectAcme.psd1",
-                     "icon":  "mods/KillEffectAcme/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "KillEffectAcme.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectAcme.zip",
-                                               "size":  7109192,
-                                               "sha256":  "29389536c8a1a7e6da3b4f8367555c39042e95cbf4e8fe000fe1afc636e8c19f"
-                                           }
-                               },
-                     "source_sha256":  "0c8b080ffd83480bbde34dd9845fef5327a7f7aa466f46cd7d8d06de0eb6dfde",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "KillEffectDemonhand",
-                     "kind":  "ui",
-                     "name":  "Kill Effect - Demon Hand",
-                     "description":  "Replaces the kill effect.",
-                     "category":  "UI",
-                     "type":  "Kill Effect",
-                     "group":  "killeffects",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/KillEffectDemonhand/KillEffectDemonhand.psd1",
-                     "icon":  "mods/KillEffectDemonhand/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "KillEffectDemonhand.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectDemonhand.zip",
-                                               "size":  2271431,
-                                               "sha256":  "f36fc074246d6c7d337b473a9e8ccdba747141b80be061e762807f4fb892841e"
-                                           }
-                               },
-                     "source_sha256":  "dba83522e8e6696c1f7b01902964144dfe0be01b2651fd08306624bb427a1e2e",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "KillEffectFist",
-                     "kind":  "ui",
-                     "name":  "Kill Effect - Fist",
-                     "description":  "Replaces the kill effect.",
-                     "category":  "UI",
-                     "type":  "Kill Effect",
-                     "group":  "killeffects",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/KillEffectFist/KillEffectFist.psd1",
-                     "icon":  "mods/KillEffectFist/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "KillEffectFist.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectFist.zip",
-                                               "size":  419604,
-                                               "sha256":  "d8484cde46ec4fa6a005e6cbe767e551c91035cce323132c4912e63c9f82c759"
-                                           }
-                               },
-                     "source_sha256":  "bc2a68105443b0b92da0f8c2685fa2638db8ffb2e76f22a7cfa9dafa8ddd7f30",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "KillEffectRip",
-                     "kind":  "ui",
-                     "name":  "Kill Effect - RIP",
-                     "description":  "Replaces the kill effect.",
-                     "category":  "UI",
-                     "type":  "Kill Effect",
-                     "group":  "killeffects",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/KillEffectRip/KillEffectRip.psd1",
-                     "icon":  "mods/KillEffectRip/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "KillEffectRip.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KillEffectRip.zip",
-                                               "size":  4822983,
-                                               "sha256":  "32341eaf606688e01e9726258ff6bd612e55cf7f6657a07a8a6686cc09f32e4c"
-                                           }
-                               },
-                     "source_sha256":  "09c54813e44fb068c95af281408faa5bec2bc1abba26776612a769d211290747",
-                     "updated":  "2026-11-23"
-                 },
-                 {
                      "id":  "KinesisNecrosis",
                      "kind":  "heroes",
                      "name":  "Kinesis - Necrosis",
@@ -6434,26 +6334,6 @@
                      "updated":  "2026-11-23"
                  },
                  {
-                     "id":  "PlinkoAnimSkip",
-                     "kind":  "ui",
-                     "name":  "Plinko Animation Skip",
-                     "description":  "Skips the Plinko ball drop animation, instantly revealing your prize when you click Drop.",
-                     "category":  "UI",
-                     "type":  "UI",
-                     "group":  "",
-                     "badge":  "",
-                     "tested":  "",
-                     "added":  "2026-10-20",
-                     "patch":  true,
-                     "psd1":  "mods/PlinkoAnimSkip/PlinkoAnimSkip.psd1",
-                     "icon":  "mods/PlinkoAnimSkip/icon.dds",
-                     "files":  {
-
-                               },
-                     "source_sha256":  "02dbab139cd4bbaaa98794977ba1f5224a1790642d2c77a27420cbcb51ac4d41",
-                     "updated":  "2026-11-23"
-                 },
-                 {
                      "id":  "PollywogPriestAxolotlPollywog",
                      "kind":  "heroes",
                      "name":  "Pollywog Priest - Axolotl Pollywog",
@@ -7725,31 +7605,6 @@
                      "updated":  "2026-11-23"
                  },
                  {
-                     "id":  "RunePlus",
-                     "kind":  "ui",
-                     "name":  "Rune Plus",
-                     "description":  "Enhanced powerup rune effect visuals",
-                     "category":  "UI",
-                     "type":  "World",
-                     "group":  "Runes",
-                     "badge":  "test",
-                     "tested":  "",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/RunePlus/RunePlus.psd1",
-                     "icon":  "mods/RunePlus/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "RunePlus.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/RunePlus.zip",
-                                               "size":  10191,
-                                               "sha256":  "61d59fef549758fe64663dec3756a03e8a5b3f531b646bf842fb0914fab8fd2b"
-                                           }
-                               },
-                     "source_sha256":  "fbb503fc0ea19c3e9b7aa6b00fe087772ffb5c88ea202d5019fe2c5ac30f7388",
-                     "updated":  "2026-11-23"
-                 },
-                 {
                      "id":  "SandWraithBlightWraith",
                      "kind":  "heroes",
                      "name":  "Sand Wraith - Blight Wraith",
@@ -8928,206 +8783,6 @@
                      "updated":  "2026-11-23"
                  },
                  {
-                     "id":  "Teleport8bit",
-                     "kind":  "ui",
-                     "name":  "Teleport - 8Bit",
-                     "description":  "Replaces the teleportation stone effect.",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/Teleport8bit/Teleport8bit.psd1",
-                     "icon":  "mods/Teleport8bit/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "Teleport8bit.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/Teleport8bit.zip",
-                                               "size":  2671922,
-                                               "sha256":  "8b1a15ab04d4da39ad2b95f5b1c0f7340da892fe1315af550c5264600e58c7e2"
-                                           }
-                               },
-                     "source_sha256":  "8e3732a0716cf2cb24fcd31ee0b5290e1167f2b55fc564ffc7f172ee9c4aae3c",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportGreenMist",
-                     "kind":  "ui",
-                     "name":  "Teleport - Green Mist",
-                     "description":  "Green mist effect skin for the Teleportation Stone",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportGreenMist/TeleportGreenMist.psd1",
-                     "icon":  "mods/TeleportGreenMist/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportGreenMist.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportGreenMist.zip",
-                                               "size":  114714,
-                                               "sha256":  "c84b002f02f3f62fa51ce8bfe6849e5329164333b6ea77b767d8cabfbb9397ba"
-                                           }
-                               },
-                     "source_sha256":  "61813e62a60e61ae9a4a316a811a814043643698374189ae541cfe8537da7aec",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportPurpleMist",
-                     "kind":  "ui",
-                     "name":  "Teleport - Purple Mist",
-                     "description":  "Dark purple/black mist effect skin for the Teleportation Stone",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportPurpleMist/TeleportPurpleMist.psd1",
-                     "icon":  "mods/TeleportPurpleMist/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportPurpleMist.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportPurpleMist.zip",
-                                               "size":  109731,
-                                               "sha256":  "2e2403a0c83641cd1646117465e05716c74dc61ffefda2b5c954efea79c61b62"
-                                           }
-                               },
-                     "source_sha256":  "a987ffa6ea87f197ff9f32b691cd007b94644edbcc28973ee17310b11184d97e",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportRedMist",
-                     "kind":  "ui",
-                     "name":  "Teleport - Red Mist",
-                     "description":  "Red mist effect skin for the Teleportation Stone",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportRedMist/TeleportRedMist.psd1",
-                     "icon":  "mods/TeleportRedMist/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportRedMist.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportRedMist.zip",
-                                               "size":  119736,
-                                               "sha256":  "5f36f2142bf235cfa396801a6aca255d3e89730783b431b3611c2bc9c7c35866"
-                                           }
-                               },
-                     "source_sha256":  "fa3141fcacb650924d75c23a5d9e33cee56dfa205571acff554fc31395a660a2",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportWarp",
-                     "kind":  "ui",
-                     "name":  "Teleport - Blue Warp",
-                     "description":  "Warp effect skin for the Teleportation Stone",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportWarp/TeleportWarp.psd1",
-                     "icon":  "mods/TeleportWarp/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportWarp.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportWarp.zip",
-                                               "size":  141530,
-                                               "sha256":  "91cd6a2c15597a51ef6e96737c4f41665e4558ff07765ec018c53363ae96236b"
-                                           }
-                               },
-                     "source_sha256":  "f69b13712ab194c2e03db0c782f9a759c11fc20735c3ec7b21c9201b7a5bb458",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportWarpRed",
-                     "kind":  "ui",
-                     "name":  "Teleport - Red Warp",
-                     "description":  "Red warp effect skin for the Teleportation Stone",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportWarpRed/TeleportWarpRed.psd1",
-                     "icon":  "mods/TeleportWarpRed/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportWarpRed.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportWarpRed.zip",
-                                               "size":  119932,
-                                               "sha256":  "c108f1d5c0324276243e55b5483d8676b5ccdc79dec0ecf382109af2834ebb33"
-                                           }
-                               },
-                     "source_sha256":  "ca79930bd5ae6ac583781ab2f6cad02b59a08a92718d08ff97738cf69fdfec19",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportWorldcup",
-                     "kind":  "ui",
-                     "name":  "Teleport - World Cup",
-                     "description":  "Replaces the teleportation stone effect.",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportWorldcup/TeleportWorldcup.psd1",
-                     "icon":  "mods/TeleportWorldcup/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportWorldcup.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportWorldcup.zip",
-                                               "size":  5390051,
-                                               "sha256":  "a670973864c14223ca2d382e232aceca74dc263eeedddcbbd8704d9e9d751f91"
-                                           }
-                               },
-                     "source_sha256":  "bdec6a7c9eb9e6d6460b0d3045a588de89b5f64304f747fa81f360c6db9779fc",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TeleportYellowMist",
-                     "kind":  "ui",
-                     "name":  "Teleport - Yellow Mist",
-                     "description":  "Yellow mist effect skin for the Teleportation Stone",
-                     "category":  "UI",
-                     "type":  "Teleport",
-                     "group":  "teleport_warp",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TeleportYellowMist/TeleportYellowMist.psd1",
-                     "icon":  "mods/TeleportYellowMist/icon.dds",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TeleportYellowMist.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TeleportYellowMist.zip",
-                                               "size":  116307,
-                                               "sha256":  "dea13e762cb7ecbd9e6d61b3c6a172528d7692166599d890cdc1de092bd1c151"
-                                           }
-                               },
-                     "source_sha256":  "0b21a46a5745eaa02780f6f082f85d63c3d40269598805899d7128340e5d6563",
-                     "updated":  "2026-11-23"
-                 },
-                 {
                      "id":  "TempestElderRift",
                      "kind":  "heroes",
                      "name":  "Tempest - Elder Rift",
@@ -9280,51 +8935,6 @@
                                                }
                                },
                      "source_sha256":  "1d8973ce4eaf7907ab7f9913462c06973cf0400f18fad3ed979e874d8e75f3af",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TowerRangeRings",
-                     "kind":  "ui",
-                     "name":  "Tower Range Rings",
-                     "description":  "Adds range indicator rings to all attack towers",
-                     "category":  "UI",
-                     "type":  "World",
-                     "group":  "",
-                     "badge":  "",
-                     "tested":  "",
-                     "added":  "2026-10-20",
-                     "patch":  true,
-                     "psd1":  "mods/TowerRangeRings/TowerRangeRings.psd1",
-                     "icon":  "mods/TowerRangeRings/icon.dds",
-                     "files":  {
-
-                               },
-                     "source_sha256":  "d585711259060dc1ec46b6fee64a0484d38f9d170b5f64e03e7896c0306ac014",
-                     "updated":  "2026-11-23"
-                 },
-                 {
-                     "id":  "TreeStumps",
-                     "kind":  "ui",
-                     "name":  "Tree Stumps",
-                     "description":  "Replaces map trees with small stumps for a clearer view of the battlefield",
-                     "category":  "UI",
-                     "type":  "World",
-                     "group":  "",
-                     "badge":  "",
-                     "tested":  "true",
-                     "added":  "2026-10-20",
-                     "patch":  false,
-                     "psd1":  "mods/TreeStumps/TreeStumps.psd1",
-                     "icon":  "mods/TreeStumps/icon.png",
-                     "files":  {
-                                   "zip":  {
-                                               "asset":  "TreeStumps.zip",
-                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TreeStumps.zip",
-                                               "size":  294,
-                                               "sha256":  "b12cac387a940f19f21dda0d6656db6a90cca16b9871d77123dc7d101defc81a"
-                                           }
-                               },
-                     "source_sha256":  "3a398670f5fa1f7c0b455fa38b6f26c77c0a49997bc29797baab245930ad42a5",
                      "updated":  "2026-11-23"
                  },
                  {
