@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-23T22:03:14+01:00",
+    "generated":  "2026-11-25T21:57:43+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  8979076,
-                  "sha256":  "fe32a99ad754e5de6b81edc903f0e987d75ee1b51869c2d44ce06963b00e8c8e"
+                  "size":  9121400,
+                  "sha256":  "bae11ab54b25ecf5081d4343ab8912f1829c3a609ac7941f424a52ddb4aa2cff"
               },
     "mods":  [
                  {
@@ -845,6 +845,99 @@
                                },
                      "source_sha256":  "061c97d732d1eb41cb51ca20289f9fcc88551317a33b814b28ff44975a188f06",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "BlacksmithDyad",
+                     "kind":  "heroes",
+                     "name":  "Blacksmith - Dyad",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blacksmith/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/BlacksmithDyad/BlacksmithDyad.psd1",
+                     "icon":  "mods/BlacksmithDyad/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BlacksmithDyad.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BlacksmithDyad.zip",
+                                               "size":  9266067,
+                                               "sha256":  "8bc4fbc627e42ca440af30025a877991a23faa347afccf171f2af80aba150709"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BlacksmithDyad.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BlacksmithDyad.html",
+                                                   "size":  16193125,
+                                                   "sha256":  "09acfd71af26e257338165b31756e64e8663516f636b9f8d86b8b1c5fe89efb8"
+                                               }
+                               },
+                     "source_sha256":  "eff41f18969049715d24b36853b7a34c3091acea5c800170afa03f8afee4f9bf",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "BlacksmithOgre",
+                     "kind":  "heroes",
+                     "name":  "Blacksmith - Ogre",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blacksmith/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/BlacksmithOgre/BlacksmithOgre.psd1",
+                     "icon":  "mods/BlacksmithOgre/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BlacksmithOgre.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BlacksmithOgre.zip",
+                                               "size":  7689944,
+                                               "sha256":  "d17610a6b9e985576e97f038d0f3b3e5bc05199daa34abd800e2ea8de6e99f4f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BlacksmithOgre.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BlacksmithOgre.html",
+                                                   "size":  12942501,
+                                                   "sha256":  "2720bcc71948c2ec056cc2c86e686e9a1185f6e40b06350e7bf8c504154650cb"
+                                               }
+                               },
+                     "source_sha256":  "8b9e0bcb35121a81163f191e43f9135cda90bbde009c8050c1fcf9ad77ace46e",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "BlacksmithPunkSmith",
+                     "kind":  "heroes",
+                     "name":  "Blacksmith - Punk Smith",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "blacksmith/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/BlacksmithPunkSmith/BlacksmithPunkSmith.psd1",
+                     "icon":  "mods/BlacksmithPunkSmith/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BlacksmithPunkSmith.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BlacksmithPunkSmith.zip",
+                                               "size":  9190037,
+                                               "sha256":  "e906dc4ec0f410f243c6d4b2972fc341781a5e616f28c024445a0c8c8f65cb08"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BlacksmithPunkSmith.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BlacksmithPunkSmith.html",
+                                                   "size":  14625929,
+                                                   "sha256":  "9f05c8ce1d0bc143224d07e8e9ae3071b774e24fc5eba16e57fed19111edbef6"
+                                               }
+                               },
+                     "source_sha256":  "44b7ab24fbbc305e5646316bebaf5e011aa59a3fbec024eab3b1d9d12e3d94e8",
+                     "updated":  "2026-11-25"
                  },
                  {
                      "id":  "BloodHunterFusionHunter",
@@ -2087,6 +2180,37 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "DefilerChaosRealmKali",
+                     "kind":  "heroes",
+                     "name":  "Defiler - Chaos Realm Kali",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "defiler/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/DefilerChaosRealmKali/DefilerChaosRealmKali.psd1",
+                     "icon":  "mods/DefilerChaosRealmKali/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DefilerChaosRealmKali.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DefilerChaosRealmKali.zip",
+                                               "size":  9739501,
+                                               "sha256":  "9103b44899d0c9b82af0e2f0c917655ba8f155f9cd0024095340c21f2fa3df30"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DefilerChaosRealmKali.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DefilerChaosRealmKali.html",
+                                                   "size":  23366921,
+                                                   "sha256":  "0fcc0e9a4dcdfc79b34fd174097c462c8fc1fe3dce7d8f18a8d87c01926925b7"
+                                               }
+                               },
+                     "source_sha256":  "16d8a9f3cb7e4d7580c4dbaacc6ebfb0b0ca8e66ff4030ae02d15b633a8a0a92",
+                     "updated":  "2026-11-25"
+                 },
+                 {
                      "id":  "DefilerKrasue",
                      "kind":  "heroes",
                      "name":  "Defiler - Krasue",
@@ -2147,6 +2271,37 @@
                                },
                      "source_sha256":  "057ae33c0dc7015b7885649dce3170ac34f548c2b4130abf909801a21e1dbcc0",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "DefilerPhantom",
+                     "kind":  "heroes",
+                     "name":  "Defiler - Phantom",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "defiler/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/DefilerPhantom/DefilerPhantom.psd1",
+                     "icon":  "mods/DefilerPhantom/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DefilerPhantom.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DefilerPhantom.zip",
+                                               "size":  7775946,
+                                               "sha256":  "8b9dc5d31fab3de53083b9a9f958ee3f0b5f168bac58cd18c4c665a10bb00937"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DefilerPhantom.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DefilerPhantom.html",
+                                                   "size":  16363519,
+                                                   "sha256":  "d87c6694b1dde7aaaec60e30a4ee70d0b6f787cc3cc298d9fd13a9ab2b998ca4"
+                                               }
+                               },
+                     "source_sha256":  "5e7281d8f57e99b468266ea0e054ac944edeb57f16d8689c87660fb82379d84d",
+                     "updated":  "2026-11-25"
                  },
                  {
                      "id":  "DementedShamanWinterShaman",
@@ -5063,6 +5218,68 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "MalikenAdkarnaKing",
+                     "kind":  "heroes",
+                     "name":  "Maliken - Adkarna King",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "maliken/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/MalikenAdkarnaKing/MalikenAdkarnaKing.psd1",
+                     "icon":  "mods/MalikenAdkarnaKing/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MalikenAdkarnaKing.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MalikenAdkarnaKing.zip",
+                                               "size":  16441346,
+                                               "sha256":  "75ae4e8c25258af5f0a9f920e4cd6b7cc7d97d1aa0488c31ca5387c5e4603b61"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MalikenAdkarnaKing.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MalikenAdkarnaKing.html",
+                                                   "size":  16390658,
+                                                   "sha256":  "2c6bc0d0ff2abe018253d298b3eab81ff3e5369a3ce7a89028f76a09dbc6befe"
+                                               }
+                               },
+                     "source_sha256":  "588c76a3d115f9ec37c945764871d83ce5ffc08a532238162e5eab2303154721",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "MalikenCaoCao",
+                     "kind":  "heroes",
+                     "name":  "Maliken - Cao Cao",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "maliken/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/MalikenCaoCao/MalikenCaoCao.psd1",
+                     "icon":  "mods/MalikenCaoCao/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MalikenCaoCao.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MalikenCaoCao.zip",
+                                               "size":  19106040,
+                                               "sha256":  "3a10d544b88f5a1d4514401a2831552233a79d3845abf588bd4f8a1554b5bfbb"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MalikenCaoCao.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MalikenCaoCao.html",
+                                                   "size":  15732924,
+                                                   "sha256":  "898815727f79062b0ccc1f28f95a4dd2a152ac4640bbb5aff3737dea86b0dbaf"
+                                               }
+                               },
+                     "source_sha256":  "3bf306d2e40be06f778cd7e41d5ce8554a786c4234de32d6ade1c15b1737a087",
+                     "updated":  "2026-11-25"
+                 },
+                 {
                      "id":  "MalikenFusion",
                      "kind":  "heroes",
                      "name":  "Maliken - Fusion",
@@ -5092,6 +5309,37 @@
                                },
                      "source_sha256":  "ba4f15c37cb65a2b7f9a6eebe0d1a35aef7260860dcce6796b4c7ed4b24f8f18",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MalikenVolto",
+                     "kind":  "heroes",
+                     "name":  "Maliken - Volto",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "maliken/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/MalikenVolto/MalikenVolto.psd1",
+                     "icon":  "mods/MalikenVolto/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MalikenVolto.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MalikenVolto.zip",
+                                               "size":  20098457,
+                                               "sha256":  "5ee6befdbbb72b98698e428f3f7dda1d39f6c1dbb4b45e59b30f2b45b9a91af4"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MalikenVolto.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MalikenVolto.html",
+                                                   "size":  16249270,
+                                                   "sha256":  "2ab35cde25729f4177049b24392fde9fc99af1036200579ceced352cf29bd818"
+                                               }
+                               },
+                     "source_sha256":  "65fef8205df79fc58040df86d9475e19ffdc2b4dfce29f1c685a9b687cadca18",
+                     "updated":  "2026-11-25"
                  },
                  {
                      "id":  "MartyrSisterDeath",
@@ -6301,6 +6549,68 @@
                                },
                      "source_sha256":  "dfceac7214a31fe99ff54de5dbbff337aa75e77f53797f64ccde7616fcfff541",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "PharaohCyberianHusky",
+                     "kind":  "heroes",
+                     "name":  "Pharaoh - Cyberian Husky",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pharaoh/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/PharaohCyberianHusky/PharaohCyberianHusky.psd1",
+                     "icon":  "mods/PharaohCyberianHusky/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PharaohCyberianHusky.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PharaohCyberianHusky.zip",
+                                               "size":  9944837,
+                                               "sha256":  "55bd133e0e80e451815677a7a6275eaabb1e7b59bc247befbfa892b50a59e051"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PharaohCyberianHusky.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PharaohCyberianHusky.html",
+                                                   "size":  18400846,
+                                                   "sha256":  "3f7cbad6e9ff6f9d50335068dd89b3e9ae0c0ccceb88c65da54c0f2cdd1ede8f"
+                                               }
+                               },
+                     "source_sha256":  "f2f21819de8464cb1445e378b066b328883f0e3e0d3298eae0bc3864e3f15afe",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "PharaohGoldenEmperor",
+                     "kind":  "heroes",
+                     "name":  "Pharaoh - Golden Emperor",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "pharaoh/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/PharaohGoldenEmperor/PharaohGoldenEmperor.psd1",
+                     "icon":  "mods/PharaohGoldenEmperor/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "PharaohGoldenEmperor.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/PharaohGoldenEmperor.zip",
+                                               "size":  9722025,
+                                               "sha256":  "6f83e35eb4112e58105579075ac90d52bfaf39c07e61cb25fdbcc3663f32977b"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "PharaohGoldenEmperor.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/PharaohGoldenEmperor.html",
+                                                   "size":  16228157,
+                                                   "sha256":  "53e042d1d804b01df7d6373e642c572d0bf71d8ee2c4e845e28a05658de316a6"
+                                               }
+                               },
+                     "source_sha256":  "c47d73fbaca5cef86462390b7f2c30d4003f212800f015f12887bdc849734d7a",
+                     "updated":  "2026-11-25"
                  },
                  {
                      "id":  "PlagueRiderFrostRider",
@@ -8907,6 +9217,99 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "TorturerBloodstone",
+                     "kind":  "heroes",
+                     "name":  "Torturer - Bloodstone",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "torturer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/TorturerBloodstone/TorturerBloodstone.psd1",
+                     "icon":  "mods/TorturerBloodstone/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TorturerBloodstone.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TorturerBloodstone.zip",
+                                               "size":  8706475,
+                                               "sha256":  "365556ee08265921295893711c6966f66de80a634dd614ea2ce34a80839d017e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TorturerBloodstone.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TorturerBloodstone.html",
+                                                   "size":  16223757,
+                                                   "sha256":  "d5f941de6002dd95da2eff28ebd216b0198576c14af319225b111d3de222c520"
+                                               }
+                               },
+                     "source_sha256":  "f4e0c5401fe29156974c3f020ab645bf35b2761d7ab96ba29d90cc47305e77cc",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "TorturerDominatrix",
+                     "kind":  "heroes",
+                     "name":  "Torturer - Dominatrix",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "torturer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/TorturerDominatrix/TorturerDominatrix.psd1",
+                     "icon":  "mods/TorturerDominatrix/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TorturerDominatrix.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TorturerDominatrix.zip",
+                                               "size":  9032242,
+                                               "sha256":  "e5e39682eb35235a50abbd1d64ffb1b9806f5cc83421ac7f2527b602107b5d98"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TorturerDominatrix.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TorturerDominatrix.html",
+                                                   "size":  15887423,
+                                                   "sha256":  "ea2988d39d9fecd345165b86f9c44e6db742ef9f22a7b5ea32853f750207d5f6"
+                                               }
+                               },
+                     "source_sha256":  "a3148fbe0155f5c9d5e2cb173f54f60278a199e4ea6453c58ee2c716514476de",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "TorturerMermaid",
+                     "kind":  "heroes",
+                     "name":  "Torturer - Mermaid",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "torturer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/TorturerMermaid/TorturerMermaid.psd1",
+                     "icon":  "mods/TorturerMermaid/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "TorturerMermaid.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/TorturerMermaid.zip",
+                                               "size":  10665947,
+                                               "sha256":  "9b21311954e363df6ef6a6cd0ce0fb53dcfa4eaeee35911d49d59b08f8f141db"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "TorturerMermaid.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/TorturerMermaid.html",
+                                                   "size":  17438906,
+                                                   "sha256":  "a86200603bea06eb69edfd0e4f5abd2aa91d7029c5f27e2bb163769af54b2dac"
+                                               }
+                               },
+                     "source_sha256":  "f34847be95b93cd761eae91dd298630bd81befb2d04b4205664e1059e0cb0972",
+                     "updated":  "2026-11-25"
+                 },
+                 {
                      "id":  "TorturerMisery",
                      "kind":  "heroes",
                      "name":  "Torturer - Misery",
@@ -9308,6 +9711,68 @@
                                },
                      "source_sha256":  "b802b93a9d6d8943f42996952be9b550a612b56c5d45f417b1338a0b6bc0ff54",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "WitchSlayerLapisLazuli",
+                     "kind":  "heroes",
+                     "name":  "Witch Slayer - Lapis Lazuli",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "witch_slayer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/WitchSlayerLapisLazuli/WitchSlayerLapisLazuli.psd1",
+                     "icon":  "mods/WitchSlayerLapisLazuli/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WitchSlayerLapisLazuli.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WitchSlayerLapisLazuli.zip",
+                                               "size":  9190273,
+                                               "sha256":  "350266aef61af011cf0ea85fd238e0eea6a05962ea78dd815639dcdc3b5db602"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WitchSlayerLapisLazuli.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WitchSlayerLapisLazuli.html",
+                                                   "size":  16006384,
+                                                   "sha256":  "7e3dad58067e4881a42817f07c811114833bbf6253531f6f75b671e5c970ec99"
+                                               }
+                               },
+                     "source_sha256":  "7eee8282c3350deeda22211aa3de0f40ce8ae59ef4a378a7ac9b1759ff23a5d9",
+                     "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "WitchSlayerSinSlayer",
+                     "kind":  "heroes",
+                     "name":  "Witch Slayer - Sin Slayer",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "witch_slayer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-25",
+                     "patch":  false,
+                     "psd1":  "mods/WitchSlayerSinSlayer/WitchSlayerSinSlayer.psd1",
+                     "icon":  "mods/WitchSlayerSinSlayer/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "WitchSlayerSinSlayer.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/WitchSlayerSinSlayer.zip",
+                                               "size":  11823425,
+                                               "sha256":  "2e9a25800df26bec8da5b5a6ed12ec71f7844c6a6d656e20e11035a16bcdfec9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "WitchSlayerSinSlayer.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/WitchSlayerSinSlayer.html",
+                                                   "size":  19184953,
+                                                   "sha256":  "e7280203b61290f904ffe443dcb6d88b75d0e10c6ee1d358643a7e8c8d66862f"
+                                               }
+                               },
+                     "source_sha256":  "5cc9ae96888f67e295af0bc3dbb93e795e8523f6ed64a141f47e8e366c96e4f1",
+                     "updated":  "2026-11-25"
                  },
                  {
                      "id":  "WretchedHagAlexandrite",
