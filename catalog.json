@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-26T21:42:32+01:00",
+    "generated":  "2026-11-26T22:23:10+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  9187019,
-                  "sha256":  "e5388c10af8d552f0c5f2ecbb208c139dc942664a0ab28347c41218c1709699c"
+                  "size":  9206581,
+                  "sha256":  "454a77ab714bff2956dedc10edab1127cc3d1cb14542cd588a9a917ba2bb58fc"
               },
     "mods":  [
                  {
@@ -2893,6 +2893,68 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "EmpathEmerald",
+                     "kind":  "heroes",
+                     "name":  "Empath - Emerald",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "empath/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/EmpathEmerald/EmpathEmerald.psd1",
+                     "icon":  "mods/EmpathEmerald/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EmpathEmerald.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EmpathEmerald.zip",
+                                               "size":  9867744,
+                                               "sha256":  "41659fbb577b3aa6dd8370ee4b50d2a905970f9e0eb9c4f84821730006f05230"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EmpathEmerald.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EmpathEmerald.html",
+                                                   "size":  16629784,
+                                                   "sha256":  "b5aa7f4279eb9b5d01f5c2dd21a3eefafa11f4b8c8ea6d1bfd3635ed3120c064"
+                                               }
+                               },
+                     "source_sha256":  "0b7fb7848843a13d844ed70cfcbd6dc186379ffeba24442dbb780dd18a4e36ec",
+                     "updated":  "2026-11-26"
+                 },
+                 {
+                     "id":  "EmpathGaia",
+                     "kind":  "heroes",
+                     "name":  "Empath - Gaia",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "empath/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/EmpathGaia/EmpathGaia.psd1",
+                     "icon":  "mods/EmpathGaia/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "EmpathGaia.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/EmpathGaia.zip",
+                                               "size":  10404030,
+                                               "sha256":  "61965f7c5a614723f8fc5197e1543d07a858185cf807a6affbb4cb07a095be55"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "EmpathGaia.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/EmpathGaia.html",
+                                                   "size":  16752736,
+                                                   "sha256":  "6ae9e11fade06813725edc483aeaa1a1c501fd319d0647068ca04e9ecd9de1c5"
+                                               }
+                               },
+                     "source_sha256":  "13454f23a2a1b981e66c3a708848786b8ac3487074955cd9e85149a8706b7686",
+                     "updated":  "2026-11-26"
+                 },
+                 {
                      "id":  "EmpathNangTani",
                      "kind":  "heroes",
                      "name":  "Empath - Nang Tani",
@@ -3654,8 +3716,8 @@
                                    "zip":  {
                                                "asset":  "GeomancerChameleonBasilisk.zip",
                                                "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GeomancerChameleonBasilisk.zip",
-                                               "size":  10947193,
-                                               "sha256":  "d51800bb6c53a2605f9aa8a48056894db5a9e37812a8a8b2107f0c4f0cd74771"
+                                               "size":  10947288,
+                                               "sha256":  "4440cfc2595c8b2640e8b3955d2202d11ad04ab510c3906b8807cc637655da00"
                                            },
                                    "preview":  {
                                                    "asset":  "GeomancerChameleonBasilisk.html",
@@ -3664,7 +3726,7 @@
                                                    "sha256":  "d042fcc2fd198985e83205e00714fe5ed41745722bcc2b80817fc4f74d6eba0c"
                                                }
                                },
-                     "source_sha256":  "032c1ffb1cf1b5770252ba576a045fb1987bedbe5fa2ed49fdc37cbee0d5a80d",
+                     "source_sha256":  "8b3596c99934706c5e838dd5d4117f5c37f354bdf3029f652c4180a03268eb30",
                      "updated":  "2026-11-26"
                  },
                  {
