@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-25T21:57:43+01:00",
+    "generated":  "2026-11-26T21:42:32+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  9121400,
-                  "sha256":  "bae11ab54b25ecf5081d4343ab8912f1829c3a609ac7941f424a52ddb4aa2cff"
+                  "size":  9187019,
+                  "sha256":  "e5388c10af8d552f0c5f2ecbb208c139dc942664a0ab28347c41218c1709699c"
               },
     "mods":  [
                  {
@@ -3606,6 +3606,99 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "GeomancerBasilisk",
+                     "kind":  "heroes",
+                     "name":  "Geomancer - Basilisk",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "geomancer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/GeomancerBasilisk/GeomancerBasilisk.psd1",
+                     "icon":  "mods/GeomancerBasilisk/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GeomancerBasilisk.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GeomancerBasilisk.zip",
+                                               "size":  10687745,
+                                               "sha256":  "be95a62dc9d6b59563457524b3ee69da23bb251e8904ea7adba397233954a275"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GeomancerBasilisk.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GeomancerBasilisk.html",
+                                                   "size":  17989547,
+                                                   "sha256":  "517aa5b45f2e66a733e81d3208bc00b63b3f1ec71f48ca53030fbae5387d1801"
+                                               }
+                               },
+                     "source_sha256":  "9952bb79cac512c398445cdb077b9cc1293ea2a5333abf4d304088350707b333",
+                     "updated":  "2026-11-26"
+                 },
+                 {
+                     "id":  "GeomancerChameleonBasilisk",
+                     "kind":  "heroes",
+                     "name":  "Geomancer - Chameleon Basilisk",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "geomancer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/GeomancerChameleonBasilisk/GeomancerChameleonBasilisk.psd1",
+                     "icon":  "mods/GeomancerChameleonBasilisk/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GeomancerChameleonBasilisk.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GeomancerChameleonBasilisk.zip",
+                                               "size":  10947193,
+                                               "sha256":  "d51800bb6c53a2605f9aa8a48056894db5a9e37812a8a8b2107f0c4f0cd74771"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GeomancerChameleonBasilisk.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GeomancerChameleonBasilisk.html",
+                                                   "size":  12068327,
+                                                   "sha256":  "d042fcc2fd198985e83205e00714fe5ed41745722bcc2b80817fc4f74d6eba0c"
+                                               }
+                               },
+                     "source_sha256":  "032c1ffb1cf1b5770252ba576a045fb1987bedbe5fa2ed49fdc37cbee0d5a80d",
+                     "updated":  "2026-11-26"
+                 },
+                 {
+                     "id":  "GeomancerLeviathan",
+                     "kind":  "heroes",
+                     "name":  "Geomancer - Leviathan",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "geomancer/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/GeomancerLeviathan/GeomancerLeviathan.psd1",
+                     "icon":  "mods/GeomancerLeviathan/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "GeomancerLeviathan.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/GeomancerLeviathan.zip",
+                                               "size":  11811499,
+                                               "sha256":  "0a073839977a1b37c13175906d8548c39ad758289313320045eec873220c2555"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "GeomancerLeviathan.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/GeomancerLeviathan.html",
+                                                   "size":  18560826,
+                                                   "sha256":  "027a73657b41f8eaea47838af767ca14b457dee517d38c9bee054f113d35ee66"
+                                               }
+                               },
+                     "source_sha256":  "0832c61a2a38f68fec3c089769167a7ff8a04e8a4b8b666dc3701b44dd4a95f4",
+                     "updated":  "2026-11-26"
+                 },
+                 {
                      "id":  "GlaciusJoven",
                      "kind":  "heroes",
                      "name":  "Glacius - Joven",
@@ -5526,6 +5619,130 @@
                                },
                      "source_sha256":  "c07bea3dd71e945700d16628dc334b75f37a8992d6aad444d68d3f0a5235a7b3",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "MidasCircusBearGoldie",
+                     "kind":  "heroes",
+                     "name":  "Midas - Circus Bear Goldie",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "midas/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/MidasCircusBearGoldie/MidasCircusBearGoldie.psd1",
+                     "icon":  "mods/MidasCircusBearGoldie/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MidasCircusBearGoldie.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MidasCircusBearGoldie.zip",
+                                               "size":  18372125,
+                                               "sha256":  "ec56270cc5376f4554cd890062850ba28ec6b2a1da62ef48f97febddcdbf5c4f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MidasCircusBearGoldie.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MidasCircusBearGoldie.html",
+                                                   "size":  26532001,
+                                                   "sha256":  "f1d71484990194e463fdd8b5e454fd2ab1b2f52c15ee095380a789e3af09b6ca"
+                                               }
+                               },
+                     "source_sha256":  "2fc9995b191510e1e480bce8aed27ccbb4fde818beab6328a451c8f429a60946",
+                     "updated":  "2026-11-26"
+                 },
+                 {
+                     "id":  "MidasCoralSnakeMedusa",
+                     "kind":  "heroes",
+                     "name":  "Midas - Coral Snake Medusa",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "midas/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/MidasCoralSnakeMedusa/MidasCoralSnakeMedusa.psd1",
+                     "icon":  "mods/MidasCoralSnakeMedusa/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MidasCoralSnakeMedusa.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MidasCoralSnakeMedusa.zip",
+                                               "size":  9196748,
+                                               "sha256":  "0eb432911d19106fc3255715c818c7d88a39c6217ab8333588279a989a558d5e"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MidasCoralSnakeMedusa.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MidasCoralSnakeMedusa.html",
+                                                   "size":  14803656,
+                                                   "sha256":  "1eae0e5f88849eb218b1d6cf2ee7b482a548b623b096ac8113701ab9b1f1374f"
+                                               }
+                               },
+                     "source_sha256":  "9a1bdff8ecddc8e11cd02afc491c11ec1a6ee14019f6ae13ca8cf75cbf65acff",
+                     "updated":  "2026-11-26"
+                 },
+                 {
+                     "id":  "MidasMedusaMidas",
+                     "kind":  "heroes",
+                     "name":  "Midas - Medusa Midas",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "midas/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/MidasMedusaMidas/MidasMedusaMidas.psd1",
+                     "icon":  "mods/MidasMedusaMidas/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MidasMedusaMidas.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MidasMedusaMidas.zip",
+                                               "size":  8318821,
+                                               "sha256":  "c3b554067027251031f819e6de76e763425608208317b5bc8c3d5ee3c548e199"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MidasMedusaMidas.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MidasMedusaMidas.html",
+                                                   "size":  13237794,
+                                                   "sha256":  "7c58d889083f5bb6af744aadf4c12de8dc6b543dfaff9cc73933362bd01f36da"
+                                               }
+                               },
+                     "source_sha256":  "832b1dfbbda3e17f44c7c62968997f4abe965c59de6b8da711c87debda5aa163",
+                     "updated":  "2026-11-26"
+                 },
+                 {
+                     "id":  "MidasSterlingMidas",
+                     "kind":  "heroes",
+                     "name":  "Midas - Sterling Midas",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "midas/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-26",
+                     "patch":  false,
+                     "psd1":  "mods/MidasSterlingMidas/MidasSterlingMidas.psd1",
+                     "icon":  "mods/MidasSterlingMidas/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "MidasSterlingMidas.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/MidasSterlingMidas.zip",
+                                               "size":  10331622,
+                                               "sha256":  "d2ef89344cf9f9ae5acbe19a969ab74eed3082b96040ecb2a593599f2135ddb7"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "MidasSterlingMidas.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/MidasSterlingMidas.html",
+                                                   "size":  17421280,
+                                                   "sha256":  "9820dd20929cbb4fb710bb634fb20b47fd3c005e03ec750cb634a0d2d1d21946"
+                                               }
+                               },
+                     "source_sha256":  "b3baa30ade353c71c7fe85a949db74c47011de5fef29e57e1a71d084befdf1cf",
+                     "updated":  "2026-11-26"
                  },
                  {
                      "id":  "MonkeyKingQueenOfFools",
