@@ -1,12 +1,12 @@
 {
     "schema":  1,
-    "generated":  "2026-11-26T22:23:10+01:00",
+    "generated":  "2026-11-27T20:57:44+01:00",
     "repo":  "RebornModManager/heroes",
     "icons":  {
                   "asset":  "icons.zip",
                   "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/icons.zip",
-                  "size":  9206581,
-                  "sha256":  "454a77ab714bff2956dedc10edab1127cc3d1cb14542cd588a9a917ba2bb58fc"
+                  "size":  9293673,
+                  "sha256":  "9c0fca947b4154d90f4063fe4464b128ba84ca6657d599da7b613d45bda213f8"
               },
     "mods":  [
                  {
@@ -1219,6 +1219,99 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "BushwackFLEXBushwack",
+                     "kind":  "heroes",
+                     "name":  "Bushwack - F.L.E.X. Bushwack",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bushwack/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/BushwackFLEXBushwack/BushwackFLEXBushwack.psd1",
+                     "icon":  "mods/BushwackFLEXBushwack/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BushwackFLEXBushwack.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BushwackFLEXBushwack.zip",
+                                               "size":  11382729,
+                                               "sha256":  "74560ef55dda20c912a5be947830747b65d4d7e83e0df5ada52afc1a5bddc68f"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BushwackFLEXBushwack.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BushwackFLEXBushwack.html",
+                                                   "size":  26442069,
+                                                   "sha256":  "13f28a0c41e797fe651eac60090318a3736a1e3e082619ccb2abf8d804004b33"
+                                               }
+                               },
+                     "source_sha256":  "f253b571423aec48a65241d6a0b23018d57c336207ad5edad42570b4812addce",
+                     "updated":  "2026-11-27"
+                 },
+                 {
+                     "id":  "BushwackHarcoon",
+                     "kind":  "heroes",
+                     "name":  "Bushwack - Harcoon",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bushwack/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/BushwackHarcoon/BushwackHarcoon.psd1",
+                     "icon":  "mods/BushwackHarcoon/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BushwackHarcoon.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BushwackHarcoon.zip",
+                                               "size":  8841880,
+                                               "sha256":  "956b93445937eacaf553e8aae36e31c65c8484ed01b77a0fec643a4372807722"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BushwackHarcoon.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BushwackHarcoon.html",
+                                                   "size":  13435594,
+                                                   "sha256":  "0f98d9ef4c37c0969bd2d73ea2d32a0542906c9097113a27308dbd71442dcaa9"
+                                               }
+                               },
+                     "source_sha256":  "eccd2f27d311dcb208e9b6bc1e3658e03f640a82ba34dfaae8f1efd2d0c3c2e3",
+                     "updated":  "2026-11-27"
+                 },
+                 {
+                     "id":  "BushwackHunterBushwack",
+                     "kind":  "heroes",
+                     "name":  "Bushwack - Hunter Bushwack",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "bushwack/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/BushwackHunterBushwack/BushwackHunterBushwack.psd1",
+                     "icon":  "mods/BushwackHunterBushwack/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "BushwackHunterBushwack.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/BushwackHunterBushwack.zip",
+                                               "size":  9733878,
+                                               "sha256":  "f800f4daad67fb5b788caaa55c218516170c10ed560fbaf2ebe4baa14d5872f9"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "BushwackHunterBushwack.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/BushwackHunterBushwack.html",
+                                                   "size":  18580152,
+                                                   "sha256":  "99236e17b62eb29684206abcca9a99d7e6d9410918703773caa447267dc89714"
+                                               }
+                               },
+                     "source_sha256":  "055ef6d25861866a06183715ab3205965c6d6a7c3fada1ee1530938c8774d310",
+                     "updated":  "2026-11-27"
+                 },
+                 {
                      "id":  "BushwackMechHuntress",
                      "kind":  "heroes",
                      "name":  "Bushwack - Mech Huntress",
@@ -2302,6 +2395,99 @@
                                },
                      "source_sha256":  "5e7281d8f57e99b468266ea0e054ac944edeb57f16d8689c87660fb82379d84d",
                      "updated":  "2026-11-25"
+                 },
+                 {
+                     "id":  "DementedShamanDementedWitch",
+                     "kind":  "heroes",
+                     "name":  "Demented Shaman - Demented Witch",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "demented_shaman/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/DementedShamanDementedWitch/DementedShamanDementedWitch.psd1",
+                     "icon":  "mods/DementedShamanDementedWitch/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DementedShamanDementedWitch.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DementedShamanDementedWitch.zip",
+                                               "size":  9911919,
+                                               "sha256":  "df70026b667d6d68650af0e0f2c60db886e89ea6296138d34067c2a9806a4563"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DementedShamanDementedWitch.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DementedShamanDementedWitch.html",
+                                                   "size":  15466805,
+                                                   "sha256":  "8e6e764891bcf5db20e92967ca7f1df9a259309a3a5bdd175148b63a93fe27f6"
+                                               }
+                               },
+                     "source_sha256":  "554a484de0251a49d725fd264ed49f79e0a4759cc9a4432988a80e9ac0ca25fb",
+                     "updated":  "2026-11-27"
+                 },
+                 {
+                     "id":  "DementedShamanGoddessArmorAthena",
+                     "kind":  "heroes",
+                     "name":  "Demented Shaman - Goddess Armor Athena",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "demented_shaman/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/DementedShamanGoddessArmorAthena/DementedShamanGoddessArmorAthena.psd1",
+                     "icon":  "mods/DementedShamanGoddessArmorAthena/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DementedShamanGoddessArmorAthena.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DementedShamanGoddessArmorAthena.zip",
+                                               "size":  11957337,
+                                               "sha256":  "d74a5dde5011d9f1a7436833079e3c3a4aeab4fca3542f4d86e16b871348464d"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DementedShamanGoddessArmorAthena.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DementedShamanGoddessArmorAthena.html",
+                                                   "size":  22715294,
+                                                   "sha256":  "02f79c5c00ac4a4524d86f9396376dfac2874d3c3af73f4d55868e0346e0ac1a"
+                                               }
+                               },
+                     "source_sha256":  "678f0c80278152541ccfa858a48a07ca49c6d7123e646c822ea250ca97ba1bc1",
+                     "updated":  "2026-11-27"
+                 },
+                 {
+                     "id":  "DementedShamanLollipopShaman",
+                     "kind":  "heroes",
+                     "name":  "Demented Shaman - Lollipop Shaman",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "demented_shaman/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/DementedShamanLollipopShaman/DementedShamanLollipopShaman.psd1",
+                     "icon":  "mods/DementedShamanLollipopShaman/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "DementedShamanLollipopShaman.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/DementedShamanLollipopShaman.zip",
+                                               "size":  9783258,
+                                               "sha256":  "1e72eb6208e7e45867b007680c6bfe0673a747efd528b254d849b885590c3c65"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "DementedShamanLollipopShaman.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/DementedShamanLollipopShaman.html",
+                                                   "size":  25325708,
+                                                   "sha256":  "2a6b85a71ceda155eb29ff7e0d640419746f025c339c622541b50fb6e8d1a9c0"
+                                               }
+                               },
+                     "source_sha256":  "576eac9e83fd0afa0359f307227d7a90323af0deabe0eca8f7e68b01fb7a50b1",
+                     "updated":  "2026-11-27"
                  },
                  {
                      "id":  "DementedShamanWinterShaman",
@@ -4691,6 +4877,37 @@
                      "updated":  "2026-11-23"
                  },
                  {
+                     "id":  "KlanxFirefighter",
+                     "kind":  "heroes",
+                     "name":  "Klanx - Firefighter",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "klanx/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/KlanxFirefighter/KlanxFirefighter.psd1",
+                     "icon":  "mods/KlanxFirefighter/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KlanxFirefighter.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KlanxFirefighter.zip",
+                                               "size":  12286809,
+                                               "sha256":  "bd2d7aa3fe3ee27ebbca72f766a649fbf6990b10a77335abba4d9aa9170eac14"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KlanxFirefighter.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KlanxFirefighter.html",
+                                                   "size":  16530922,
+                                                   "sha256":  "63ee674062a2d337d4c7c255e44fb3e4779dd5800e09fe9fc360f10529166958"
+                                               }
+                               },
+                     "source_sha256":  "0d8818f3ec001d6a0d20f58ccbf28f689cbfcbd5970ec607c9f9b2ba99ff85bb",
+                     "updated":  "2026-11-27"
+                 },
+                 {
                      "id":  "KlanxShamrockKlanx",
                      "kind":  "heroes",
                      "name":  "Klanx - Shamrock",
@@ -4720,6 +4937,68 @@
                                },
                      "source_sha256":  "1152597f3dd0c623c454b216d0661fb31287bae5b65a47578124cb96b74b5191",
                      "updated":  "2026-11-23"
+                 },
+                 {
+                     "id":  "KlanxSkyPirate",
+                     "kind":  "heroes",
+                     "name":  "Klanx - Sky Pirate",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "klanx/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/KlanxSkyPirate/KlanxSkyPirate.psd1",
+                     "icon":  "mods/KlanxSkyPirate/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KlanxSkyPirate.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KlanxSkyPirate.zip",
+                                               "size":  10438567,
+                                               "sha256":  "0babbd23bc7432f78c472884ab1ac126a601a501dd504f5d2ec9158a2b8bfd5a"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KlanxSkyPirate.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KlanxSkyPirate.html",
+                                                   "size":  13739609,
+                                                   "sha256":  "68753e80f261d1c2b899e5b7de6121f0eec00839f293832f4b2190cafdfc9a4b"
+                                               }
+                               },
+                     "source_sha256":  "59f6963c9bf584e1492195ffb1b07b526ec72b9580b023d853358cb87410d948",
+                     "updated":  "2026-11-27"
+                 },
+                 {
+                     "id":  "KlanxWinterSoldier",
+                     "kind":  "heroes",
+                     "name":  "Klanx - Winter Soldier",
+                     "description":  "Hero skin mod.",
+                     "category":  "Hero",
+                     "type":  "",
+                     "group":  "klanx/base",
+                     "badge":  "test",
+                     "tested":  "",
+                     "added":  "2026-11-27",
+                     "patch":  false,
+                     "psd1":  "mods/KlanxWinterSoldier/KlanxWinterSoldier.psd1",
+                     "icon":  "mods/KlanxWinterSoldier/icon.dds",
+                     "files":  {
+                                   "zip":  {
+                                               "asset":  "KlanxWinterSoldier.zip",
+                                               "url":  "https://github.com/RebornModManager/heroes/releases/download/mods/KlanxWinterSoldier.zip",
+                                               "size":  15521586,
+                                               "sha256":  "35f0683ff77a440a354bc44af8ff53b6098f3924ebe2ac0e704b1279ef543980"
+                                           },
+                                   "preview":  {
+                                                   "asset":  "KlanxWinterSoldier.html",
+                                                   "url":  "https://github.com/RebornModManager/heroes/releases/download/previews/KlanxWinterSoldier.html",
+                                                   "size":  15430129,
+                                                   "sha256":  "ed3f6613c65bebad5281c739307d4c71ea48091952df93b90cc5ac75e7877961"
+                                               }
+                               },
+                     "source_sha256":  "3e377a8d59381fcaf31de368ee156446afcc7b8d53177c70d1cdda91924f367e",
+                     "updated":  "2026-11-27"
                  },
                  {
                      "id":  "KrakenCancer",
